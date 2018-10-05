@@ -1,6 +1,6 @@
 
 # Rescue Robotics
-
+[![Build Status](https://travis-ci.org/Rafcin/RescueRoboticsLHMV.svg?branch=master)](https://travis-ci.org/Rafcin/RescueRoboticsLHMV)
 ### Project Leads
 ##### Raf Szuminski - Project Lead 
 ##### Felix Murry - Manager 
