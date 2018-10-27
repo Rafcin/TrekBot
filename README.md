@@ -13,7 +13,7 @@ This wiki page contains how to work with the Catkin work spaces in ROS
 
 
 
-The MIT License
+## The MIT License
 
 Copyright (c) 2018-2019 Laguna Hills and Mission Vijeo High School
 
