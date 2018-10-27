@@ -7,8 +7,30 @@ Here are the instructions for setting up ROS Melodic on Ubuntu 18.04, keep in mi
 [ROS Install Instructions](https://github.com/Rafcin/TrekBot/wiki/ROS-Install)
 
 ## Catkin Workspace
-There are a few basic things to know before working on the project, when you start to work in the catkin work space, you have to follow certain procedures when installing or modifying files.
-1. When you add new packages such as a motor controller or a mapping package, you have to run `catkin_make` this will rebuild the work space and install the packages and fix all path issues. **WARNING** if you receive a build error, check if it has missing packages, 99% of the catkin errors you get result in missing packages, and all packages can be found at the ROS wiki page because all packages have existing pages with the git links you need to clone them.
-![Cartographer Wiki](https://i.imgur.com/IpoQa5Z.png)
-2. When you open a new console in a work space, you need to run `source devel/setup.bash` 
-this needs to run every time you open a new console and when you rebuild the work space.
+This wiki page contains how to work with the Catkin work spaces in ROS
+[Catkin Work Spaces Wiki](https://github.com/Rafcin/TrekBot/wiki/Working-with-Catkin-Work-Spaces)
+
+
+
+
+The MIT License
+
+Copyright (c) 2018-2019 Laguna Hills and Mission Vijeo High School
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
