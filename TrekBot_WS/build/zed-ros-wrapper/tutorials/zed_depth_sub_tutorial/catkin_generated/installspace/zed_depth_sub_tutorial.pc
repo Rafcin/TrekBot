@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot_WS/install
+
+Name: zed_depth_sub_tutorial
+Description: Description of zed_depth_sub_tutorial
+Version: 2.6.0
+Cflags: 
+Libs: -L/xavier_ssd/TrekBot/TrekBot_WS/install/lib 
+Requires: 

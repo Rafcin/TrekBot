@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# generated from catkin.builder module
+
+. "/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/zed_wrapper/setup.bash"

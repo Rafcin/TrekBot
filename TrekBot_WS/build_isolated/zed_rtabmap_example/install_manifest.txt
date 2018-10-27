@@ -1,0 +1,11 @@
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/_setup_util.py
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/env.sh
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/setup.bash
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/setup.sh
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/setup.zsh
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/.rosinstall
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/lib/pkgconfig/zed_rtabmap_example.pc
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/share/zed_rtabmap_example/cmake/zed_rtabmap_exampleConfig.cmake
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/share/zed_rtabmap_example/cmake/zed_rtabmap_exampleConfig-version.cmake
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/share/zed_rtabmap_example/package.xml
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/share/zed_rtabmap_example/launch/zed_rtabmap.launch

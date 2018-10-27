@@ -122,6 +122,14 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/xavier_ssd/TrekBot/TrekBot_WS/build/gtest/cmake_install.cmake")
+  include("/xavier_ssd/TrekBot/TrekBot_WS/build/zed-ros-wrapper/tutorials/zed_depth_sub_tutorial/cmake_install.cmake")
+  include("/xavier_ssd/TrekBot/TrekBot_WS/build/zed-ros-wrapper/zed_display_rviz/cmake_install.cmake")
+  include("/xavier_ssd/TrekBot/TrekBot_WS/build/zed-ros-wrapper/examples/zed_nodelet_example/cmake_install.cmake")
+  include("/xavier_ssd/TrekBot/TrekBot_WS/build/zed-ros-wrapper/zed_ros/cmake_install.cmake")
+  include("/xavier_ssd/TrekBot/TrekBot_WS/build/zed-ros-wrapper/examples/zed_rtabmap_example/cmake_install.cmake")
+  include("/xavier_ssd/TrekBot/TrekBot_WS/build/zed-ros-wrapper/tutorials/zed_tracking_sub_tutorial/cmake_install.cmake")
+  include("/xavier_ssd/TrekBot/TrekBot_WS/build/zed-ros-wrapper/tutorials/zed_video_sub_tutorial/cmake_install.cmake")
+  include("/xavier_ssd/TrekBot/TrekBot_WS/build/zed-ros-wrapper/zed_wrapper/cmake_install.cmake")
 
 endif()
 

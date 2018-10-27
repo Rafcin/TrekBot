@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot_WS/install_isolated
+
+Name: zed_nodelet_example
+Description: Description of zed_nodelet_example
+Version: 2.6.0
+Cflags: 
+Libs: -L/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/lib 
+Requires: 

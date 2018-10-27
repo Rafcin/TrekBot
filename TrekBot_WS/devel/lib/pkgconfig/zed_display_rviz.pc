@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot_WS/devel
+
+Name: zed_display_rviz
+Description: Description of zed_display_rviz
+Version: 2.6.0
+Cflags: 
+Libs: -L/xavier_ssd/TrekBot/TrekBot_WS/devel/lib 
+Requires: 
