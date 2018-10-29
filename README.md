@@ -4,11 +4,11 @@ Welcome to the **TrekBot** page, here is written all the source and information 
 
 ## ROS Setup
 Here are the instructions for setting up ROS Melodic on Ubuntu 18.04, keep in mind further down the tutorial the project will be talking about how to setup TrekBot environment specific things. The link leads to the wiki page on this repository.
-[ROS Install Instructions](https://github.com/Rafcin/TrekBot/wiki/ROS-Install)
+[ROS Install Instructions](https://github.com/Rafcin/TrekBot/wiki/1.-ROS-Install)
 
 ## Catkin Work Space
 This wiki page contains how to work with the Catkin work spaces in ROS
-[Catkin Work Spaces Wiki](https://github.com/Rafcin/TrekBot/wiki/Working-with-Catkin-Work-Spaces)
+[Catkin Work Spaces Wiki](https://github.com/Rafcin/TrekBot/wiki/2.-Working-with-Catkin-Work-Spaces)
 
 ## Using The Work Space
 Refer to the [Using The Work Space](https://github.com/Rafcin/TrekBot/wiki/3.-Using-The-ROS-Workspace) page.
