@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot_WS/install_isolated
+
+Name: qt_build
+Description: Description of qt_build
+Version: 0.2.10
+Cflags: 
+Libs: -L/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/lib 
+Requires: 

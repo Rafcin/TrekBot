@@ -1,0 +1,16 @@
+# ninja log v5
+0	168	1541116761	gflags_src-prefix/src/gflags_src-stamp/gflags_src-mkdir	65b8c59b0508e972
+169	1313	1541116762	gflags_src-prefix/src/gflags_src-stamp/gflags_src-download	ee8199f27234bda7
+1313	1368	1541116762	gflags_src-prefix/src/gflags_src-stamp/gflags_src-update	7b85ec6b2d92ca57
+1314	1369	1541116762	gflags_src-prefix/src/gflags_src-stamp/gflags_src-patch	fbb05b65d610cf74
+1369	7119	1541116768	gflags_src-prefix/src/gflags_src-stamp/gflags_src-configure	f0e1779e43849eea
+7120	16717	1541116778	gflags_src-prefix/src/gflags_src-stamp/gflags_src-build	85927e059fa07617
+16717	16983	1541116778	gflags_src-prefix/src/gflags_src-stamp/gflags_src-install	f0169651dc0d5330
+16984	17065	1541116778	CMakeFiles/gflags_src-complete	6b6607d85dad1327
+16984	17065	1541116778	gflags_src-prefix/src/gflags_src-stamp/gflags_src-done	6b6607d85dad1327
+0	43	0	CMakeFiles/install.util	dd6f55cdbd00f9eb
+0	41	0	CMakeFiles/install.util	dd6f55cdbd00f9eb
+0	37	0	CMakeFiles/install.util	dd6f55cdbd00f9eb
+0	41	0	CMakeFiles/install.util	dd6f55cdbd00f9eb
+1	39	0	CMakeFiles/install.util	dd6f55cdbd00f9eb
+0	38	0	CMakeFiles/install.util	dd6f55cdbd00f9eb

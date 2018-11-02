@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/minkindr
+
+Name: minkindr
+Description: Description of minkindr
+Version: 0.0.1
+Cflags: -I/xavier_ssd/TrekBot/TrekBot_WS/src/minkindr/minkindr/include
+Libs: -L/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/minkindr/lib 
+Requires: 

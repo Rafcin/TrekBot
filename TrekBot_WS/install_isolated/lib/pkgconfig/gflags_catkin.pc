@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot_WS/install_isolated
+
+Name: gflags_catkin
+Description: Description of gflags_catkin
+Version: 2.2.1
+Cflags: -I/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/include
+Libs: -L/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/lib -lgflags
+Requires: 

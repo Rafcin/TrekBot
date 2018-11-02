@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/catkin_simple
+
+Name: catkin_simple
+Description: Description of catkin_simple
+Version: 0.1.1
+Cflags: 
+Libs: -L/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/catkin_simple/lib 
+Requires: catkin

@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/xavier_ssd/TrekBot/TrekBot2_WS/devel -DCMAKE_INSTALL_PREFIX=/xavier_ssd/TrekBot/TrekBot2_WS/install -G Unix Makefiles

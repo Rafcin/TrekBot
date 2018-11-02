@@ -8,5 +8,5 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/zed_ros:$CMAKE_PREFIX_PATH"
-export ROSLISP_PACKAGE_DIRECTORIES="/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/zed_ros/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
+export ROSLISP_PACKAGE_DIRECTORIES="/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/zed_ros/share/common-lisp"
 export ROS_PACKAGE_PATH="/xavier_ssd/TrekBot/TrekBot_WS/src/zed-ros-wrapper/zed_ros:$ROS_PACKAGE_PATH"

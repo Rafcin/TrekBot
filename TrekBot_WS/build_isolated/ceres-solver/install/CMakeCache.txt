@@ -59,8 +59,8 @@ CHOLMOD_LIBRARY:FILEPATH=/usr/lib/aarch64-linux-gnu/libcholmod.so
 //Path to a program.
 CMAKE_AR:FILEPATH=/usr/bin/ar
 
-//Choose the type of build, options are: None Debug Release RelWithDebInfo
-// MinSizeRel.
+//Choose the type of build, options are: None(CMAKE_CXX_FLAGS or
+// CMAKE_C_FLAGS used) Debug Release RelWithDebInfo MinSizeRel.
 CMAKE_BUILD_TYPE:STRING=Release
 
 //CXX compiler

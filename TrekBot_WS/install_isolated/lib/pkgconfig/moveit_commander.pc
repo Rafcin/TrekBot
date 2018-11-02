@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot_WS/install_isolated
+
+Name: moveit_commander
+Description: Description of moveit_commander
+Version: 0.10.4
+Cflags: 
+Libs: -L/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/lib 
+Requires: 

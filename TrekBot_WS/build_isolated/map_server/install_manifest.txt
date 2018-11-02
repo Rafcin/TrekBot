@@ -1,0 +1,15 @@
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/_setup_util.py
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/env.sh
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/setup.bash
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/setup.sh
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/setup.zsh
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/.rosinstall
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/lib/pkgconfig/map_server.pc
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/share/map_server/cmake/map_serverConfig.cmake
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/share/map_server/cmake/map_serverConfig-version.cmake
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/share/map_server/package.xml
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/lib/map_server/map_saver
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/lib/map_server/map_server
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/lib/libmap_server_image_loader.so
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/include/map_server/image_loader.h
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/lib/map_server/crop_map

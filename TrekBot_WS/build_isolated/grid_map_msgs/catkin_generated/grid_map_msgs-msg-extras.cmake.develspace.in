@@ -1,0 +1,2 @@
+set(grid_map_msgs_MESSAGE_FILES "/xavier_ssd/TrekBot/TrekBot_WS/src/grid_map/grid_map_msgs/msg/GridMapInfo.msg;/xavier_ssd/TrekBot/TrekBot_WS/src/grid_map/grid_map_msgs/msg/GridMap.msg")
+set(grid_map_msgs_SERVICE_FILES "/xavier_ssd/TrekBot/TrekBot_WS/src/grid_map/grid_map_msgs/srv/GetGridMap.srv;/xavier_ssd/TrekBot/TrekBot_WS/src/grid_map/grid_map_msgs/srv/GetGridMapInfo.srv;/xavier_ssd/TrekBot/TrekBot_WS/src/grid_map/grid_map_msgs/srv/ProcessFile.srv")

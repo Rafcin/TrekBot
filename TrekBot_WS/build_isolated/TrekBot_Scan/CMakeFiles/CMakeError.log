@@ -1,0 +1,42 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /xavier_ssd/TrekBot/TrekBot_WS/build_isolated/TrekBot_Scan/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/ninja" "cmTC_f1a78"
+[1/2] Building C object CMakeFiles/cmTC_f1a78.dir/CheckSymbolExists.c.o
+[2/2] Linking C executable cmTC_f1a78
+FAILED: cmTC_f1a78 
+: && /usr/bin/cc   -rdynamic CMakeFiles/cmTC_f1a78.dir/CheckSymbolExists.c.o  -o cmTC_f1a78   && :
+CMakeFiles/cmTC_f1a78.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0x14): undefined reference to `pthread_create'
+CheckSymbolExists.c:(.text+0x18): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+ninja: build stopped: subcommand failed.
+
+File /xavier_ssd/TrekBot/TrekBot_WS/build_isolated/TrekBot_Scan/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /xavier_ssd/TrekBot/TrekBot_WS/build_isolated/TrekBot_Scan/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/ninja" "cmTC_1b6be"
+[1/2] Building C object CMakeFiles/cmTC_1b6be.dir/CheckFunctionExists.c.o
+[2/2] Linking C executable cmTC_1b6be
+FAILED: cmTC_1b6be 
+: && /usr/bin/cc -DCHECK_FUNCTION_EXISTS=pthread_create  -rdynamic CMakeFiles/cmTC_1b6be.dir/CheckFunctionExists.c.o  -o cmTC_1b6be  -lpthreads && :
+/usr/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+ninja: build stopped: subcommand failed.
+
+

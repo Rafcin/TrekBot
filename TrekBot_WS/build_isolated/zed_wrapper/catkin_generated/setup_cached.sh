@@ -8,5 +8,8 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/zed_wrapper:$CMAKE_PREFIX_PATH"
-export ROSLISP_PACKAGE_DIRECTORIES="/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/zed_wrapper/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
+export LD_LIBRARY_PATH="/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/zed_wrapper/lib:$LD_LIBRARY_PATH"
+export PKG_CONFIG_PATH="/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/zed_wrapper/lib/pkgconfig:$PKG_CONFIG_PATH"
+export PYTHONPATH="/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/zed_wrapper/lib/python2.7/dist-packages:$PYTHONPATH"
+export ROSLISP_PACKAGE_DIRECTORIES="/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/zed_wrapper/share/common-lisp"
 export ROS_PACKAGE_PATH="/xavier_ssd/TrekBot/TrekBot_WS/src/zed-ros-wrapper/zed_wrapper:$ROS_PACKAGE_PATH"

@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/grid_map_octomap
+
+Name: grid_map_octomap
+Description: Description of grid_map_octomap
+Version: 1.6.0
+Cflags: -I/xavier_ssd/TrekBot/TrekBot_WS/src/grid_map/grid_map_octomap/include -I/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/include
+Libs: -L/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/grid_map_octomap/lib -lgrid_map_octomap /xavier_ssd/TrekBot/TrekBot_WS/install_isolated/lib/liboctomap.so /xavier_ssd/TrekBot/TrekBot_WS/install_isolated/lib/liboctomath.so
+Requires: grid_map_core

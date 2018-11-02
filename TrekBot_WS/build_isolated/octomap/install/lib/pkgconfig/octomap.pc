@@ -1,0 +1,10 @@
+prefix=/xavier_ssd/TrekBot/TrekBot_WS/install_isolated
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: octomap
+Description: octomap
+Requires: 
+Version: 1.9.0
+Libs: -L${libdir}  -loctomap -loctomath
+Cflags: -I${includedir} 

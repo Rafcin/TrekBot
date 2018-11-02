@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/amcl
+
+Name: amcl
+Description: Description of amcl
+Version: 1.14.4
+Cflags: -I/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/amcl/include -I/xavier_ssd/TrekBot/TrekBot_WS/src/navigation_ros/amcl/include
+Libs: -L/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/amcl/lib -lamcl_sensors -lamcl_map -lamcl_pf
+Requires: rosbag roscpp dynamic_reconfigure tf nav_msgs std_srvs

@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: moveit_commander
+Version: 0.10.4
+Summary: Python interfaces to MoveIt
+Home-page: http://moveit.ros.org
+Author: Michael Görner <me@v4hn.de>, Robert Haschke <rhaschke@techfak.uni-bielefeld.de>, MoveIt! Release Team <moveit_releasers@googlegroups.com>
+Author-email: isucan@google.com
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN

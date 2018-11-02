@@ -1,0 +1,13 @@
+# ninja log v5
+2	55	1541118378	CMakeFiles/rtest.dir/test/test_constants.cpp.o	ca4d04caa225cac6
+4	2360	1541118380	CMakeFiles/map_server_image_loader.dir/src/image_loader.cpp.o	f4f727fed747edd8
+2364	2657	1541118381	/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/map_server/lib/libmap_server_image_loader.so	c1aa0dd3a3c2a9e
+3	4870	1541118383	CMakeFiles/map_server-map_saver.dir/src/map_saver.cpp.o	adc1b3308654f6b1
+4871	5380	1541118384	/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/map_server/lib/map_server/map_saver	5b695f6063cff8f0
+1	6551	1541118385	CMakeFiles/rtest.dir/test/rtest.cpp.o	5d62b949a992b037
+2	6803	1541118385	CMakeFiles/map_server.dir/src/main.cpp.o	a1ca0f8f50e8d8a3
+6804	7514	1541118386	/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/map_server/lib/map_server/map_server	846ef27ff9d215cd
+5	7566	1541118386	gtest/googlemock/gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	a059ec1d6cc23aba
+7567	7874	1541118386	gtest/googlemock/gtest/libgtest.so	34958e5159f0c454
+7874	8372	1541118387	/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/map_server/lib/map_server/rtest	3e82056520c36e9e
+7	51	0	CMakeFiles/install.util	626e0290ed2b7901

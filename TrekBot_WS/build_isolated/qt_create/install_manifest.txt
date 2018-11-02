@@ -1,0 +1,10 @@
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/_setup_util.py
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/env.sh
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/setup.bash
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/setup.sh
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/setup.zsh
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/.rosinstall
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/lib/pkgconfig/qt_create.pc
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/share/qt_create/cmake/qt_createConfig.cmake
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/share/qt_create/cmake/qt_createConfig-version.cmake
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/share/qt_create/package.xml

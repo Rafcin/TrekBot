@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot_WS/install_isolated
+
+Name: TrekBot_Scan
+Description: Description of TrekBot_Scan
+Version: 0.0.0
+Cflags: 
+Libs: -L/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/lib 
+Requires: 

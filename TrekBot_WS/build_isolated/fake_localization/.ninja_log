@@ -1,0 +1,4 @@
+# ninja log v5
+1	15552	1541118364	CMakeFiles/fake_localization.dir/fake_localization.cpp.o	8ec05d1a4b17df83
+15560	16377	1541118365	/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/fake_localization/lib/fake_localization/fake_localization	417924b65b5021fc
+7	56	0	CMakeFiles/install.util	6f674dbc7462a6e1

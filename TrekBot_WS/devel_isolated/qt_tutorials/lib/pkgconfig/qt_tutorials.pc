@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/qt_tutorials
+
+Name: qt_tutorials
+Description: Description of qt_tutorials
+Version: 0.2.10
+Cflags: -I/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/qt_tutorials/include
+Libs: -L/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/qt_tutorials/lib 
+Requires: message_runtime std_msgs roscpp

@@ -1,0 +1,22 @@
+# ninja log v5
+0	164	1541115934	glog_src-prefix/src/glog_src-stamp/glog_src-mkdir	61e786ed372089de
+165	1397	1541115935	glog_src-prefix/src/glog_src-stamp/glog_src-download	2ef3dd3c62bb0c90
+1399	1440	1541115935	glog_src-prefix/src/glog_src-stamp/glog_src-patch	ef78795fd77e4ae7
+1397	1452	1541115935	glog_src-prefix/src/glog_src-stamp/glog_src-update	d3368d418865193
+1452	39848	1541115974	glog_src-prefix/src/glog_src-stamp/glog_src-configure	725e493cf3990acf
+39849	57821	1541115992	glog_src-prefix/src/glog_src-stamp/glog_src-build	7282f832284ba287
+57822	58323	1541115992	glog_src-prefix/src/glog_src-stamp/glog_src-install	f9e9caa5a7173372
+58324	58409	1541115992	CMakeFiles/glog_src-complete	5f034c87b579260d
+58324	58409	1541115992	glog_src-prefix/src/glog_src-stamp/glog_src-done	5f034c87b579260d
+0	66	0	CMakeFiles/install.util	798a7725f86d9b3d
+0	37830	1541116818	glog_src-prefix/src/glog_src-stamp/glog_src-configure	c7c7bf67e57ffe3d
+37831	54750	1541116835	glog_src-prefix/src/glog_src-stamp/glog_src-build	7282f832284ba287
+54751	55184	1541116836	glog_src-prefix/src/glog_src-stamp/glog_src-install	f9e9caa5a7173372
+55185	55260	1541116836	CMakeFiles/glog_src-complete	5f034c87b579260d
+55185	55260	1541116836	glog_src-prefix/src/glog_src-stamp/glog_src-done	5f034c87b579260d
+0	66	0	CMakeFiles/install.util	798a7725f86d9b3d
+0	37	0	CMakeFiles/install.util	798a7725f86d9b3d
+0	36	0	CMakeFiles/install.util	798a7725f86d9b3d
+1	38	0	CMakeFiles/install.util	798a7725f86d9b3d
+0	38	0	CMakeFiles/install.util	798a7725f86d9b3d
+0	38	0	CMakeFiles/install.util	798a7725f86d9b3d

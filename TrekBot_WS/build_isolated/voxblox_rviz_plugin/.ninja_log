@@ -1,0 +1,19 @@
+# ninja log v5
+1	2010	0	CMakeFiles/voxblox_rviz_plugin_autogen	e0669ecd4758af92
+1	2010	0	voxblox_rviz_plugin_autogen/mocs_compilation.cpp	e0669ecd4758af92
+2010	18348	1541116930	CMakeFiles/voxblox_rviz_plugin.dir/src/voxblox_mesh_visual.cc.o	fe96fb669a5c24fb
+2012	28040	1541116940	CMakeFiles/voxblox_rviz_plugin.dir/voxblox_rviz_plugin_autogen/mocs_compilation.cpp.o	132a0ff6ff47e9db
+2011	35651	1541116948	CMakeFiles/voxblox_rviz_plugin.dir/src/voxblox_mesh_display.cc.o	fb43a381d184f248
+35652	36808	1541116949	/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/voxblox_rviz_plugin/lib/libvoxblox_rviz_plugin.so	dbfe9417f4318e3a
+11	44	0	CMakeFiles/voxblox_rviz_plugin_autogen	e0669ecd4758af92
+11	44	0	voxblox_rviz_plugin_autogen/mocs_compilation.cpp	e0669ecd4758af92
+45	90	0	CMakeFiles/install.util	6edc641e25c33753
+10	2019	0	CMakeFiles/voxblox_rviz_plugin_autogen	e0669ecd4758af92
+10	2019	0	voxblox_rviz_plugin_autogen/mocs_compilation.cpp	e0669ecd4758af92
+2020	18420	1541118062	CMakeFiles/voxblox_rviz_plugin.dir/src/voxblox_mesh_visual.cc.o	fe96fb669a5c24fb
+2023	28200	1541118071	CMakeFiles/voxblox_rviz_plugin.dir/voxblox_rviz_plugin_autogen/mocs_compilation.cpp.o	132a0ff6ff47e9db
+2022	36372	1541118080	CMakeFiles/voxblox_rviz_plugin.dir/src/voxblox_mesh_display.cc.o	fb43a381d184f248
+36373	37413	1541118081	/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/voxblox_rviz_plugin/lib/libvoxblox_rviz_plugin.so	dbfe9417f4318e3a
+10	43	0	CMakeFiles/voxblox_rviz_plugin_autogen	e0669ecd4758af92
+10	43	0	voxblox_rviz_plugin_autogen/mocs_compilation.cpp	e0669ecd4758af92
+44	90	0	CMakeFiles/install.util	6edc641e25c33753

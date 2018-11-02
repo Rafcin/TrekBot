@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/qt_create
+
+Name: qt_create
+Description: Description of qt_create
+Version: 0.2.10
+Cflags: 
+Libs: -L/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/qt_create/lib 
+Requires: 

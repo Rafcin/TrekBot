@@ -1,0 +1,2 @@
+set(voxblox_msgs_MESSAGE_FILES "/xavier_ssd/TrekBot/TrekBot_WS/src/voxblox/voxblox_msgs/msg/Block.msg;/xavier_ssd/TrekBot/TrekBot_WS/src/voxblox/voxblox_msgs/msg/Layer.msg;/xavier_ssd/TrekBot/TrekBot_WS/src/voxblox/voxblox_msgs/msg/Mesh.msg;/xavier_ssd/TrekBot/TrekBot_WS/src/voxblox/voxblox_msgs/msg/MeshBlock.msg;/xavier_ssd/TrekBot/TrekBot_WS/src/voxblox/voxblox_msgs/msg/VoxelEvaluationDetails.msg")
+set(voxblox_msgs_SERVICE_FILES "/xavier_ssd/TrekBot/TrekBot_WS/src/voxblox/voxblox_msgs/srv/FilePath.srv")

@@ -8,5 +8,7 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/zed_video_sub_tutorial:$CMAKE_PREFIX_PATH"
-export ROSLISP_PACKAGE_DIRECTORIES="/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/zed_video_sub_tutorial/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
+export LD_LIBRARY_PATH="/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/zed_video_sub_tutorial/lib:$LD_LIBRARY_PATH"
+export PKG_CONFIG_PATH="/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/zed_video_sub_tutorial/lib/pkgconfig:$PKG_CONFIG_PATH"
+export ROSLISP_PACKAGE_DIRECTORIES="/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/zed_video_sub_tutorial/share/common-lisp"
 export ROS_PACKAGE_PATH="/xavier_ssd/TrekBot/TrekBot_WS/src/zed-ros-wrapper/tutorials/zed_video_sub_tutorial:$ROS_PACKAGE_PATH"

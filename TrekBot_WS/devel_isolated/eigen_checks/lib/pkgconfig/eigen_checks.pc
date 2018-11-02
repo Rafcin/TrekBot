@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/eigen_checks
+
+Name: eigen_checks
+Description: Description of eigen_checks
+Version: 0.0.1
+Cflags: -I/xavier_ssd/TrekBot/TrekBot_WS/src/eigen_checks/include
+Libs: -L/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/eigen_checks/lib -leigen_checks
+Requires: 
