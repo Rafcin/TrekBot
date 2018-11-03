@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/tf2_py
+
+Name: tf2_py
+Description: Description of tf2_py
+Version: 0.6.3
+Cflags: 
+Libs: -L/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/tf2_py/lib 
+Requires: rospy tf2

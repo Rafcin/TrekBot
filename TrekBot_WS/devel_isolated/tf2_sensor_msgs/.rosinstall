@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/tf2_sensor_msgs/setup.sh

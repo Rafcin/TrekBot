@@ -1,0 +1,8 @@
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/./setup.sh
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/./setup.zsh
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/./env.sh
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/./_setup_util.py
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/./setup.bash
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/pkgconfig/catkin_tools_prebuild.pc

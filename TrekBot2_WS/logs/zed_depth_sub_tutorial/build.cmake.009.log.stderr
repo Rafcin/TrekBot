@@ -1,0 +1,12 @@
+[31m[1mCMake Error[0m at /usr/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake:137 (message):
+  Could NOT find PythonInterp: Found unsuitable version "2.7.15", but
+  required is at least "3.6.6" (found /usr/bin/python2)
+[36mCall Stack (most recent call first):[0m
+  /usr/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake:376 (_FPHSA_FAILURE_MESSAGE)
+  /usr/share/cmake-3.10/Modules/FindPythonInterp.cmake:152 (FIND_PACKAGE_HANDLE_STANDARD_ARGS)
+  /opt/ros/melodic/share/catkin/cmake/python.cmake:4 (find_package)
+  /opt/ros/melodic/share/catkin/cmake/all.cmake:159 (include)
+  /opt/ros/melodic/share/catkin/cmake/catkinConfig.cmake:20 (include)
+  CMakeLists.txt:10 (find_package)
+
+

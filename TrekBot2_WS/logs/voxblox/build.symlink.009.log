@@ -1,0 +1,8 @@
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/voxblox/cmake/voxbloxConfig.cmake
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/voxblox/cmake/voxblox-extras.cmake
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/voxblox/cmake/voxbloxConfig-version.cmake
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/libvoxblox.so
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/libvoxblox_proto.so
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/voxblox/test_load_esdf
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/voxblox/tsdf_to_esdf
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/pkgconfig/voxblox.pc

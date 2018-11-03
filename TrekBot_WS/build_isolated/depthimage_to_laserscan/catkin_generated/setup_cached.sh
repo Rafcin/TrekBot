@@ -8,5 +8,8 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/depthimage_to_laserscan:$CMAKE_PREFIX_PATH"
+export LD_LIBRARY_PATH="/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/depthimage_to_laserscan/lib:$LD_LIBRARY_PATH"
+export PKG_CONFIG_PATH="/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/depthimage_to_laserscan/lib/pkgconfig:$PKG_CONFIG_PATH"
+export PYTHONPATH="/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/depthimage_to_laserscan/lib/python2.7/dist-packages:$PYTHONPATH"
 export ROSLISP_PACKAGE_DIRECTORIES="/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/depthimage_to_laserscan/share/common-lisp"
 export ROS_PACKAGE_PATH="/xavier_ssd/TrekBot/TrekBot_WS/src/depthimage_to_laserscan:$ROS_PACKAGE_PATH"

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/xavier_ssd/TrekBot/TrekBot2_WS/build/glog_catkin/CMakeFiles/glog_src"
+		},
+		{
+			"file" : "/xavier_ssd/TrekBot/TrekBot2_WS/build/glog_catkin/CMakeFiles/glog_src.rule"
+		},
+		{
+			"file" : "/xavier_ssd/TrekBot/TrekBot2_WS/build/glog_catkin/CMakeFiles/glog_src-complete.rule"
+		},
+		{
+			"file" : "/xavier_ssd/TrekBot/TrekBot2_WS/build/glog_catkin/glog_src-prefix/src/glog_src-stamp/glog_src-install.rule"
+		},
+		{
+			"file" : "/xavier_ssd/TrekBot/TrekBot2_WS/build/glog_catkin/glog_src-prefix/src/glog_src-stamp/glog_src-mkdir.rule"
+		},
+		{
+			"file" : "/xavier_ssd/TrekBot/TrekBot2_WS/build/glog_catkin/glog_src-prefix/src/glog_src-stamp/glog_src-download.rule"
+		},
+		{
+			"file" : "/xavier_ssd/TrekBot/TrekBot2_WS/build/glog_catkin/glog_src-prefix/src/glog_src-stamp/glog_src-update.rule"
+		},
+		{
+			"file" : "/xavier_ssd/TrekBot/TrekBot2_WS/build/glog_catkin/glog_src-prefix/src/glog_src-stamp/glog_src-patch.rule"
+		},
+		{
+			"file" : "/xavier_ssd/TrekBot/TrekBot2_WS/build/glog_catkin/glog_src-prefix/src/glog_src-stamp/glog_src-configure.rule"
+		},
+		{
+			"file" : "/xavier_ssd/TrekBot/TrekBot2_WS/build/glog_catkin/glog_src-prefix/src/glog_src-stamp/glog_src-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glog_src"
+		],
+		"name" : "glog_src"
+	}
+}

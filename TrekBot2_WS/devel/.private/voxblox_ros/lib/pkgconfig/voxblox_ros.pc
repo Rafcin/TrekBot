@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/voxblox_ros
+
+Name: voxblox_ros
+Description: Description of voxblox_ros
+Version: 0.0.0
+Cflags: -I/xavier_ssd/TrekBot/TrekBot2_WS/src/voxblox/voxblox_ros/include
+Libs: -L/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/voxblox_ros/lib -lvoxblox_ros
+Requires: cv_bridge gflags_catkin interactive_markers minkindr_conversions pcl_conversions pcl_ros sensor_msgs tf voxblox voxblox_msgs voxblox_rviz_plugin

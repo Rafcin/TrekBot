@@ -1,0 +1,49 @@
+[35m[1mScanning dependencies of target _zed_wrapper_generate_messages_check_deps_reset_tracking[0m
+[35m[1mScanning dependencies of target _zed_wrapper_generate_messages_check_deps_reset_odometry[0m
+[35m[1mScanning dependencies of target _zed_wrapper_generate_messages_check_deps_set_initial_pose[0m
+[  0%] Built target _zed_wrapper_generate_messages_check_deps_reset_odometry
+[  0%] Built target _zed_wrapper_generate_messages_check_deps_reset_tracking
+[  0%] Built target _zed_wrapper_generate_messages_check_deps_set_initial_pose
+[35m[1mScanning dependencies of target zed_wrapper_gencfg[0m
+[35m[1mScanning dependencies of target zed_wrapper_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target zed_wrapper_generate_messages_py[0m
+[  4%] [34m[1mGenerating dynamic reconfigure files from cfg/Zed.cfg: /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/zed_wrapper/include/zed_wrapper/ZedConfig.h /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/zed_wrapper/lib/python2.7/dist-packages/zed_wrapper/cfg/ZedConfig.py[0m
+[  8%] [34m[1mGenerating Javascript code from zed_wrapper/set_initial_pose.srv[0m
+[ 13%] [34m[1mGenerating Python code from SRV zed_wrapper/set_initial_pose[0m
+[ 17%] [34m[1mGenerating Javascript code from zed_wrapper/reset_tracking.srv[0m
+[ 21%] [34m[1mGenerating Python code from SRV zed_wrapper/reset_tracking[0m
+[ 26%] [34m[1mGenerating Javascript code from zed_wrapper/reset_odometry.srv[0m
+Generating reconfiguration files for Zed in zed_wrapper
+Wrote header file in /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/zed_wrapper/include/zed_wrapper/ZedConfig.h
+[ 26%] Built target zed_wrapper_generate_messages_nodejs
+[ 30%] [34m[1mGenerating Python code from SRV zed_wrapper/reset_odometry[0m
+[ 30%] Built target zed_wrapper_gencfg
+[35m[1mScanning dependencies of target zed_wrapper_generate_messages_eus[0m
+[35m[1mScanning dependencies of target zed_wrapper_generate_messages_cpp[0m
+[ 34%] [34m[1mGenerating EusLisp code from zed_wrapper/set_initial_pose.srv[0m
+[ 39%] [34m[1mGenerating C++ code from zed_wrapper/set_initial_pose.srv[0m
+[ 43%] [34m[1mGenerating Python srv __init__.py for zed_wrapper[0m
+[ 47%] [34m[1mGenerating EusLisp code from zed_wrapper/reset_tracking.srv[0m
+[ 52%] [34m[1mGenerating C++ code from zed_wrapper/reset_tracking.srv[0m
+[ 52%] Built target zed_wrapper_generate_messages_py
+[ 56%] [34m[1mGenerating C++ code from zed_wrapper/reset_odometry.srv[0m
+[ 60%] [34m[1mGenerating EusLisp code from zed_wrapper/reset_odometry.srv[0m
+[ 65%] [34m[1mGenerating EusLisp manifest code for zed_wrapper[0m
+[35m[1mScanning dependencies of target zed_wrapper_generate_messages_lisp[0m
+[ 69%] [34m[1mGenerating Lisp code from zed_wrapper/set_initial_pose.srv[0m
+[ 73%] [34m[1mGenerating Lisp code from zed_wrapper/reset_tracking.srv[0m
+[ 78%] [34m[1mGenerating Lisp code from zed_wrapper/reset_odometry.srv[0m
+[ 78%] Built target zed_wrapper_generate_messages_lisp
+[ 78%] Built target zed_wrapper_generate_messages_cpp
+[ 78%] Built target zed_wrapper_generate_messages_eus
+[35m[1mScanning dependencies of target zed_wrapper_generate_messages[0m
+[35m[1mScanning dependencies of target ZEDWrapper[0m
+[ 78%] Built target zed_wrapper_generate_messages
+[ 82%] [32mBuilding CXX object CMakeFiles/ZEDWrapper.dir/src/tools/src/sl_tools.cpp.o[0m
+[ 86%] [32mBuilding CXX object CMakeFiles/ZEDWrapper.dir/src/nodelet/src/zed_wrapper_nodelet.cpp.o[0m
+[ 91%] [32m[1mLinking CXX shared library /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/zed_wrapper/lib/libZEDWrapper.so[0m
+[ 91%] Built target ZEDWrapper
+[35m[1mScanning dependencies of target zed_wrapper_node[0m
+[ 95%] [32mBuilding CXX object CMakeFiles/zed_wrapper_node.dir/src/zed_wrapper_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/zed_wrapper/lib/zed_wrapper/zed_wrapper_node[0m
+[100%] Built target zed_wrapper_node

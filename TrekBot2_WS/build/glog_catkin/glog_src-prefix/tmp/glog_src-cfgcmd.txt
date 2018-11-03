@@ -1,0 +1,1 @@
+cmd='cd;../glog_src/;&&;autoreconf;-fi;&&;./configure;--with-pic;--with-gflags=/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/gflags_catkin;--prefix=/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/glog_catkin'

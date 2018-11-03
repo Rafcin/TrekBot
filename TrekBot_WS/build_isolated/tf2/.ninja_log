@@ -1,0 +1,7 @@
+# ninja log v5
+2	1993	1541119520	CMakeFiles/tf2.dir/src/static_cache.cpp.o	6e9dc6f1da5c54b4
+0	2619	1541119521	CMakeFiles/tf2.dir/src/cache.cpp.o	80278c3537204cd7
+1	9816	1541119528	CMakeFiles/tf2.dir/src/buffer_core.cpp.o	bac113f63fcd6788
+9818	10205	1541119529	/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/tf2/lib/libtf2.so	a96bbd678199f4e0
+8	55	0	CMakeFiles/install.util	29f55792c342e495
+7	47	0	CMakeFiles/install.util	29f55792c342e495

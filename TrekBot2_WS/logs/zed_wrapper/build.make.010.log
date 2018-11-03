@@ -1,0 +1,12 @@
+[  4%] Built target zed_wrapper_gencfg
+[  4%] Built target _zed_wrapper_generate_messages_check_deps_reset_odometry
+[  4%] Built target _zed_wrapper_generate_messages_check_deps_set_initial_pose
+[  4%] Built target _zed_wrapper_generate_messages_check_deps_reset_tracking
+[ 43%] Built target zed_wrapper_generate_messages_lisp
+[ 52%] Built target zed_wrapper_generate_messages_nodejs
+[ 52%] Built target zed_wrapper_generate_messages_py
+[ 73%] Built target zed_wrapper_generate_messages_eus
+[ 78%] Built target zed_wrapper_generate_messages_cpp
+[ 78%] Built target zed_wrapper_generate_messages
+[ 91%] Built target ZEDWrapper
+[100%] Built target zed_wrapper_node

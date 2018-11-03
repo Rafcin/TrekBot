@@ -1,0 +1,1 @@
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/tf/share/roseus/ros/tf/manifest.l

@@ -1,0 +1,12 @@
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/_setup_util.py
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/env.sh
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/setup.bash
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/setup.sh
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/setup.zsh
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/.rosinstall
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/lib/pkgconfig/tf2_bullet.pc
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/share/tf2_bullet/cmake/tf2_bulletConfig.cmake
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/share/tf2_bullet/cmake/tf2_bulletConfig-version.cmake
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/share/tf2_bullet/package.xml
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/include/tf2_bullet/tf2_bullet.h
+/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/include/tf2_bullet/tf2_bullet/tf2_bullet.h

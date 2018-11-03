@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot_WS/install_isolated
+
+Name: tf2_geometry_msgs
+Description: Description of tf2_geometry_msgs
+Version: 0.6.3
+Cflags: -I/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/include -I/opt/ros/melodic/share/orocos_kdl/cmake/../../../include -I/usr/include/eigen3
+Libs: -L/xavier_ssd/TrekBot/TrekBot_WS/install_isolated/lib /opt/ros/melodic/lib/liborocos-kdl.so /opt/ros/melodic/lib/liborocos-kdl.so.1.4.0
+Requires: geometry_msgs tf2_ros tf2

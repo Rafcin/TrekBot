@@ -1,0 +1,5 @@
+# ninja log v5
+0	6020	1541119553	CMakeFiles/tf2_py.dir/src/tf2_py.cpp.o	2365f723333379b9
+6028	6302	1541119553	/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/tf2_py/lib/python2.7/dist-packages/tf2_py/_tf2.so	391a3419455c7b20
+7	226	0	CMakeFiles/install.util	f506a6be2f088711
+6	181	0	CMakeFiles/install.util	f506a6be2f088711

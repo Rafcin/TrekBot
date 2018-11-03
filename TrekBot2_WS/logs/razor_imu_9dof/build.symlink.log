@@ -1,0 +1,19 @@
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/razor_imu_9dof/cmake/razor_imu_9dofConfig.cmake
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/razor_imu_9dof/cmake/razor_imu_9dofConfig-version.cmake
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/razor_imu_9dof/docs/imuConfig.dox
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/razor_imu_9dof/docs/imuConfig.wikidoc
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/razor_imu_9dof/docs/imuConfig-usage.dox
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/pkgconfig/razor_imu_9dof.pc
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/python3/dist-packages/razor_imu_9dof/__init__.py
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/python3/dist-packages/razor_imu_9dof/cfg/imuConfig.py
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/python3/dist-packages/razor_imu_9dof/cfg/__init__.py
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/include/razor_imu_9dof/imuConfig.h
+Cleaning: (/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/razor_imu_9dof/lib/python2.7/dist-packages/razor_imu_9dof/__init__.py, /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/python2.7/dist-packages/razor_imu_9dof/__init__.py)
+Cleaning: (/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/razor_imu_9dof/lib/python2.7/dist-packages/razor_imu_9dof/cfg/imuConfig.py, /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/python2.7/dist-packages/razor_imu_9dof/cfg/imuConfig.py)
+Cleaning: (/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/razor_imu_9dof/lib/python2.7/dist-packages/razor_imu_9dof/cfg/__init__.py, /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/python2.7/dist-packages/razor_imu_9dof/cfg/__init__.py)
+Unlinking: /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/python2.7/dist-packages/razor_imu_9dof/__init__.py
+Already unlinked: {}
+Unlinking: /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/python2.7/dist-packages/razor_imu_9dof/cfg/imuConfig.py
+Already unlinked: {}
+Unlinking: /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/python2.7/dist-packages/razor_imu_9dof/cfg/__init__.py
+Already unlinked: {}

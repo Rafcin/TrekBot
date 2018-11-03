@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/glog_catkin
+
+Name: glog_catkin
+Description: Description of glog_catkin
+Version: 0.3.5
+Cflags: -I/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/glog_catkin/include
+Libs: -L/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/glog_catkin/lib -lglog
+Requires: gflags_catkin

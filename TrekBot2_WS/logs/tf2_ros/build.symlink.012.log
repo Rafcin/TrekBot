@@ -1,0 +1,10 @@
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/tf2_ros/cmake/tf2_rosConfig-version.cmake
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/tf2_ros/cmake/tf2_rosConfig.cmake
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/libtf2_ros.so
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/pkgconfig/tf2_ros.pc
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/tf2_ros/static_transform_publisher
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/tf2_ros/buffer_server
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/python3/dist-packages/tf2_ros/__init__.py
+Cleaning: (/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/tf2_ros/lib/python2.7/dist-packages/tf2_ros/__init__.py, /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/python2.7/dist-packages/tf2_ros/__init__.py)
+Unlinking: /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/python2.7/dist-packages/tf2_ros/__init__.py
+Already unlinked: {}

@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/tf2_eigen
+
+Name: tf2_eigen
+Description: Description of tf2_eigen
+Version: 0.6.3
+Cflags: -I/xavier_ssd/TrekBot/TrekBot_WS/src/geometry2/tf2_eigen/include -I/usr/include/eigen3
+Libs: -L/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/tf2_eigen/lib 
+Requires: 

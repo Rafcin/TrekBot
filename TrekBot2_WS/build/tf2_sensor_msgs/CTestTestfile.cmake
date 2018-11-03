@@ -1,0 +1,9 @@
+# CMake generated Testfile for 
+# Source directory: /xavier_ssd/TrekBot/TrekBot2_WS/src/geometry2/tf2_sensor_msgs
+# Build directory: /xavier_ssd/TrekBot/TrekBot2_WS/build/tf2_sensor_msgs
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+add_test(_ctest_tf2_sensor_msgs_nosetests_test.test_tf2_sensor_msgs.py "/xavier_ssd/TrekBot/TrekBot2_WS/build/tf2_sensor_msgs/catkin_generated/env_cached.sh" "/usr/bin/python3" "/opt/ros/melodic/share/catkin/cmake/test/run_tests.py" "/xavier_ssd/TrekBot/TrekBot2_WS/build/tf2_sensor_msgs/test_results/tf2_sensor_msgs/nosetests-test.test_tf2_sensor_msgs.py.xml" "--return-code" "/usr/bin/cmake -E make_directory /xavier_ssd/TrekBot/TrekBot2_WS/build/tf2_sensor_msgs/test_results/tf2_sensor_msgs" "/usr/bin/nosetests -P --process-timeout=60 /xavier_ssd/TrekBot/TrekBot2_WS/src/geometry2/tf2_sensor_msgs/test/test_tf2_sensor_msgs.py --with-xunit --xunit-file=/xavier_ssd/TrekBot/TrekBot2_WS/build/tf2_sensor_msgs/test_results/tf2_sensor_msgs/nosetests-test.test_tf2_sensor_msgs.py.xml")
+add_test(_ctest_tf2_sensor_msgs_rostest_test_test.launch "/xavier_ssd/TrekBot/TrekBot2_WS/build/tf2_sensor_msgs/catkin_generated/env_cached.sh" "/usr/bin/python3" "/opt/ros/melodic/share/catkin/cmake/test/run_tests.py" "/xavier_ssd/TrekBot/TrekBot2_WS/build/tf2_sensor_msgs/test_results/tf2_sensor_msgs/rostest-test_test.xml" "--return-code" "/opt/ros/melodic/share/rostest/cmake/../../../bin/rostest --pkgdir=/xavier_ssd/TrekBot/TrekBot2_WS/src/geometry2/tf2_sensor_msgs --package=tf2_sensor_msgs --results-filename test_test.xml --results-base-dir \"/xavier_ssd/TrekBot/TrekBot2_WS/build/tf2_sensor_msgs/test_results\" /xavier_ssd/TrekBot/TrekBot2_WS/src/geometry2/tf2_sensor_msgs/test/test.launch ")
+subdirs("gtest")

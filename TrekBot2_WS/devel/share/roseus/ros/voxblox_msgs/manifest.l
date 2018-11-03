@@ -1,0 +1,1 @@
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/voxblox_msgs/share/roseus/ros/voxblox_msgs/manifest.l

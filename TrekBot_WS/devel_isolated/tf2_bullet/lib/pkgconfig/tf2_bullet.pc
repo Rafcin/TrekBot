@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/tf2_bullet
+
+Name: tf2_bullet
+Description: Description of tf2_bullet
+Version: 0.6.3
+Cflags: -I/xavier_ssd/TrekBot/TrekBot_WS/src/geometry2/tf2_bullet/include -I/usr/include/bullet
+Libs: -L/xavier_ssd/TrekBot/TrekBot_WS/devel_isolated/tf2_bullet/lib 
+Requires: 

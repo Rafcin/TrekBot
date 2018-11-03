@@ -1,0 +1,4 @@
+minkindr/minkindr
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/minkindr/share/minkindr/cmake/minkindrConfig-version.cmake /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/minkindr/cmake/minkindrConfig-version.cmake
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/minkindr/share/minkindr/cmake/minkindrConfig.cmake /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/minkindr/cmake/minkindrConfig.cmake
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/minkindr/lib/pkgconfig/minkindr.pc /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/pkgconfig/minkindr.pc

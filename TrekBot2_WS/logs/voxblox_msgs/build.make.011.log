@@ -1,0 +1,17 @@
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _voxblox_msgs_generate_messages_check_deps_MeshBlock
+[  0%] Built target _voxblox_msgs_generate_messages_check_deps_Block
+[  0%] Built target _voxblox_msgs_generate_messages_check_deps_VoxelEvaluationDetails
+[  0%] Built target _voxblox_msgs_generate_messages_check_deps_FilePath
+[  0%] Built target _voxblox_msgs_generate_messages_check_deps_Mesh
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target _voxblox_msgs_generate_messages_check_deps_Layer
+[ 21%] Built target voxblox_msgs_generate_messages_lisp
+[ 42%] Built target voxblox_msgs_generate_messages_py
+[ 60%] Built target voxblox_msgs_generate_messages_nodejs
+[ 78%] Built target voxblox_msgs_generate_messages_cpp
+[100%] Built target voxblox_msgs_generate_messages_eus
+[100%] Built target voxblox_msgs_generate_messages

@@ -1,0 +1,5 @@
+/usr/bin/env: ‘python’: Too many levels of symbolic links
+make[2]: *** [/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/zed_wrapper/include/zed_wrapper/ZedConfig.h] Error 126
+make[1]: *** [CMakeFiles/zed_wrapper_gencfg.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+make: *** [all] Error 2

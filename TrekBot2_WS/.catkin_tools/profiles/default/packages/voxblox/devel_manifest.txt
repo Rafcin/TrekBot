@@ -1,0 +1,9 @@
+voxblox/voxblox
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/voxblox/share/voxblox/cmake/voxbloxConfig.cmake /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/voxblox/cmake/voxbloxConfig.cmake
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/voxblox/share/voxblox/cmake/voxblox-extras.cmake /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/voxblox/cmake/voxblox-extras.cmake
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/voxblox/share/voxblox/cmake/voxbloxConfig-version.cmake /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/voxblox/cmake/voxbloxConfig-version.cmake
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/voxblox/lib/libvoxblox.so /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/libvoxblox.so
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/voxblox/lib/libvoxblox_proto.so /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/libvoxblox_proto.so
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/voxblox/lib/voxblox/test_load_esdf /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/voxblox/test_load_esdf
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/voxblox/lib/voxblox/tsdf_to_esdf /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/voxblox/tsdf_to_esdf
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/voxblox/lib/pkgconfig/voxblox.pc /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/pkgconfig/voxblox.pc

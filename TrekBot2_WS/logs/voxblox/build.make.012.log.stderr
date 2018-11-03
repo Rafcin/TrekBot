@@ -1,0 +1,2 @@
+[libprotobuf WARNING /xavier_ssd/TrekBot/TrekBot_WS/protobuf/src/google/protobuf/compiler/parser.cc:546] No syntax specified for the proto file: Layer.proto. Please use 'syntax = "proto2";' or 'syntax = "proto3";' to specify a syntax version. (Defaulted to proto2 syntax.)
+[libprotobuf WARNING /xavier_ssd/TrekBot/TrekBot_WS/protobuf/src/google/protobuf/compiler/parser.cc:546] No syntax specified for the proto file: Block.proto. Please use 'syntax = "proto2";' or 'syntax = "proto3";' to specify a syntax version. (Defaulted to proto2 syntax.)

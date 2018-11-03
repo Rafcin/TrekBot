@@ -2038,3 +2038,297 @@ Source file was:
                                  std::shared_ptr<int> int_ptr;
                                  return 0;
                                }
+Determining if the include file unordered_map exists passed with the following output:
+Change Dir: /xavier_ssd/TrekBot/TrekBot_WS/build_isolated/ceres-solver/install/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/ninja" "cmTC_a6e7c"
+[1/2] Building CXX object CMakeFiles/cmTC_a6e7c.dir/CheckIncludeFile.cxx.o
+[2/2] Linking CXX executable cmTC_a6e7c
+
+
+Performing C++ SOURCE FILE Test HAVE_UNORDERED_MAP_IN_STD_NAMESPACE succeeded with the following output:
+Change Dir: /xavier_ssd/TrekBot/TrekBot_WS/build_isolated/ceres-solver/install/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/ninja" "cmTC_2185a"
+[1/2] Building CXX object CMakeFiles/cmTC_2185a.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_2185a
+
+Source file was:
+#include <unordered_map>
+                               int main() {
+                                 std::unordered_map<int, int> map;
+                                 return 0;
+                               }
+Determining if the include file memory exists passed with the following output:
+Change Dir: /xavier_ssd/TrekBot/TrekBot_WS/build_isolated/ceres-solver/install/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/ninja" "cmTC_10c92"
+[1/2] Building CXX object CMakeFiles/cmTC_10c92.dir/CheckIncludeFile.cxx.o
+[2/2] Linking CXX executable cmTC_10c92
+
+
+Performing C++ SOURCE FILE Test HAVE_SHARED_PTR_IN_STD_NAMESPACE succeeded with the following output:
+Change Dir: /xavier_ssd/TrekBot/TrekBot_WS/build_isolated/ceres-solver/install/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/ninja" "cmTC_0f30a"
+[1/2] Building CXX object CMakeFiles/cmTC_0f30a.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_0f30a
+
+Source file was:
+#include <memory>
+                               int main() {
+                                 std::shared_ptr<int> int_ptr;
+                                 return 0;
+                               }
+Determining if the include file unordered_map exists passed with the following output:
+Change Dir: /xavier_ssd/TrekBot/TrekBot_WS/build_isolated/ceres-solver/install/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/ninja" "cmTC_b2b9f"
+[1/2] Building CXX object CMakeFiles/cmTC_b2b9f.dir/CheckIncludeFile.cxx.o
+[2/2] Linking CXX executable cmTC_b2b9f
+
+
+Performing C++ SOURCE FILE Test HAVE_UNORDERED_MAP_IN_STD_NAMESPACE succeeded with the following output:
+Change Dir: /xavier_ssd/TrekBot/TrekBot_WS/build_isolated/ceres-solver/install/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/ninja" "cmTC_7d130"
+[1/2] Building CXX object CMakeFiles/cmTC_7d130.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_7d130
+
+Source file was:
+#include <unordered_map>
+                               int main() {
+                                 std::unordered_map<int, int> map;
+                                 return 0;
+                               }
+Determining if the include file memory exists passed with the following output:
+Change Dir: /xavier_ssd/TrekBot/TrekBot_WS/build_isolated/ceres-solver/install/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/ninja" "cmTC_6bef1"
+[1/2] Building CXX object CMakeFiles/cmTC_6bef1.dir/CheckIncludeFile.cxx.o
+[2/2] Linking CXX executable cmTC_6bef1
+
+
+Performing C++ SOURCE FILE Test HAVE_SHARED_PTR_IN_STD_NAMESPACE succeeded with the following output:
+Change Dir: /xavier_ssd/TrekBot/TrekBot_WS/build_isolated/ceres-solver/install/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/ninja" "cmTC_3dcb0"
+[1/2] Building CXX object CMakeFiles/cmTC_3dcb0.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_3dcb0
+
+Source file was:
+#include <memory>
+                               int main() {
+                                 std::shared_ptr<int> int_ptr;
+                                 return 0;
+                               }
+Determining if the include file unordered_map exists passed with the following output:
+Change Dir: /xavier_ssd/TrekBot/TrekBot_WS/build_isolated/ceres-solver/install/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/ninja" "cmTC_11425"
+[1/2] Building CXX object CMakeFiles/cmTC_11425.dir/CheckIncludeFile.cxx.o
+[2/2] Linking CXX executable cmTC_11425
+
+
+Performing C++ SOURCE FILE Test HAVE_UNORDERED_MAP_IN_STD_NAMESPACE succeeded with the following output:
+Change Dir: /xavier_ssd/TrekBot/TrekBot_WS/build_isolated/ceres-solver/install/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/ninja" "cmTC_38d2b"
+[1/2] Building CXX object CMakeFiles/cmTC_38d2b.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_38d2b
+
+Source file was:
+#include <unordered_map>
+                               int main() {
+                                 std::unordered_map<int, int> map;
+                                 return 0;
+                               }
+Determining if the include file memory exists passed with the following output:
+Change Dir: /xavier_ssd/TrekBot/TrekBot_WS/build_isolated/ceres-solver/install/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/ninja" "cmTC_46c3f"
+[1/2] Building CXX object CMakeFiles/cmTC_46c3f.dir/CheckIncludeFile.cxx.o
+[2/2] Linking CXX executable cmTC_46c3f
+
+
+Performing C++ SOURCE FILE Test HAVE_SHARED_PTR_IN_STD_NAMESPACE succeeded with the following output:
+Change Dir: /xavier_ssd/TrekBot/TrekBot_WS/build_isolated/ceres-solver/install/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/ninja" "cmTC_482d7"
+[1/2] Building CXX object CMakeFiles/cmTC_482d7.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_482d7
+
+Source file was:
+#include <memory>
+                               int main() {
+                                 std::shared_ptr<int> int_ptr;
+                                 return 0;
+                               }
+Determining if the include file unordered_map exists passed with the following output:
+Change Dir: /xavier_ssd/TrekBot/TrekBot_WS/build_isolated/ceres-solver/install/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/ninja" "cmTC_90d21"
+[1/2] Building CXX object CMakeFiles/cmTC_90d21.dir/CheckIncludeFile.cxx.o
+[2/2] Linking CXX executable cmTC_90d21
+
+
+Performing C++ SOURCE FILE Test HAVE_UNORDERED_MAP_IN_STD_NAMESPACE succeeded with the following output:
+Change Dir: /xavier_ssd/TrekBot/TrekBot_WS/build_isolated/ceres-solver/install/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/ninja" "cmTC_4a08c"
+[1/2] Building CXX object CMakeFiles/cmTC_4a08c.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_4a08c
+
+Source file was:
+#include <unordered_map>
+                               int main() {
+                                 std::unordered_map<int, int> map;
+                                 return 0;
+                               }
+Determining if the include file memory exists passed with the following output:
+Change Dir: /xavier_ssd/TrekBot/TrekBot_WS/build_isolated/ceres-solver/install/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/ninja" "cmTC_8efd1"
+[1/2] Building CXX object CMakeFiles/cmTC_8efd1.dir/CheckIncludeFile.cxx.o
+[2/2] Linking CXX executable cmTC_8efd1
+
+
+Performing C++ SOURCE FILE Test HAVE_SHARED_PTR_IN_STD_NAMESPACE succeeded with the following output:
+Change Dir: /xavier_ssd/TrekBot/TrekBot_WS/build_isolated/ceres-solver/install/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/ninja" "cmTC_55219"
+[1/2] Building CXX object CMakeFiles/cmTC_55219.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_55219
+
+Source file was:
+#include <memory>
+                               int main() {
+                                 std::shared_ptr<int> int_ptr;
+                                 return 0;
+                               }
+Determining if the include file unordered_map exists passed with the following output:
+Change Dir: /xavier_ssd/TrekBot/TrekBot_WS/build_isolated/ceres-solver/install/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/ninja" "cmTC_547c4"
+[1/2] Building CXX object CMakeFiles/cmTC_547c4.dir/CheckIncludeFile.cxx.o
+[2/2] Linking CXX executable cmTC_547c4
+
+
+Performing C++ SOURCE FILE Test HAVE_UNORDERED_MAP_IN_STD_NAMESPACE succeeded with the following output:
+Change Dir: /xavier_ssd/TrekBot/TrekBot_WS/build_isolated/ceres-solver/install/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/ninja" "cmTC_2deef"
+[1/2] Building CXX object CMakeFiles/cmTC_2deef.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_2deef
+
+Source file was:
+#include <unordered_map>
+                               int main() {
+                                 std::unordered_map<int, int> map;
+                                 return 0;
+                               }
+Determining if the include file memory exists passed with the following output:
+Change Dir: /xavier_ssd/TrekBot/TrekBot_WS/build_isolated/ceres-solver/install/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/ninja" "cmTC_09a8b"
+[1/2] Building CXX object CMakeFiles/cmTC_09a8b.dir/CheckIncludeFile.cxx.o
+[2/2] Linking CXX executable cmTC_09a8b
+
+
+Performing C++ SOURCE FILE Test HAVE_SHARED_PTR_IN_STD_NAMESPACE succeeded with the following output:
+Change Dir: /xavier_ssd/TrekBot/TrekBot_WS/build_isolated/ceres-solver/install/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/ninja" "cmTC_2a1a3"
+[1/2] Building CXX object CMakeFiles/cmTC_2a1a3.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_2a1a3
+
+Source file was:
+#include <memory>
+                               int main() {
+                                 std::shared_ptr<int> int_ptr;
+                                 return 0;
+                               }
+Determining if the include file unordered_map exists passed with the following output:
+Change Dir: /xavier_ssd/TrekBot/TrekBot_WS/build_isolated/ceres-solver/install/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/ninja" "cmTC_4aae6"
+[1/2] Building CXX object CMakeFiles/cmTC_4aae6.dir/CheckIncludeFile.cxx.o
+[2/2] Linking CXX executable cmTC_4aae6
+
+
+Performing C++ SOURCE FILE Test HAVE_UNORDERED_MAP_IN_STD_NAMESPACE succeeded with the following output:
+Change Dir: /xavier_ssd/TrekBot/TrekBot_WS/build_isolated/ceres-solver/install/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/ninja" "cmTC_70c8a"
+[1/2] Building CXX object CMakeFiles/cmTC_70c8a.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_70c8a
+
+Source file was:
+#include <unordered_map>
+                               int main() {
+                                 std::unordered_map<int, int> map;
+                                 return 0;
+                               }
+Determining if the include file memory exists passed with the following output:
+Change Dir: /xavier_ssd/TrekBot/TrekBot_WS/build_isolated/ceres-solver/install/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/ninja" "cmTC_9b70d"
+[1/2] Building CXX object CMakeFiles/cmTC_9b70d.dir/CheckIncludeFile.cxx.o
+[2/2] Linking CXX executable cmTC_9b70d
+
+
+Performing C++ SOURCE FILE Test HAVE_SHARED_PTR_IN_STD_NAMESPACE succeeded with the following output:
+Change Dir: /xavier_ssd/TrekBot/TrekBot_WS/build_isolated/ceres-solver/install/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/ninja" "cmTC_141d8"
+[1/2] Building CXX object CMakeFiles/cmTC_141d8.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_141d8
+
+Source file was:
+#include <memory>
+                               int main() {
+                                 std::shared_ptr<int> int_ptr;
+                                 return 0;
+                               }
+Determining if the include file unordered_map exists passed with the following output:
+Change Dir: /xavier_ssd/TrekBot/TrekBot_WS/build_isolated/ceres-solver/install/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/ninja" "cmTC_f038d"
+[1/2] Building CXX object CMakeFiles/cmTC_f038d.dir/CheckIncludeFile.cxx.o
+[2/2] Linking CXX executable cmTC_f038d
+
+
+Performing C++ SOURCE FILE Test HAVE_UNORDERED_MAP_IN_STD_NAMESPACE succeeded with the following output:
+Change Dir: /xavier_ssd/TrekBot/TrekBot_WS/build_isolated/ceres-solver/install/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/ninja" "cmTC_3a0e2"
+[1/2] Building CXX object CMakeFiles/cmTC_3a0e2.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_3a0e2
+
+Source file was:
+#include <unordered_map>
+                               int main() {
+                                 std::unordered_map<int, int> map;
+                                 return 0;
+                               }
+Determining if the include file memory exists passed with the following output:
+Change Dir: /xavier_ssd/TrekBot/TrekBot_WS/build_isolated/ceres-solver/install/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/ninja" "cmTC_11f84"
+[1/2] Building CXX object CMakeFiles/cmTC_11f84.dir/CheckIncludeFile.cxx.o
+[2/2] Linking CXX executable cmTC_11f84
+
+
+Performing C++ SOURCE FILE Test HAVE_SHARED_PTR_IN_STD_NAMESPACE succeeded with the following output:
+Change Dir: /xavier_ssd/TrekBot/TrekBot_WS/build_isolated/ceres-solver/install/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/ninja" "cmTC_3e9ef"
+[1/2] Building CXX object CMakeFiles/cmTC_3e9ef.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_3e9ef
+
+Source file was:
+#include <memory>
+                               int main() {
+                                 std::shared_ptr<int> int_ptr;
+                                 return 0;
+                               }

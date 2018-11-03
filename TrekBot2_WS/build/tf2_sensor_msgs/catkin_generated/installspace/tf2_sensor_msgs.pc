@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot2_WS/install
+
+Name: tf2_sensor_msgs
+Description: Description of tf2_sensor_msgs
+Version: 0.6.3
+Cflags: -I/xavier_ssd/TrekBot/TrekBot2_WS/install/include -I/usr/include/eigen3
+Libs: -L/xavier_ssd/TrekBot/TrekBot2_WS/install/lib 
+Requires: sensor_msgs tf2_ros tf2

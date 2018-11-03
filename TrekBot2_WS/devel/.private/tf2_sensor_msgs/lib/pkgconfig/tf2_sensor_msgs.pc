@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/tf2_sensor_msgs
+
+Name: tf2_sensor_msgs
+Description: Description of tf2_sensor_msgs
+Version: 0.6.3
+Cflags: -I/xavier_ssd/TrekBot/TrekBot2_WS/src/geometry2/tf2_sensor_msgs/include -I/usr/include/eigen3
+Libs: -L/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/tf2_sensor_msgs/lib 
+Requires: sensor_msgs tf2_ros tf2
