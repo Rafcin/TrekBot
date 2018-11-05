@@ -1,0 +1,4 @@
+# Used to set ACMO to a specific name for the IMU
+SUBSYSTEM=="tty", ATTRS(idVendor}=="1b4f", ATTRS{idProduct)=="9d0f", 
+ATTRS(serial)=="3",
+SYMLINK+="RazorIMU"

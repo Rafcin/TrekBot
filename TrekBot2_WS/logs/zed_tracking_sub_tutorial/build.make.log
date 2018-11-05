@@ -1,4 +1,1 @@
-[35m[1mScanning dependencies of target zed_tracking_sub[0m
-[ 50%] [32mBuilding CXX object CMakeFiles/zed_tracking_sub.dir/src/zed_tracking_sub_tutorial.cpp.o[0m
-[100%] [32m[1mLinking CXX executable /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/zed_tracking_sub_tutorial/lib/zed_tracking_sub_tutorial/zed_tracking_sub[0m
 [100%] Built target zed_tracking_sub

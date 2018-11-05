@@ -8,6 +8,9 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/tf_conversions:$CMAKE_PREFIX_PATH"
+export LD_LIBRARY_PATH="/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/tf_conversions/lib:$LD_LIBRARY_PATH"
+export PKG_CONFIG_PATH="/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/tf_conversions/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD="/xavier_ssd/TrekBot/TrekBot2_WS/build/tf_conversions"
+export PYTHONPATH="/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/tf_conversions/lib/python3/dist-packages:$PYTHONPATH"
 export ROSLISP_PACKAGE_DIRECTORIES="/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/tf_conversions/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
 export ROS_PACKAGE_PATH="/xavier_ssd/TrekBot/TrekBot2_WS/src/geometry/tf_conversions:$ROS_PACKAGE_PATH"

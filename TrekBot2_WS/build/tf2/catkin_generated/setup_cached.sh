@@ -8,6 +8,8 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/tf2:$CMAKE_PREFIX_PATH"
+export LD_LIBRARY_PATH="/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/tf2/lib:$LD_LIBRARY_PATH"
+export PKG_CONFIG_PATH="/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/tf2/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD="/xavier_ssd/TrekBot/TrekBot2_WS/build/tf2"
 export ROSLISP_PACKAGE_DIRECTORIES="/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/tf2/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
 export ROS_PACKAGE_PATH="/xavier_ssd/TrekBot/TrekBot2_WS/src/geometry2/tf2:$ROS_PACKAGE_PATH"

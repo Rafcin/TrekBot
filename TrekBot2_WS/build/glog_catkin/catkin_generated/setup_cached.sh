@@ -8,6 +8,8 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/glog_catkin:$CMAKE_PREFIX_PATH"
+export LD_LIBRARY_PATH="/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/glog_catkin/lib:$LD_LIBRARY_PATH"
+export PKG_CONFIG_PATH="/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/glog_catkin/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD="/xavier_ssd/TrekBot/TrekBot2_WS/build/glog_catkin"
 export ROSLISP_PACKAGE_DIRECTORIES="/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/glog_catkin/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
 export ROS_PACKAGE_PATH="/xavier_ssd/TrekBot/TrekBot2_WS/src/glog_catkin:$ROS_PACKAGE_PATH"
