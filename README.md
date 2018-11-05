@@ -13,8 +13,12 @@ This wiki page contains how to work with the Catkin work spaces in ROS
 ## Using The Work Space
 Refer to the [Using The Work Space](https://github.com/Rafcin/TrekBot/wiki/3.-Using-The-ROS-Workspace) page.
 
+##NEW FIXES
+1. Added RazorIMU support for ROS Melodic projects using Python3.
+2. 99 Serial Rules renames /dev/ttyACM0 to /dev/RazorIMU.
+3. Project now uses `catkin build` to build the workspace. (Only on TrekBot_WS2) 
 
-
+ 
 ## The MIT License
 
 Copyright (c) 2018-2019 Laguna Hills and Mission Vijeo High School
