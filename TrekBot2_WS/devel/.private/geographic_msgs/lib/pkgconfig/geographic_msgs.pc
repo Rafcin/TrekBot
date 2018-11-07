@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/geographic_msgs
+
+Name: geographic_msgs
+Description: Description of geographic_msgs
+Version: 0.5.3
+Cflags: -I/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/geographic_msgs/include
+Libs: -L/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/geographic_msgs/lib 
+Requires: message_runtime geometry_msgs uuid_msgs std_msgs

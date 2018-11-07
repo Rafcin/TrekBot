@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot2_WS/install
+
+Name: octomap_msgs
+Description: Description of octomap_msgs
+Version: 0.3.3
+Cflags: -I/xavier_ssd/TrekBot/TrekBot2_WS/install/include
+Libs: -L/xavier_ssd/TrekBot/TrekBot2_WS/install/lib 
+Requires: message_runtime geometry_msgs std_msgs

@@ -1,0 +1,1 @@
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/sweep_ros/lib/pkgconfig/sweep_ros.pc

@@ -1,0 +1,1 @@
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/octomap_rviz_plugins/lib/pkgconfig/octomap_rviz_plugins.pc

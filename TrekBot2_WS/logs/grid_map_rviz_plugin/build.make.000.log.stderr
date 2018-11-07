@@ -1,0 +1,62 @@
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/grid_map/grid_map_rviz_plugin/include/grid_map_rviz_plugin/GridMapDisplay.hpp:15:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/grid_map/grid_map_rviz_plugin/src/GridMapDisplay.cpp:10[m[K:
+/xavier_ssd/TrekBot/TrekBot2_WS/src/grid_map/grid_map_rviz_plugin/include/grid_map_rviz_plugin/modified/message_filter_display.h: In instantiation of ‘[01m[Kvoid grid_map_rviz_plugin::MessageFilterDisplayMod<MessageType>::onInitialize() [with MessageType = grid_map_msgs::GridMap_<std::allocator<void> >][m[K’:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/grid_map/grid_map_rviz_plugin/src/GridMapDisplay.cpp:118:13:[m[K   required from here
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/grid_map/grid_map_rviz_plugin/include/grid_map_rviz_plugin/modified/message_filter_display.h:26:63:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvirtual tf::TransformListener* rviz::DisplayContext::getTFClient() const[m[K’ is deprecated: use getTF2BufferPtr() instead [[01;35m[K-Wdeprecated-declarations[m[K]
+     MFDClass::tf_filter_ = new tf::MessageFilter<MessageType>(*MFDClass::context_->getTFClient(),
+In file included from [01m[K/opt/ros/melodic/include/rviz/message_filter_display.h:40:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/grid_map/grid_map_rviz_plugin/include/grid_map_rviz_plugin/modified/message_filter_display.h:13[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/grid_map/grid_map_rviz_plugin/include/grid_map_rviz_plugin/GridMapDisplay.hpp:15[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/grid_map/grid_map_rviz_plugin/src/GridMapDisplay.cpp:10[m[K:
+[01m[K/opt/ros/melodic/include/rviz/display_context.h:100:34:[m[K [01;36m[Knote: [m[Kdeclared here
+   virtual tf::TransformListener* [01;36m[KgetTFClient[m[K() const = 0;
+                                  [01;36m[K^~~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/grid_map/grid_map_rviz_plugin/include/grid_map_rviz_plugin/GridMapDisplay.hpp:15:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/grid_map/grid_map_rviz_plugin/src/GridMapDisplay.cpp:10[m[K:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/grid_map/grid_map_rviz_plugin/include/grid_map_rviz_plugin/modified/message_filter_display.h:26:26:[m[K [01;31m[Kerror: [m[Kcannot convert ‘[01m[Ktf::MessageFilter<grid_map_msgs::GridMap_<std::allocator<void> > >*[m[K’ to ‘[01m[Ktf2_ros::MessageFilter<grid_map_msgs::GridMap_<std::allocator<void> > >*[m[K’ in assignment
+     [01;31m[KMFDClass::tf_filter_ = new tf::MessageFilter<MessageType>(*MFDClass::context_->getTFClient(),[m[K
+     [01;31m[K~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+ [01;31m[K                                                              MFDClass::fixed_frame_.toStdString(),[m[K
+                                                               [01;31m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+ [01;31m[K                                                              10, MFDClass::update_nh_)[m[K;
+                                                               [01;31m[K~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/grid_map/grid_map_rviz_plugin/include/grid_map_rviz_plugin/modified/message_filter_display.h:33:5:[m[K [01;31m[Kerror: [m[Kno matching function for call to ‘[01m[Krviz::FrameManager::registerFilterForTransformStatusCheck(tf2_ros::MessageFilter<grid_map_msgs::GridMap_<std::allocator<void> > >*&, grid_map_rviz_plugin::MessageFilterDisplayMod<grid_map_msgs::GridMap_<std::allocator<void> > >*)[m[K’
+     [01;31m[KMFDClass[m[K::context_->getFrameManager()->registerFilterForTransformStatusCheck(
+     [01;31m[K^~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/grid_map/grid_map_rviz_plugin/include/grid_map_rviz_plugin/modified/message_filter_display.h:12:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/grid_map/grid_map_rviz_plugin/include/grid_map_rviz_plugin/GridMapDisplay.hpp:15[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/grid_map/grid_map_rviz_plugin/src/GridMapDisplay.cpp:10[m[K:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/grid_map/grid_map_rviz_plugin/include/grid_map_rviz_plugin/modified/frame_manager.h:174:8:[m[K [01;36m[Knote: [m[Kcandidate: template<class M> void rviz::FrameManager::registerFilterForTransformStatusCheck(tf::MessageFilter<M>*, rviz::Display*)
+   void [01;36m[KregisterFilterForTransformStatusCheck[m[K(tf::MessageFilter<M>* filter, Display* display)
+        [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/grid_map/grid_map_rviz_plugin/include/grid_map_rviz_plugin/modified/frame_manager.h:174:8:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/grid_map/grid_map_rviz_plugin/include/grid_map_rviz_plugin/GridMapDisplay.hpp:15:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/grid_map/grid_map_rviz_plugin/src/GridMapDisplay.cpp:10[m[K:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/grid_map/grid_map_rviz_plugin/include/grid_map_rviz_plugin/modified/message_filter_display.h:33:5:[m[K [01;36m[Knote: [m[K  ‘[01m[Ktf2_ros::MessageFilter<grid_map_msgs::GridMap_<std::allocator<void> > >[m[K’ is not derived from ‘[01m[Ktf::MessageFilter<M>[m[K’
+     [01;36m[KMFDClass[m[K::context_->getFrameManager()->registerFilterForTransformStatusCheck(
+     [01;36m[K^~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/grid_map/grid_map_rviz_plugin/include/grid_map_rviz_plugin/modified/message_filter_display.h:13:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/grid_map/grid_map_rviz_plugin/include/grid_map_rviz_plugin/GridMapDisplay.hpp:15[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/grid_map/grid_map_rviz_plugin/src/GridMapDisplay.cpp:10[m[K:
+/opt/ros/melodic/include/rviz/message_filter_display.h: In instantiation of ‘[01m[Kvoid rviz::MessageFilterDisplay<MessageType>::onInitialize() [with MessageType = grid_map_msgs::GridMap_<std::allocator<void> >][m[K’:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/grid_map/grid_map_rviz_plugin/src/GridMapDisplay.cpp:247:1:[m[K   required from here
+[01m[K/opt/ros/melodic/include/rviz/message_filter_display.h:109:7:[m[K [01;31m[Kerror: [m[Kno matching function for call to ‘[01m[Krviz::FrameManager::registerFilterForTransformStatusCheck(tf2_ros::MessageFilter<grid_map_msgs::GridMap_<std::allocator<void> > >*&, rviz::MessageFilterDisplay<grid_map_msgs::GridMap_<std::allocator<void> > >*)[m[K’
+       [01;31m[Kcontext_[m[K->getFrameManager()->registerFilterForTransformStatusCheck( tf_filter_, this );
+       [01;31m[K^~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/grid_map/grid_map_rviz_plugin/include/grid_map_rviz_plugin/modified/message_filter_display.h:12:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/grid_map/grid_map_rviz_plugin/include/grid_map_rviz_plugin/GridMapDisplay.hpp:15[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/grid_map/grid_map_rviz_plugin/src/GridMapDisplay.cpp:10[m[K:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/grid_map/grid_map_rviz_plugin/include/grid_map_rviz_plugin/modified/frame_manager.h:174:8:[m[K [01;36m[Knote: [m[Kcandidate: template<class M> void rviz::FrameManager::registerFilterForTransformStatusCheck(tf::MessageFilter<M>*, rviz::Display*)
+   void [01;36m[KregisterFilterForTransformStatusCheck[m[K(tf::MessageFilter<M>* filter, Display* display)
+        [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/grid_map/grid_map_rviz_plugin/include/grid_map_rviz_plugin/modified/frame_manager.h:174:8:[m[K [01;36m[Knote: [m[K  template argument deduction/substitution failed:
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/grid_map/grid_map_rviz_plugin/include/grid_map_rviz_plugin/modified/message_filter_display.h:13:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/grid_map/grid_map_rviz_plugin/include/grid_map_rviz_plugin/GridMapDisplay.hpp:15[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/grid_map/grid_map_rviz_plugin/src/GridMapDisplay.cpp:10[m[K:
+[01m[K/opt/ros/melodic/include/rviz/message_filter_display.h:109:7:[m[K [01;36m[Knote: [m[K  ‘[01m[Ktf2_ros::MessageFilter<grid_map_msgs::GridMap_<std::allocator<void> > >[m[K’ is not derived from ‘[01m[Ktf::MessageFilter<M>[m[K’
+       [01;36m[Kcontext_[m[K->getFrameManager()->registerFilterForTransformStatusCheck( tf_filter_, this );
+       [01;36m[K^~~~~~~~[m[K
+make[2]: *** [CMakeFiles/grid_map_rviz_plugin.dir/src/GridMapDisplay.cpp.o] Error 1
+make[2]: *** Waiting for unfinished jobs....
+make[1]: *** [CMakeFiles/grid_map_rviz_plugin.dir/all] Error 2
+make: *** [all] Error 2

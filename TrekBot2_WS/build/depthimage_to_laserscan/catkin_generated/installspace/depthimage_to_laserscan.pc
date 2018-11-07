@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot2_WS/install
+
+Name: depthimage_to_laserscan
+Description: Description of depthimage_to_laserscan
+Version: 1.0.7
+Cflags: -I/xavier_ssd/TrekBot/TrekBot2_WS/install/include
+Libs: -L/xavier_ssd/TrekBot/TrekBot2_WS/install/lib -lDepthImageToLaserScan -lDepthImageToLaserScanROS -lDepthImageToLaserScanNodelet
+Requires: dynamic_reconfigure image_geometry image_transport nodelet roscpp sensor_msgs

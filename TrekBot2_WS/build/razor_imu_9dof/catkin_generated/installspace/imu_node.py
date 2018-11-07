@@ -215,7 +215,8 @@ for line in calib_data:
 rospy.loginfo(calib_data_print)
 """
 #start datastream
-ser.write('#o1' + chr(13))
+payload = ('#o1' + chr(13)).encode()
+ser.write(payload)
 
 #automatic flush - NOT WORKING
 #ser.flushInput()  #discard old input, still in invalid format
@@ -227,10 +228,10 @@ rospy.loginfo("Publishing IMU data...")
 #f = open("raw_imu_data.log", 'w')
 
 while not rospy.is_shutdown():
-    line = ser.readline()
+    line = ser.readline().decode()
     line = line.replace("#YPR=","")   # Delete "#YPRAG="
     #f.write(line)                     # Write to the output log file
-    words = string.split(line,",")    # Fields split
+    words = line.split(",")    # Fields split
     if len(words) > 2:
         """
         #in AHRS firmware z axis points down, in ROS z axis points up (see REP 103)

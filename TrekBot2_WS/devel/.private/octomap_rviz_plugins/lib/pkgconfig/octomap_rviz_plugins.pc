@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/octomap_rviz_plugins
+
+Name: octomap_rviz_plugins
+Description: Description of octomap_rviz_plugins
+Version: 0.2.0
+Cflags: -I/xavier_ssd/TrekBot/TrekBot2_WS/src/octomap_rviz_plugins/include
+Libs: -L/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/octomap_rviz_plugins/lib -loctomap_rviz_plugins
+Requires: octomap_msgs roscpp rviz

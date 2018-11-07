@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot2_WS/install
+
+Name: geodesy
+Description: Description of geodesy
+Version: 0.5.3
+Cflags: -I/xavier_ssd/TrekBot/TrekBot2_WS/install/include
+Libs: -L/xavier_ssd/TrekBot/TrekBot2_WS/install/lib -lgeoconv
+Requires: geographic_msgs geometry_msgs sensor_msgs tf unique_id uuid_msgs

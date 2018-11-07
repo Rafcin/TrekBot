@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+
+<launch>
+    <arg name="svo_file"                default="" /> <!-- <arg name="svo_file" default="path/to/svo/file.svo"> -->
+    
+    <!-- Launch ZED camera wrapper -->
+    <include file="$(find trekbot_main)/launch/include/zed_camera.launch">
+        <arg name="camera_model"        value="0" /> <!-- 0=ZED, 1=ZEDM-->
+        <arg name="svo_file"            value="$(arg svo_file)" />
+    </include>
+
+
+    <!-- Launch Voxblox Node -->
+<!--
+    <include file="$(find trekbot_main)/launch/include/vox.launch">
+
+    </include>
+-->
+
+    <!-- Launch Octomap Node -->
+<!--
+    <include file="$(find trekbot_main)/launch/include/octomap.launch">
+
+    </include>
+-->
+
+    <!-- Launch IMU Node -->
+    <include file="$(find trekbot_main)/launch/include/imu.launch">
+
+    </include>
+
+<!--
+The Localization node is important becuase it provides the filtered kalman odometry so the robot will not drift as much.
+*Edit* Still need to add Lidar and Encoders
+ -->
+    <!-- Launch Localization Node -->
+    <include file="$(find trekbot_main)/launch/include/localization.launch">
+
+    </include>
+  
+    <!-- Launch rivz display -->
+    <node name="rviz" pkg="rviz" type="rviz" args="-d $(find trekbot_main)/rviz/trek.rviz" output="screen" />
+
+</launch>

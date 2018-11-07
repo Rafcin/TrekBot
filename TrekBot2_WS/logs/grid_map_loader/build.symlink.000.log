@@ -1,0 +1,4 @@
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/grid_map_loader/cmake/grid_map_loaderConfig-version.cmake
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/grid_map_loader/cmake/grid_map_loaderConfig.cmake
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/grid_map_loader/grid_map_loader
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/pkgconfig/grid_map_loader.pc

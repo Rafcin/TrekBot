@@ -1,0 +1,16 @@
+CMake Warning (dev) at CMakeLists.txt:23 (add_library):
+  Policy CMP0038 is not set: Targets may not link directly to themselves.
+  Run "cmake --help-policy CMP0038" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+
+  Target "octomap_ros" links to itself.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at CMakeLists.txt:23 (add_library):
+  Policy CMP0038 is not set: Targets may not link directly to themselves.
+  Run "cmake --help-policy CMP0038" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+
+  Target "octomap_ros" links to itself.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+

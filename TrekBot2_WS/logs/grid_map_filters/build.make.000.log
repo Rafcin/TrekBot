@@ -1,0 +1,19 @@
+[35m[1mScanning dependencies of target grid_map_filters[0m
+[ 11%] [32mBuilding CXX object CMakeFiles/grid_map_filters.dir/src/MinInRadiusFilter.cpp.o[0m
+[ 11%] [32mBuilding CXX object CMakeFiles/grid_map_filters.dir/src/MeanInRadiusFilter.cpp.o[0m
+[ 23%] [32mBuilding CXX object CMakeFiles/grid_map_filters.dir/src/ThresholdFilter.cpp.o[0m
+[ 23%] [32mBuilding CXX object CMakeFiles/grid_map_filters.dir/src/NormalVectorsFilter.cpp.o[0m
+[ 29%] [32mBuilding CXX object CMakeFiles/grid_map_filters.dir/src/CurvatureFilter.cpp.o[0m
+[ 35%] [32mBuilding CXX object CMakeFiles/grid_map_filters.dir/src/NormalColorMapFilter.cpp.o[0m
+[ 41%] [32mBuilding CXX object CMakeFiles/grid_map_filters.dir/src/LightIntensityFilter.cpp.o[0m
+[ 47%] [32mBuilding CXX object CMakeFiles/grid_map_filters.dir/src/MathExpressionFilter.cpp.o[0m
+[ 52%] [32mBuilding CXX object CMakeFiles/grid_map_filters.dir/src/SlidingWindowMathExpressionFilter.cpp.o[0m
+[ 58%] [32mBuilding CXX object CMakeFiles/grid_map_filters.dir/src/DuplicationFilter.cpp.o[0m
+[ 64%] [32mBuilding CXX object CMakeFiles/grid_map_filters.dir/src/DeletionFilter.cpp.o[0m
+[ 70%] [32mBuilding CXX object CMakeFiles/grid_map_filters.dir/src/ColorFillFilter.cpp.o[0m
+[ 76%] [32mBuilding CXX object CMakeFiles/grid_map_filters.dir/src/ColorMapFilter.cpp.o[0m
+[ 82%] [32mBuilding CXX object CMakeFiles/grid_map_filters.dir/src/ColorBlendingFilter.cpp.o[0m
+[ 88%] [32mBuilding CXX object CMakeFiles/grid_map_filters.dir/src/SetBasicLayersFilter.cpp.o[0m
+[ 94%] [32mBuilding CXX object CMakeFiles/grid_map_filters.dir/src/BufferNormalizerFilter.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/grid_map_filters/lib/libgrid_map_filters.so[0m
+[100%] Built target grid_map_filters

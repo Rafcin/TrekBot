@@ -1,8 +1,0 @@
-[100%] [34m[1mGenerating dynamic reconfigure files from cfg/imu.cfg: /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/razor_imu_9dof/include/razor_imu_9dof/imuConfig.h /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/razor_imu_9dof/lib/python2.7/dist-packages/razor_imu_9dof/cfg/imuConfig.py[0m
-/xavier_ssd/TrekBot/TrekBot2_WS/build/razor_imu_9dof/setup_custom_pythonpath.sh: 5: exec: /xavier_ssd/TrekBot/TrekBot2_WS/src/razor_imu_9dof/cfg/imu.cfg: Permission denied
-make[2]: *** [/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/razor_imu_9dof/include/razor_imu_9dof/imuConfig.h] Error 126
-CMakeFiles/razor_imu_9dof_gencfg.dir/build.make:63: recipe for target '/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/razor_imu_9dof/include/razor_imu_9dof/imuConfig.h' failed
-CMakeFiles/Makefile2:67: recipe for target 'CMakeFiles/razor_imu_9dof_gencfg.dir/all' failed
-make[1]: *** [CMakeFiles/razor_imu_9dof_gencfg.dir/all] Error 2
-Makefile:140: recipe for target 'all' failed
-make: *** [all] Error 2

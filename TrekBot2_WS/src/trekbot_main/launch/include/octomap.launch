@@ -1,0 +1,25 @@
+<launch>
+	<node pkg="octomap_server" type="octomap_server_node" name="octomap_server">
+
+	<param name="tf_frame" value="world"/>
+	<param name="resolution" value="0.15" />
+	<param name="visualize_min_z" value="0" />
+	<param name="visualize_max_z" value="6.0" />
+	<!-- <param name="filter_speckles" value="true" />  -->
+<!-- 	<param name="treat_unknown_as_occupied" value="true" /> 
+ -->	
+ 	<param name="sensor_max_range" value="4.0" /> 
+	<param name="full_image_width" value="600" /> 
+	<param name="full_image_height" value="300" /> 
+	<param name="map_publish_frequency" value="5" /> 
+
+
+		<!-- fixed map frame (set to 'map' if SLAM or localization running!) -->
+		<param name="frame_id" type="string" value="map" />
+		
+		<!-- data source to integrate (PointCloud2) -->
+		<remap from="cloud_in" to="/zed/point_cloud/cloud_registered" />
+	
+	</node>
+</launch>
+

@@ -1,0 +1,1 @@
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/uuid_msgs/share/roseus/ros/uuid_msgs/manifest.l

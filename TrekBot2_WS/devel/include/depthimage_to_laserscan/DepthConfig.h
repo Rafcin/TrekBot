@@ -1,0 +1,1 @@
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/depthimage_to_laserscan/include/depthimage_to_laserscan/DepthConfig.h

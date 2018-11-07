@@ -1,0 +1,7 @@
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/depthimage_to_laserscan/src/DepthImageToLaserScanNodelet.cpp:60:24:[m[K [01;31m[Kerror: [m[Kexpected constructor, destructor, or type conversion before ‘[01m[K([m[K’ token
+ PLUGINLIB_DECLARE_CLASS[01;31m[K([m[Kdepthimage_to_laserscan, DepthImageToLaserScanNodelet, depthimage_to_laserscan::DepthImageToLaserScanNodelet, nodelet::Nodelet);
+                        [01;31m[K^[m[K
+make[2]: *** [CMakeFiles/DepthImageToLaserScanNodelet.dir/src/DepthImageToLaserScanNodelet.cpp.o] Error 1
+make[1]: *** [CMakeFiles/DepthImageToLaserScanNodelet.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+make: *** [all] Error 2

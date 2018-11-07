@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/sweep_ros
+
+Name: sweep_ros
+Description: Description of sweep_ros
+Version: 0.2.0
+Cflags: 
+Libs: -L/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/sweep_ros/lib 
+Requires: sensor_msgs

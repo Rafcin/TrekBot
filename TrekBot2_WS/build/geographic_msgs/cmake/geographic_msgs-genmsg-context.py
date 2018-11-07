@@ -1,0 +1,11 @@
+# generated from genmsg/cmake/pkg-genmsg.context.in
+
+messages_str = "/xavier_ssd/TrekBot/TrekBot2_WS/src/geographic_info/geographic_msgs/msg/BoundingBox.msg;/xavier_ssd/TrekBot/TrekBot2_WS/src/geographic_info/geographic_msgs/msg/GeographicMapChanges.msg;/xavier_ssd/TrekBot/TrekBot2_WS/src/geographic_info/geographic_msgs/msg/GeographicMap.msg;/xavier_ssd/TrekBot/TrekBot2_WS/src/geographic_info/geographic_msgs/msg/GeoPath.msg;/xavier_ssd/TrekBot/TrekBot2_WS/src/geographic_info/geographic_msgs/msg/GeoPoint.msg;/xavier_ssd/TrekBot/TrekBot2_WS/src/geographic_info/geographic_msgs/msg/GeoPointStamped.msg;/xavier_ssd/TrekBot/TrekBot2_WS/src/geographic_info/geographic_msgs/msg/GeoPose.msg;/xavier_ssd/TrekBot/TrekBot2_WS/src/geographic_info/geographic_msgs/msg/GeoPoseStamped.msg;/xavier_ssd/TrekBot/TrekBot2_WS/src/geographic_info/geographic_msgs/msg/KeyValue.msg;/xavier_ssd/TrekBot/TrekBot2_WS/src/geographic_info/geographic_msgs/msg/MapFeature.msg;/xavier_ssd/TrekBot/TrekBot2_WS/src/geographic_info/geographic_msgs/msg/RouteNetwork.msg;/xavier_ssd/TrekBot/TrekBot2_WS/src/geographic_info/geographic_msgs/msg/RoutePath.msg;/xavier_ssd/TrekBot/TrekBot2_WS/src/geographic_info/geographic_msgs/msg/RouteSegment.msg;/xavier_ssd/TrekBot/TrekBot2_WS/src/geographic_info/geographic_msgs/msg/WayPoint.msg"
+services_str = "/xavier_ssd/TrekBot/TrekBot2_WS/src/geographic_info/geographic_msgs/srv/GetGeographicMap.srv;/xavier_ssd/TrekBot/TrekBot2_WS/src/geographic_info/geographic_msgs/srv/GetGeoPath.srv;/xavier_ssd/TrekBot/TrekBot2_WS/src/geographic_info/geographic_msgs/srv/GetRoutePlan.srv;/xavier_ssd/TrekBot/TrekBot2_WS/src/geographic_info/geographic_msgs/srv/UpdateGeographicMap.srv"
+pkg_name = "geographic_msgs"
+dependencies_str = "geometry_msgs;std_msgs;uuid_msgs"
+langs = "gencpp;geneus;genlisp;gennodejs;genpy"
+dep_include_paths_str = "geographic_msgs;/xavier_ssd/TrekBot/TrekBot2_WS/src/geographic_info/geographic_msgs/msg;geometry_msgs;/opt/ros/melodic/share/geometry_msgs/cmake/../msg;std_msgs;/opt/ros/melodic/share/std_msgs/cmake/../msg;uuid_msgs;/xavier_ssd/TrekBot/TrekBot2_WS/src/unique_identifier/uuid_msgs/msg"
+PYTHON_EXECUTABLE = "/usr/bin/python2"
+package_has_static_sources = '' == 'TRUE'
+genmsg_check_deps_script = "/opt/ros/melodic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py"

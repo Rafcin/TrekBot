@@ -1,0 +1,1 @@
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/robot_localization/share/roseus/ros/robot_localization/manifest.l
