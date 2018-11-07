@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/nlopt
+
+Name: nlopt
+Description: Description of nlopt
+Version: 2.4.1
+Cflags: -I/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/nlopt/include
+Libs: -L/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/nlopt/lib -lnlopt_wrap
+Requires: 

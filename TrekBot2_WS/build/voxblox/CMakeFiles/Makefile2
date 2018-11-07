@@ -60,6 +60,40 @@ CMAKE_SOURCE_DIR = /xavier_ssd/TrekBot/TrekBot2_WS/src/voxblox/voxblox
 CMAKE_BINARY_DIR = /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox
 
 #=============================================================================
+# Target rules for target CMakeFiles/_run_tests_voxblox_gtest_test_clear_spheres.dir
+
+# All Build rule for target.
+CMakeFiles/_run_tests_voxblox_gtest_test_clear_spheres.dir/all: CMakeFiles/tests.dir/all
+CMakeFiles/_run_tests_voxblox_gtest_test_clear_spheres.dir/all: CMakeFiles/test_clear_spheres.dir/all
+CMakeFiles/_run_tests_voxblox_gtest_test_clear_spheres.dir/all: CMakeFiles/clean_test_results_voxblox.dir/all
+	$(MAKE) -f CMakeFiles/_run_tests_voxblox_gtest_test_clear_spheres.dir/build.make CMakeFiles/_run_tests_voxblox_gtest_test_clear_spheres.dir/depend
+	$(MAKE) -f CMakeFiles/_run_tests_voxblox_gtest_test_clear_spheres.dir/build.make CMakeFiles/_run_tests_voxblox_gtest_test_clear_spheres.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles --progress-num= "Built target _run_tests_voxblox_gtest_test_clear_spheres"
+.PHONY : CMakeFiles/_run_tests_voxblox_gtest_test_clear_spheres.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/_run_tests_voxblox_gtest_test_clear_spheres.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 49
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/_run_tests_voxblox_gtest_test_clear_spheres.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 0
+.PHONY : CMakeFiles/_run_tests_voxblox_gtest_test_clear_spheres.dir/rule
+
+# Convenience name for target.
+_run_tests_voxblox_gtest_test_clear_spheres: CMakeFiles/_run_tests_voxblox_gtest_test_clear_spheres.dir/rule
+
+.PHONY : _run_tests_voxblox_gtest_test_clear_spheres
+
+# clean rule for target.
+CMakeFiles/_run_tests_voxblox_gtest_test_clear_spheres.dir/clean:
+	$(MAKE) -f CMakeFiles/_run_tests_voxblox_gtest_test_clear_spheres.dir/build.make CMakeFiles/_run_tests_voxblox_gtest_test_clear_spheres.dir/clean
+.PHONY : CMakeFiles/_run_tests_voxblox_gtest_test_clear_spheres.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/_run_tests_voxblox_gtest_test_clear_spheres.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/_run_tests_voxblox_gtest_test_bucket_queue.dir
 
 # All Build rule for target.
@@ -73,7 +107,7 @@ CMakeFiles/_run_tests_voxblox_gtest_test_bucket_queue.dir/all: CMakeFiles/clean_
 
 # Build rule for subdir invocation for target.
 CMakeFiles/_run_tests_voxblox_gtest_test_bucket_queue.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 47
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 49
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/_run_tests_voxblox_gtest_test_bucket_queue.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 0
 .PHONY : CMakeFiles/_run_tests_voxblox_gtest_test_bucket_queue.dir/rule
@@ -139,7 +173,7 @@ CMakeFiles/_run_tests_voxblox_gtest_test_sdf_integrators.dir/all: CMakeFiles/cle
 
 # Build rule for subdir invocation for target.
 CMakeFiles/_run_tests_voxblox_gtest_test_sdf_integrators.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 47
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 49
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/_run_tests_voxblox_gtest_test_sdf_integrators.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 0
 .PHONY : CMakeFiles/_run_tests_voxblox_gtest_test_sdf_integrators.dir/rule
@@ -168,7 +202,7 @@ CMakeFiles/test_sdf_integrators.dir/all: CMakeFiles/voxblox_proto.dir/all
 CMakeFiles/test_sdf_integrators.dir/all: gtest/googlemock/gtest/CMakeFiles/gtest.dir/all
 	$(MAKE) -f CMakeFiles/test_sdf_integrators.dir/build.make CMakeFiles/test_sdf_integrators.dir/depend
 	$(MAKE) -f CMakeFiles/test_sdf_integrators.dir/build.make CMakeFiles/test_sdf_integrators.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles --progress-num=26,27 "Built target test_sdf_integrators"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles --progress-num=28,29 "Built target test_sdf_integrators"
 .PHONY : CMakeFiles/test_sdf_integrators.dir/all
 
 # Build rule for subdir invocation for target.
@@ -207,7 +241,7 @@ CMakeFiles/_run_tests_voxblox_gtest_test_layer_utils.dir/all: CMakeFiles/clean_t
 
 # Build rule for subdir invocation for target.
 CMakeFiles/_run_tests_voxblox_gtest_test_layer_utils.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 47
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 49
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/_run_tests_voxblox_gtest_test_layer_utils.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 0
 .PHONY : CMakeFiles/_run_tests_voxblox_gtest_test_layer_utils.dir/rule
@@ -239,7 +273,7 @@ CMakeFiles/_run_tests_voxblox.dir/all: CMakeFiles/_run_tests_voxblox_gtest.dir/a
 
 # Build rule for subdir invocation for target.
 CMakeFiles/_run_tests_voxblox.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 47
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 49
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/_run_tests_voxblox.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 0
 .PHONY : CMakeFiles/_run_tests_voxblox.dir/rule
@@ -271,7 +305,7 @@ CMakeFiles/run_tests_voxblox.dir/all: CMakeFiles/run_tests_voxblox_gtest.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/run_tests_voxblox.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 47
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 49
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/run_tests_voxblox.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 0
 .PHONY : CMakeFiles/run_tests_voxblox.dir/rule
@@ -339,7 +373,7 @@ CMakeFiles/_run_tests_voxblox_gtest_test_tsdf_interpolator.dir/all: CMakeFiles/c
 
 # Build rule for subdir invocation for target.
 CMakeFiles/_run_tests_voxblox_gtest_test_tsdf_interpolator.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 47
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 49
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/_run_tests_voxblox_gtest_test_tsdf_interpolator.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 0
 .PHONY : CMakeFiles/_run_tests_voxblox_gtest_test_tsdf_interpolator.dir/rule
@@ -367,7 +401,7 @@ CMakeFiles/test_load_esdf.dir/all: CMakeFiles/voxblox.dir/all
 CMakeFiles/test_load_esdf.dir/all: CMakeFiles/voxblox_proto.dir/all
 	$(MAKE) -f CMakeFiles/test_load_esdf.dir/build.make CMakeFiles/test_load_esdf.dir/depend
 	$(MAKE) -f CMakeFiles/test_load_esdf.dir/build.make CMakeFiles/test_load_esdf.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles --progress-num=20,21 "Built target test_load_esdf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles --progress-num=22,23 "Built target test_load_esdf"
 .PHONY : CMakeFiles/test_load_esdf.dir/all
 
 # Include target in all.
@@ -406,7 +440,7 @@ CMakeFiles/test_layer.dir/all: CMakeFiles/voxblox_proto.dir/all
 CMakeFiles/test_layer.dir/all: gtest/googlemock/gtest/CMakeFiles/gtest.dir/all
 	$(MAKE) -f CMakeFiles/test_layer.dir/build.make CMakeFiles/test_layer.dir/depend
 	$(MAKE) -f CMakeFiles/test_layer.dir/build.make CMakeFiles/test_layer.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles --progress-num=16,17 "Built target test_layer"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles --progress-num=18,19 "Built target test_layer"
 .PHONY : CMakeFiles/test_layer.dir/all
 
 # Build rule for subdir invocation for target.
@@ -440,7 +474,7 @@ CMakeFiles/test_merge_integration.dir/all: CMakeFiles/voxblox_proto.dir/all
 CMakeFiles/test_merge_integration.dir/all: gtest/googlemock/gtest/CMakeFiles/gtest.dir/all
 	$(MAKE) -f CMakeFiles/test_merge_integration.dir/build.make CMakeFiles/test_merge_integration.dir/depend
 	$(MAKE) -f CMakeFiles/test_merge_integration.dir/build.make CMakeFiles/test_merge_integration.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles --progress-num=22,23 "Built target test_merge_integration"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles --progress-num=24,25 "Built target test_merge_integration"
 .PHONY : CMakeFiles/test_merge_integration.dir/all
 
 # Build rule for subdir invocation for target.
@@ -471,6 +505,7 @@ clean: CMakeFiles/test_merge_integration.dir/clean
 # All Build rule for target.
 CMakeFiles/run_tests_voxblox_gtest.dir/all: CMakeFiles/run_tests_voxblox_gtest_test_bucket_queue.dir/all
 CMakeFiles/run_tests_voxblox_gtest.dir/all: CMakeFiles/run_tests_voxblox_gtest_test_layer.dir/all
+CMakeFiles/run_tests_voxblox_gtest.dir/all: CMakeFiles/run_tests_voxblox_gtest_test_clear_spheres.dir/all
 CMakeFiles/run_tests_voxblox_gtest.dir/all: CMakeFiles/run_tests_voxblox_gtest_test_sdf_integrators.dir/all
 CMakeFiles/run_tests_voxblox_gtest.dir/all: CMakeFiles/run_tests_voxblox_gtest_test_layer_utils.dir/all
 CMakeFiles/run_tests_voxblox_gtest.dir/all: CMakeFiles/run_tests_voxblox_gtest_test_approx_hash_array.dir/all
@@ -485,7 +520,7 @@ CMakeFiles/run_tests_voxblox_gtest.dir/all: CMakeFiles/run_tests_voxblox_gtest_t
 
 # Build rule for subdir invocation for target.
 CMakeFiles/run_tests_voxblox_gtest.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 47
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 49
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/run_tests_voxblox_gtest.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 0
 .PHONY : CMakeFiles/run_tests_voxblox_gtest.dir/rule
@@ -512,7 +547,7 @@ clean: CMakeFiles/run_tests_voxblox_gtest.dir/clean
 CMakeFiles/voxblox.dir/all: CMakeFiles/voxblox_proto.dir/all
 	$(MAKE) -f CMakeFiles/voxblox.dir/build.make CMakeFiles/voxblox.dir/depend
 	$(MAKE) -f CMakeFiles/voxblox.dir/build.make CMakeFiles/voxblox.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles --progress-num=34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55 "Built target voxblox"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles --progress-num=36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57 "Built target voxblox"
 .PHONY : CMakeFiles/voxblox.dir/all
 
 # Include target in all.
@@ -655,7 +690,7 @@ CMakeFiles/_run_tests_voxblox_gtest_test_layer.dir/all: CMakeFiles/clean_test_re
 
 # Build rule for subdir invocation for target.
 CMakeFiles/_run_tests_voxblox_gtest_test_layer.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 47
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 49
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/_run_tests_voxblox_gtest_test_layer.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 0
 .PHONY : CMakeFiles/_run_tests_voxblox_gtest_test_layer.dir/rule
@@ -683,7 +718,7 @@ CMakeFiles/tsdf_to_esdf.dir/all: CMakeFiles/voxblox.dir/all
 CMakeFiles/tsdf_to_esdf.dir/all: CMakeFiles/voxblox_proto.dir/all
 	$(MAKE) -f CMakeFiles/tsdf_to_esdf.dir/build.make CMakeFiles/tsdf_to_esdf.dir/depend
 	$(MAKE) -f CMakeFiles/tsdf_to_esdf.dir/build.make CMakeFiles/tsdf_to_esdf.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles --progress-num=32,33 "Built target tsdf_to_esdf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles --progress-num=34,35 "Built target tsdf_to_esdf"
 .PHONY : CMakeFiles/tsdf_to_esdf.dir/all
 
 # Include target in all.
@@ -722,7 +757,7 @@ CMakeFiles/test_layer_utils.dir/all: CMakeFiles/voxblox_proto.dir/all
 CMakeFiles/test_layer_utils.dir/all: gtest/googlemock/gtest/CMakeFiles/gtest.dir/all
 	$(MAKE) -f CMakeFiles/test_layer_utils.dir/build.make CMakeFiles/test_layer_utils.dir/depend
 	$(MAKE) -f CMakeFiles/test_layer_utils.dir/build.make CMakeFiles/test_layer_utils.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles --progress-num=18,19 "Built target test_layer_utils"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles --progress-num=20,21 "Built target test_layer_utils"
 .PHONY : CMakeFiles/test_layer_utils.dir/all
 
 # Build rule for subdir invocation for target.
@@ -759,7 +794,7 @@ CMakeFiles/run_tests.dir/all: CMakeFiles/_run_tests_voxblox.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/run_tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 47
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 49
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/run_tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 0
 .PHONY : CMakeFiles/run_tests.dir/rule
@@ -793,7 +828,7 @@ CMakeFiles/_run_tests_voxblox_gtest_test_tsdf_map.dir/all: CMakeFiles/clean_test
 
 # Build rule for subdir invocation for target.
 CMakeFiles/_run_tests_voxblox_gtest_test_tsdf_map.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 47
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 49
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/_run_tests_voxblox_gtest_test_tsdf_map.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 0
 .PHONY : CMakeFiles/_run_tests_voxblox_gtest_test_tsdf_map.dir/rule
@@ -878,6 +913,38 @@ clean: CMakeFiles/_catkin_empty_exported_target.dir/clean
 .PHONY : clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/run_tests_voxblox_gtest_test_clear_spheres.dir
+
+# All Build rule for target.
+CMakeFiles/run_tests_voxblox_gtest_test_clear_spheres.dir/all: CMakeFiles/test_clear_spheres.dir/all
+	$(MAKE) -f CMakeFiles/run_tests_voxblox_gtest_test_clear_spheres.dir/build.make CMakeFiles/run_tests_voxblox_gtest_test_clear_spheres.dir/depend
+	$(MAKE) -f CMakeFiles/run_tests_voxblox_gtest_test_clear_spheres.dir/build.make CMakeFiles/run_tests_voxblox_gtest_test_clear_spheres.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles --progress-num= "Built target run_tests_voxblox_gtest_test_clear_spheres"
+.PHONY : CMakeFiles/run_tests_voxblox_gtest_test_clear_spheres.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/run_tests_voxblox_gtest_test_clear_spheres.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 31
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/run_tests_voxblox_gtest_test_clear_spheres.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 0
+.PHONY : CMakeFiles/run_tests_voxblox_gtest_test_clear_spheres.dir/rule
+
+# Convenience name for target.
+run_tests_voxblox_gtest_test_clear_spheres: CMakeFiles/run_tests_voxblox_gtest_test_clear_spheres.dir/rule
+
+.PHONY : run_tests_voxblox_gtest_test_clear_spheres
+
+# clean rule for target.
+CMakeFiles/run_tests_voxblox_gtest_test_clear_spheres.dir/clean:
+	$(MAKE) -f CMakeFiles/run_tests_voxblox_gtest_test_clear_spheres.dir/build.make CMakeFiles/run_tests_voxblox_gtest_test_clear_spheres.dir/clean
+.PHONY : CMakeFiles/run_tests_voxblox_gtest_test_clear_spheres.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/run_tests_voxblox_gtest_test_clear_spheres.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/test_tsdf_map.dir
 
 # All Build rule for target.
@@ -886,7 +953,7 @@ CMakeFiles/test_tsdf_map.dir/all: CMakeFiles/voxblox_proto.dir/all
 CMakeFiles/test_tsdf_map.dir/all: gtest/googlemock/gtest/CMakeFiles/gtest.dir/all
 	$(MAKE) -f CMakeFiles/test_tsdf_map.dir/build.make CMakeFiles/test_tsdf_map.dir/depend
 	$(MAKE) -f CMakeFiles/test_tsdf_map.dir/build.make CMakeFiles/test_tsdf_map.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles --progress-num=30,31 "Built target test_tsdf_map"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles --progress-num=32,33 "Built target test_tsdf_map"
 .PHONY : CMakeFiles/test_tsdf_map.dir/all
 
 # Build rule for subdir invocation for target.
@@ -918,7 +985,7 @@ clean: CMakeFiles/test_tsdf_map.dir/clean
 CMakeFiles/voxblox_proto.dir/all:
 	$(MAKE) -f CMakeFiles/voxblox_proto.dir/build.make CMakeFiles/voxblox_proto.dir/depend
 	$(MAKE) -f CMakeFiles/voxblox_proto.dir/build.make CMakeFiles/voxblox_proto.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles --progress-num=56,57,58,59,60 "Built target voxblox_proto"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles --progress-num=58,59,60,61,62 "Built target voxblox_proto"
 .PHONY : CMakeFiles/voxblox_proto.dir/all
 
 # Include target in all.
@@ -952,6 +1019,7 @@ clean: CMakeFiles/voxblox_proto.dir/clean
 # Target rules for target CMakeFiles/_run_tests_voxblox_gtest.dir
 
 # All Build rule for target.
+CMakeFiles/_run_tests_voxblox_gtest.dir/all: CMakeFiles/_run_tests_voxblox_gtest_test_clear_spheres.dir/all
 CMakeFiles/_run_tests_voxblox_gtest.dir/all: CMakeFiles/_run_tests_voxblox_gtest_test_bucket_queue.dir/all
 CMakeFiles/_run_tests_voxblox_gtest.dir/all: CMakeFiles/_run_tests_voxblox_gtest_test_sdf_integrators.dir/all
 CMakeFiles/_run_tests_voxblox_gtest.dir/all: CMakeFiles/_run_tests_voxblox_gtest_test_layer_utils.dir/all
@@ -968,7 +1036,7 @@ CMakeFiles/_run_tests_voxblox_gtest.dir/all: CMakeFiles/_run_tests_voxblox_gtest
 
 # Build rule for subdir invocation for target.
 CMakeFiles/_run_tests_voxblox_gtest.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 47
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 49
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/_run_tests_voxblox_gtest.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 0
 .PHONY : CMakeFiles/_run_tests_voxblox_gtest.dir/rule
@@ -1125,7 +1193,7 @@ CMakeFiles/test_tsdf_interpolator.dir/all: CMakeFiles/voxblox_proto.dir/all
 CMakeFiles/test_tsdf_interpolator.dir/all: gtest/googlemock/gtest/CMakeFiles/gtest.dir/all
 	$(MAKE) -f CMakeFiles/test_tsdf_interpolator.dir/build.make CMakeFiles/test_tsdf_interpolator.dir/depend
 	$(MAKE) -f CMakeFiles/test_tsdf_interpolator.dir/build.make CMakeFiles/test_tsdf_interpolator.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles --progress-num=28,29 "Built target test_tsdf_interpolator"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles --progress-num=30,31 "Built target test_tsdf_interpolator"
 .PHONY : CMakeFiles/test_tsdf_interpolator.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1162,6 +1230,7 @@ CMakeFiles/tests.dir/all: CMakeFiles/test_approx_hash_array.dir/all
 CMakeFiles/tests.dir/all: CMakeFiles/test_layer_utils.dir/all
 CMakeFiles/tests.dir/all: CMakeFiles/test_tsdf_map.dir/all
 CMakeFiles/tests.dir/all: CMakeFiles/test_tsdf_interpolator.dir/all
+CMakeFiles/tests.dir/all: CMakeFiles/test_clear_spheres.dir/all
 CMakeFiles/tests.dir/all: CMakeFiles/test_protobuf.dir/all
 	$(MAKE) -f CMakeFiles/tests.dir/build.make CMakeFiles/tests.dir/depend
 	$(MAKE) -f CMakeFiles/tests.dir/build.make CMakeFiles/tests.dir/build
@@ -1170,7 +1239,7 @@ CMakeFiles/tests.dir/all: CMakeFiles/test_protobuf.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/tests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 47
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 49
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 0
 .PHONY : CMakeFiles/tests.dir/rule
@@ -1236,7 +1305,7 @@ CMakeFiles/_run_tests_voxblox_gtest_test_approx_hash_array.dir/all: CMakeFiles/c
 
 # Build rule for subdir invocation for target.
 CMakeFiles/_run_tests_voxblox_gtest_test_approx_hash_array.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 47
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 49
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/_run_tests_voxblox_gtest_test_approx_hash_array.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 0
 .PHONY : CMakeFiles/_run_tests_voxblox_gtest_test_approx_hash_array.dir/rule
@@ -1253,6 +1322,40 @@ CMakeFiles/_run_tests_voxblox_gtest_test_approx_hash_array.dir/clean:
 
 # clean rule for target.
 clean: CMakeFiles/_run_tests_voxblox_gtest_test_approx_hash_array.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/test_clear_spheres.dir
+
+# All Build rule for target.
+CMakeFiles/test_clear_spheres.dir/all: CMakeFiles/voxblox.dir/all
+CMakeFiles/test_clear_spheres.dir/all: CMakeFiles/voxblox_proto.dir/all
+CMakeFiles/test_clear_spheres.dir/all: gtest/googlemock/gtest/CMakeFiles/gtest.dir/all
+	$(MAKE) -f CMakeFiles/test_clear_spheres.dir/build.make CMakeFiles/test_clear_spheres.dir/depend
+	$(MAKE) -f CMakeFiles/test_clear_spheres.dir/build.make CMakeFiles/test_clear_spheres.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles --progress-num=16,17 "Built target test_clear_spheres"
+.PHONY : CMakeFiles/test_clear_spheres.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/test_clear_spheres.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 31
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/test_clear_spheres.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 0
+.PHONY : CMakeFiles/test_clear_spheres.dir/rule
+
+# Convenience name for target.
+test_clear_spheres: CMakeFiles/test_clear_spheres.dir/rule
+
+.PHONY : test_clear_spheres
+
+# clean rule for target.
+CMakeFiles/test_clear_spheres.dir/clean:
+	$(MAKE) -f CMakeFiles/test_clear_spheres.dir/build.make CMakeFiles/test_clear_spheres.dir/clean
+.PHONY : CMakeFiles/test_clear_spheres.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/test_clear_spheres.dir/clean
 
 .PHONY : clean
 
@@ -1361,7 +1464,7 @@ CMakeFiles/test_protobuf.dir/all: CMakeFiles/voxblox_proto.dir/all
 CMakeFiles/test_protobuf.dir/all: gtest/googlemock/gtest/CMakeFiles/gtest.dir/all
 	$(MAKE) -f CMakeFiles/test_protobuf.dir/build.make CMakeFiles/test_protobuf.dir/depend
 	$(MAKE) -f CMakeFiles/test_protobuf.dir/build.make CMakeFiles/test_protobuf.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles --progress-num=24,25 "Built target test_protobuf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles --progress-num=26,27 "Built target test_protobuf"
 .PHONY : CMakeFiles/test_protobuf.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1464,7 +1567,7 @@ CMakeFiles/_run_tests_voxblox_gtest_test_protobuf.dir/all: CMakeFiles/test_proto
 
 # Build rule for subdir invocation for target.
 CMakeFiles/_run_tests_voxblox_gtest_test_protobuf.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 47
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 49
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/_run_tests_voxblox_gtest_test_protobuf.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 0
 .PHONY : CMakeFiles/_run_tests_voxblox_gtest_test_protobuf.dir/rule
@@ -1498,7 +1601,7 @@ CMakeFiles/_run_tests_voxblox_gtest_test_merge_integration.dir/all: CMakeFiles/c
 
 # Build rule for subdir invocation for target.
 CMakeFiles/_run_tests_voxblox_gtest_test_merge_integration.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 47
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 49
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/_run_tests_voxblox_gtest_test_merge_integration.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/voxblox/CMakeFiles 0
 .PHONY : CMakeFiles/_run_tests_voxblox_gtest_test_merge_integration.dir/rule

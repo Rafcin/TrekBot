@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/xavier_ssd/TrekBot/TrekBot2_WS/build/ceres_catkin/CMakeFiles/ceres_src"
+		},
+		{
+			"file" : "/xavier_ssd/TrekBot/TrekBot2_WS/build/ceres_catkin/CMakeFiles/ceres_src.rule"
+		},
+		{
+			"file" : "/xavier_ssd/TrekBot/TrekBot2_WS/build/ceres_catkin/CMakeFiles/ceres_src-complete.rule"
+		},
+		{
+			"file" : "/xavier_ssd/TrekBot/TrekBot2_WS/build/ceres_catkin/ceres_src-prefix/src/ceres_src-stamp/ceres_src-install.rule"
+		},
+		{
+			"file" : "/xavier_ssd/TrekBot/TrekBot2_WS/build/ceres_catkin/ceres_src-prefix/src/ceres_src-stamp/ceres_src-mkdir.rule"
+		},
+		{
+			"file" : "/xavier_ssd/TrekBot/TrekBot2_WS/build/ceres_catkin/ceres_src-prefix/src/ceres_src-stamp/ceres_src-download.rule"
+		},
+		{
+			"file" : "/xavier_ssd/TrekBot/TrekBot2_WS/build/ceres_catkin/ceres_src-prefix/src/ceres_src-stamp/ceres_src-update.rule"
+		},
+		{
+			"file" : "/xavier_ssd/TrekBot/TrekBot2_WS/build/ceres_catkin/ceres_src-prefix/src/ceres_src-stamp/ceres_src-patch.rule"
+		},
+		{
+			"file" : "/xavier_ssd/TrekBot/TrekBot2_WS/build/ceres_catkin/ceres_src-prefix/src/ceres_src-stamp/ceres_src-configure.rule"
+		},
+		{
+			"file" : "/xavier_ssd/TrekBot/TrekBot2_WS/build/ceres_catkin/ceres_src-prefix/src/ceres_src-stamp/ceres_src-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ceres_src"
+		],
+		"name" : "ceres_src"
+	}
+}

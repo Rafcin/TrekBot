@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/hector_compressed_map_transport
+
+Name: hector_compressed_map_transport
+Description: Description of hector_compressed_map_transport
+Version: 0.3.5
+Cflags: 
+Libs: -L/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/hector_compressed_map_transport/lib 
+Requires: 

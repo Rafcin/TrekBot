@@ -168,6 +168,19 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named _run_tests_voxblox_gtest_test_clear_spheres
+
+# Build rule for target.
+_run_tests_voxblox_gtest_test_clear_spheres: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 _run_tests_voxblox_gtest_test_clear_spheres
+.PHONY : _run_tests_voxblox_gtest_test_clear_spheres
+
+# fast build rule for target.
+_run_tests_voxblox_gtest_test_clear_spheres/fast:
+	$(MAKE) -f CMakeFiles/_run_tests_voxblox_gtest_test_clear_spheres.dir/build.make CMakeFiles/_run_tests_voxblox_gtest_test_clear_spheres.dir/build
+.PHONY : _run_tests_voxblox_gtest_test_clear_spheres/fast
+
+#=============================================================================
 # Target rules for targets named _run_tests_voxblox_gtest_test_bucket_queue
 
 # Build rule for target.
@@ -480,6 +493,19 @@ _catkin_empty_exported_target/fast:
 .PHONY : _catkin_empty_exported_target/fast
 
 #=============================================================================
+# Target rules for targets named run_tests_voxblox_gtest_test_clear_spheres
+
+# Build rule for target.
+run_tests_voxblox_gtest_test_clear_spheres: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 run_tests_voxblox_gtest_test_clear_spheres
+.PHONY : run_tests_voxblox_gtest_test_clear_spheres
+
+# fast build rule for target.
+run_tests_voxblox_gtest_test_clear_spheres/fast:
+	$(MAKE) -f CMakeFiles/run_tests_voxblox_gtest_test_clear_spheres.dir/build.make CMakeFiles/run_tests_voxblox_gtest_test_clear_spheres.dir/build
+.PHONY : run_tests_voxblox_gtest_test_clear_spheres/fast
+
+#=============================================================================
 # Target rules for targets named test_tsdf_map
 
 # Build rule for target.
@@ -621,6 +647,19 @@ _run_tests_voxblox_gtest_test_approx_hash_array: cmake_check_build_system
 _run_tests_voxblox_gtest_test_approx_hash_array/fast:
 	$(MAKE) -f CMakeFiles/_run_tests_voxblox_gtest_test_approx_hash_array.dir/build.make CMakeFiles/_run_tests_voxblox_gtest_test_approx_hash_array.dir/build
 .PHONY : _run_tests_voxblox_gtest_test_approx_hash_array/fast
+
+#=============================================================================
+# Target rules for targets named test_clear_spheres
+
+# Build rule for target.
+test_clear_spheres: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 test_clear_spheres
+.PHONY : test_clear_spheres
+
+# fast build rule for target.
+test_clear_spheres/fast:
+	$(MAKE) -f CMakeFiles/test_clear_spheres.dir/build.make CMakeFiles/test_clear_spheres.dir/build
+.PHONY : test_clear_spheres/fast
 
 #=============================================================================
 # Target rules for targets named test_data
@@ -1466,6 +1505,33 @@ test/test_bucket_queue.cc.s:
 	$(MAKE) -f CMakeFiles/test_bucket_queue.dir/build.make CMakeFiles/test_bucket_queue.dir/test/test_bucket_queue.cc.s
 .PHONY : test/test_bucket_queue.cc.s
 
+test/test_clear_spheres.o: test/test_clear_spheres.cc.o
+
+.PHONY : test/test_clear_spheres.o
+
+# target to build an object file
+test/test_clear_spheres.cc.o:
+	$(MAKE) -f CMakeFiles/test_clear_spheres.dir/build.make CMakeFiles/test_clear_spheres.dir/test/test_clear_spheres.cc.o
+.PHONY : test/test_clear_spheres.cc.o
+
+test/test_clear_spheres.i: test/test_clear_spheres.cc.i
+
+.PHONY : test/test_clear_spheres.i
+
+# target to preprocess a source file
+test/test_clear_spheres.cc.i:
+	$(MAKE) -f CMakeFiles/test_clear_spheres.dir/build.make CMakeFiles/test_clear_spheres.dir/test/test_clear_spheres.cc.i
+.PHONY : test/test_clear_spheres.cc.i
+
+test/test_clear_spheres.s: test/test_clear_spheres.cc.s
+
+.PHONY : test/test_clear_spheres.s
+
+# target to generate assembly for a file
+test/test_clear_spheres.cc.s:
+	$(MAKE) -f CMakeFiles/test_clear_spheres.dir/build.make CMakeFiles/test_clear_spheres.dir/test/test_clear_spheres.cc.s
+.PHONY : test/test_clear_spheres.cc.s
+
 test/test_layer.o: test/test_layer.cc.o
 
 .PHONY : test/test_layer.o
@@ -1719,6 +1785,7 @@ help:
 	@echo "... install"
 	@echo "... list_install_components"
 	@echo "... rebuild_cache"
+	@echo "... _run_tests_voxblox_gtest_test_clear_spheres"
 	@echo "... _run_tests_voxblox_gtest_test_bucket_queue"
 	@echo "... run_tests_voxblox_gtest_test_bucket_queue"
 	@echo "... _run_tests_voxblox_gtest_test_sdf_integrators"
@@ -1744,6 +1811,7 @@ help:
 	@echo "... _run_tests_voxblox_gtest_test_tsdf_map"
 	@echo "... download_extra_data"
 	@echo "... _catkin_empty_exported_target"
+	@echo "... run_tests_voxblox_gtest_test_clear_spheres"
 	@echo "... test_tsdf_map"
 	@echo "... voxblox_proto"
 	@echo "... _run_tests_voxblox_gtest"
@@ -1757,6 +1825,7 @@ help:
 	@echo "... tests"
 	@echo "... run_tests_voxblox_gtest_test_approx_hash_array"
 	@echo "... _run_tests_voxblox_gtest_test_approx_hash_array"
+	@echo "... test_clear_spheres"
 	@echo "... test_data"
 	@echo "... clean_test_results_voxblox"
 	@echo "... run_tests_voxblox_gtest_test_tsdf_map"
@@ -1845,6 +1914,9 @@ help:
 	@echo "... test/test_bucket_queue.o"
 	@echo "... test/test_bucket_queue.i"
 	@echo "... test/test_bucket_queue.s"
+	@echo "... test/test_clear_spheres.o"
+	@echo "... test/test_clear_spheres.i"
+	@echo "... test/test_clear_spheres.s"
 	@echo "... test/test_layer.o"
 	@echo "... test/test_layer.i"
 	@echo "... test/test_layer.s"

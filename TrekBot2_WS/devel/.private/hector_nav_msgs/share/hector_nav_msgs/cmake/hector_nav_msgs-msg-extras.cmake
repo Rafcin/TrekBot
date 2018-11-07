@@ -1,0 +1,2 @@
+set(hector_nav_msgs_MESSAGE_FILES "")
+set(hector_nav_msgs_SERVICE_FILES "/xavier_ssd/TrekBot/TrekBot2_WS/src/hector_slam/hector_nav_msgs/srv/GetDistanceToObstacle.srv;/xavier_ssd/TrekBot/TrekBot2_WS/src/hector_slam/hector_nav_msgs/srv/GetRecoveryInfo.srv;/xavier_ssd/TrekBot/TrekBot2_WS/src/hector_slam/hector_nav_msgs/srv/GetRobotTrajectory.srv;/xavier_ssd/TrekBot/TrekBot2_WS/src/hector_slam/hector_nav_msgs/srv/GetSearchPosition.srv;/xavier_ssd/TrekBot/TrekBot2_WS/src/hector_slam/hector_nav_msgs/srv/GetNormal.srv")

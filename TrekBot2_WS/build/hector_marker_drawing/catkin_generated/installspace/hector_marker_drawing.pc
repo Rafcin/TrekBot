@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot2_WS/install
+
+Name: hector_marker_drawing
+Description: Description of hector_marker_drawing
+Version: 0.3.5
+Cflags: -I/xavier_ssd/TrekBot/TrekBot2_WS/install/include -I/usr/include/eigen3
+Libs: -L/xavier_ssd/TrekBot/TrekBot2_WS/install/lib 
+Requires: roscpp visualization_msgs

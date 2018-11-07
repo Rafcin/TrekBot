@@ -1,0 +1,15 @@
+[ 16%] Built target voxblox_proto
+[35m[1mScanning dependencies of target voxblox[0m
+[ 19%] [32mBuilding CXX object CMakeFiles/voxblox.dir/src/alignment/icp.cc.o[0m
+[ 22%] [32mBuilding CXX object CMakeFiles/voxblox.dir/src/core/esdf_map.cc.o[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/voxblox.dir/src/integrator/esdf_integrator.cc.o[0m
+[ 29%] [32mBuilding CXX object CMakeFiles/voxblox.dir/src/io/sdf_ply.cc.o[0m
+[ 32%] [32mBuilding CXX object CMakeFiles/voxblox.dir/src/simulation/simulation_world.cc.o[0m
+[ 35%] [32m[1mLinking CXX shared library /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/voxblox/lib/libvoxblox.so[0m
+[ 87%] Built target voxblox
+[35m[1mScanning dependencies of target tsdf_to_esdf[0m
+[ 90%] [32m[1mLinking CXX executable /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/voxblox/lib/voxblox/test_load_esdf[0m
+[ 93%] [32mBuilding CXX object CMakeFiles/tsdf_to_esdf.dir/test/tsdf_to_esdf.cc.o[0m
+[ 96%] Built target test_load_esdf
+[100%] [32m[1mLinking CXX executable /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/voxblox/lib/voxblox/tsdf_to_esdf[0m
+[100%] Built target tsdf_to_esdf

@@ -65,4 +65,5 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 	  <arg name="frame_id"                  value="$(arg camera_frame)" />
 	</include>
   </group>
+
 </launch>
