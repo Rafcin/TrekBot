@@ -3,6 +3,12 @@
 <launch>
     <arg name="svo_file"                default="" /> <!-- <arg name="svo_file" default="path/to/svo/file.svo"> -->
     
+
+    <!-- Launch IMU Node -->
+    <include file="$(find trekbot_main)/launch/include/imu.launch">
+
+    </include>
+
     <!-- Launch ZED camera wrapper -->
     <include file="$(find trekbot_main)/launch/include/zed_camera.launch">
         <arg name="camera_model"        value="0" /> <!-- 0=ZED, 1=ZEDM-->
@@ -24,10 +30,7 @@
     </include>
 -->
 
-    <!-- Launch IMU Node -->
-    <include file="$(find trekbot_main)/launch/include/imu.launch">
 
-    </include>
 
 <!--
 The Localization node is important becuase it provides the filtered kalman odometry so the robot will not drift as much.
