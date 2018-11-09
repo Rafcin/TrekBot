@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot2_WS/install
+
+Name: driver_base
+Description: Description of driver_base
+Version: 1.6.8
+Cflags: -I/xavier_ssd/TrekBot/TrekBot2_WS/install/include -I/usr/include
+Libs: -L/xavier_ssd/TrekBot/TrekBot2_WS/install/lib 
+Requires: message_runtime std_msgs

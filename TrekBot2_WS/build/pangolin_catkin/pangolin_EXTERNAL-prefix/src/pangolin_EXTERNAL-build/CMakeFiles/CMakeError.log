@@ -1,0 +1,25 @@
+Performing C++ SOURCE FILE Test HAVE_FFMPEG_MAX_ANALYZE_DURATION2 failed with the following output:
+Change Dir: /xavier_ssd/TrekBot/TrekBot2_WS/build/pangolin_catkin/pangolin_EXTERNAL-prefix/src/pangolin_EXTERNAL-build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_d1f27/fast"
+make[3]: Entering directory '/xavier_ssd/TrekBot/TrekBot2_WS/build/pangolin_catkin/pangolin_EXTERNAL-prefix/src/pangolin_EXTERNAL-build/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_d1f27.dir/build.make CMakeFiles/cmTC_d1f27.dir/build
+make[4]: Entering directory '/xavier_ssd/TrekBot/TrekBot2_WS/build/pangolin_catkin/pangolin_EXTERNAL-prefix/src/pangolin_EXTERNAL-build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_d1f27.dir/src.cxx.o
+/usr/bin/c++   -I/usr/include/aarch64-linux-gnu  -std=c++0x -Wall -Wextra  -DHAVE_FFMPEG_MAX_ANALYZE_DURATION2   -o CMakeFiles/cmTC_d1f27.dir/src.cxx.o -c /xavier_ssd/TrekBot/TrekBot2_WS/build/pangolin_catkin/pangolin_EXTERNAL-prefix/src/pangolin_EXTERNAL-build/CMakeFiles/CMakeTmp/src.cxx
+/xavier_ssd/TrekBot/TrekBot2_WS/build/pangolin_catkin/pangolin_EXTERNAL-prefix/src/pangolin_EXTERNAL-build/CMakeFiles/CMakeTmp/src.cxx: In function ‘int main()’:
+/xavier_ssd/TrekBot/TrekBot2_WS/build/pangolin_catkin/pangolin_EXTERNAL-prefix/src/pangolin_EXTERNAL-build/CMakeFiles/CMakeTmp/src.cxx:3:33: error: ‘max_analyze_duration2’ is not a member of ‘AVFormatContext’
+         sizeof(AVFormatContext::max_analyze_duration2);
+                                 ^~~~~~~~~~~~~~~~~~~~~
+CMakeFiles/cmTC_d1f27.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_d1f27.dir/src.cxx.o' failed
+make[4]: *** [CMakeFiles/cmTC_d1f27.dir/src.cxx.o] Error 1
+make[4]: Leaving directory '/xavier_ssd/TrekBot/TrekBot2_WS/build/pangolin_catkin/pangolin_EXTERNAL-prefix/src/pangolin_EXTERNAL-build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_d1f27/fast' failed
+make[3]: *** [cmTC_d1f27/fast] Error 2
+make[3]: Leaving directory '/xavier_ssd/TrekBot/TrekBot2_WS/build/pangolin_catkin/pangolin_EXTERNAL-prefix/src/pangolin_EXTERNAL-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+#include "/usr/include/aarch64-linux-gnu/libavformat/avformat.h"
+      int main() {
+        sizeof(AVFormatContext::max_analyze_duration2);
+      }

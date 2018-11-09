@@ -1,0 +1,9 @@
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/laser_proc/cmake/laser_procConfig-version.cmake
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/laser_proc/cmake/laser_procConfig.cmake
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/libLaserProcNodelet.so
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/liblaser_transport.so
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/liblaser_proc_library.so
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/liblaser_publisher.so
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/liblaser_proc_ROS.so
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/laser_proc/laser_proc
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/pkgconfig/laser_proc.pc

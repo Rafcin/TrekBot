@@ -1,0 +1,16 @@
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/urg_c/cmake/urg_cConfig.cmake
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/urg_c/cmake/urg_cConfig-version.cmake
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/libopen_urg_sensor.so
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/libliburg_c.so
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/urg_c/sensor_parameter
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/urg_c/get_multiecho
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/urg_c/sync_time_stamp
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/urg_c/get_distance
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/urg_c/calculate_xy
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/urg_c/reboot_test
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/urg_c/get_distance_intensity
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/urg_c/angle_convert_test
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/urg_c/timeout_test
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/urg_c/find_port
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/urg_c/get_multiecho_intensity
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/pkgconfig/urg_c.pc

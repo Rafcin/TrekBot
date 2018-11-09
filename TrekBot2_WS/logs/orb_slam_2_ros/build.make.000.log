@@ -1,0 +1,1445 @@
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[  0%] Built target tf2_msgs_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target tf2_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target actionlib_generate_messages_eus
+[  0%] Built target actionlib_generate_messages_py
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[  0%] Built target actionlib_generate_messages_lisp
+[  0%] Built target actionlib_generate_messages_nodejs
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[35m[1mScanning dependencies of target tf_generate_messages_eus[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target tf_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[  0%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[  0%] Built target roscpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target tf_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[  0%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target tf_generate_messages_py[0m
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target tf_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target tf_generate_messages_nodejs[0m
+[  0%] Built target tf_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target tf_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target tf_generate_messages_cpp[0m
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[  0%] Built target tf_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[  0%] Built target actionlib_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target orb_slam_2_interface[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/orb_slam_2_interface.dir/src/library/interface.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/orb_slam_2_interface.dir/src/library/interface_mono.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/orb_slam_2_interface.dir/src/library/interface_stereo.cpp.o[0m
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:34:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface.cpp:1[m[K:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_vertex.h:62:74:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+     typedef Eigen::Map<Matrix<double, D, D>, Matrix<double,D,D>::Flags & [01;35m[KAlignedBit[m[K ? Aligned : Unaligned >  HessianBlockType;
+                                                                          [01;35m[K^~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface.cpp:1[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:35:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface.cpp:1[m[K:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:82:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       typedef Eigen::Map<Matrix<double, Di, Dj>, Matrix<double, Di, Dj>::Flags & [01;35m[KAlignedBit[m[K ? Aligned : Unaligned > HessianBlockType;
+                                                                                  [01;35m[K^~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface.cpp:1[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:35:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface.cpp:1[m[K:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:82:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       typedef Eigen::Map<Matrix<double, Dj, Di>, Matrix<double, Dj, Di>::Flags & [01;35m[KAlignedBit[m[K ? Aligned : Unaligned > HessianBlockTransposedType;
+                                                                                  [01;35m[K^~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface.cpp:1[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:34:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface.cpp:1[m[K:
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_vertex.h: In instantiation of ‘[01m[Kclass g2o::BaseVertex<3, Eigen::Matrix<double, 3, 1> >[m[K’:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_sba.h:40:35:[m[K   required from here
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_vertex.h:62:72:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+     typedef Eigen::Map<Matrix<double, D, D>, [01;35m[KMatrix<double,D,D>::Flags & AlignedBit[m[K ? Aligned : Unaligned >  HessianBlockType;
+                                              [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface.cpp:1[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:34:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface.cpp:1[m[K:
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_vertex.h: In instantiation of ‘[01m[Kclass g2o::BaseVertex<6, g2o::SE3Quat>[m[K’:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:59:33:[m[K   required from here
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_vertex.h:62:72:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+     typedef Eigen::Map<Matrix<double, D, D>, [01;35m[KMatrix<double,D,D>::Flags & AlignedBit[m[K ? Aligned : Unaligned >  HessianBlockType;
+                                              [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface.cpp:1[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:34:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_mono.hpp:7[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_mono.cpp:3[m[K:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_vertex.h:62:74:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+     typedef Eigen::Map<Matrix<double, D, D>, Matrix<double,D,D>::Flags & [01;35m[KAlignedBit[m[K ? Aligned : Unaligned >  HessianBlockType;
+                                                                          [01;35m[K^~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_mono.hpp:7[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_mono.cpp:3[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:35:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_mono.hpp:7[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_mono.cpp:3[m[K:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:82:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       typedef Eigen::Map<Matrix<double, Di, Dj>, Matrix<double, Di, Dj>::Flags & [01;35m[KAlignedBit[m[K ? Aligned : Unaligned > HessianBlockType;
+                                                                                  [01;35m[K^~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_mono.hpp:7[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_mono.cpp:3[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:35:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_mono.hpp:7[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_mono.cpp:3[m[K:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:82:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       typedef Eigen::Map<Matrix<double, Dj, Di>, Matrix<double, Dj, Di>::Flags & [01;35m[KAlignedBit[m[K ? Aligned : Unaligned > HessianBlockTransposedType;
+                                                                                  [01;35m[K^~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_mono.hpp:7[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_mono.cpp:3[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:35:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface.cpp:1[m[K:
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h: In instantiation of ‘[01m[Kclass g2o::BaseBinaryEdge<2, Eigen::Matrix<double, 2, 1>, g2o::VertexSBAPointXYZ, g2o::VertexSE3Expmap>[m[K’:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:80:35:[m[K   required from here
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       typedef Eigen::Map<Matrix<double, Di, Dj>, [01;35m[KMatrix<double, Di, Dj>::Flags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockType;
+                                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface.cpp:1[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:35:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface.cpp:1[m[K:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       typedef Eigen::Map<Matrix<double, Dj, Di>, [01;35m[KMatrix<double, Dj, Di>::Flags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockTransposedType;
+                                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface.cpp:1[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:35:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface.cpp:1[m[K:
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h: In instantiation of ‘[01m[Kclass g2o::BaseBinaryEdge<3, Eigen::Matrix<double, 3, 1>, g2o::VertexSBAPointXYZ, g2o::VertexSE3Expmap>[m[K’:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:112:41:[m[K   required from here
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       typedef Eigen::Map<Matrix<double, Di, Dj>, [01;35m[KMatrix<double, Di, Dj>::Flags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockType;
+                                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface.cpp:1[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:35:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface.cpp:1[m[K:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       typedef Eigen::Map<Matrix<double, Dj, Di>, [01;35m[KMatrix<double, Dj, Di>::Flags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockTransposedType;
+                                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface.cpp:1[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:34:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_stereo.hpp:11[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_stereo.cpp:3[m[K:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_vertex.h:62:74:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+     typedef Eigen::Map<Matrix<double, D, D>, Matrix<double,D,D>::Flags & [01;35m[KAlignedBit[m[K ? Aligned : Unaligned >  HessianBlockType;
+                                                                          [01;35m[K^~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_stereo.hpp:11[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_stereo.cpp:3[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:35:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_stereo.hpp:11[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_stereo.cpp:3[m[K:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:82:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       typedef Eigen::Map<Matrix<double, Di, Dj>, Matrix<double, Di, Dj>::Flags & [01;35m[KAlignedBit[m[K ? Aligned : Unaligned > HessianBlockType;
+                                                                                  [01;35m[K^~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_stereo.hpp:11[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_stereo.cpp:3[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:35:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_stereo.hpp:11[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_stereo.cpp:3[m[K:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:82:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       typedef Eigen::Map<Matrix<double, Dj, Di>, Matrix<double, Dj, Di>::Flags & [01;35m[KAlignedBit[m[K ? Aligned : Unaligned > HessianBlockTransposedType;
+                                                                                  [01;35m[K^~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_stereo.hpp:11[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_stereo.cpp:3[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:34:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_mono.hpp:7[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_mono.cpp:3[m[K:
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_vertex.h: In instantiation of ‘[01m[Kclass g2o::BaseVertex<3, Eigen::Matrix<double, 3, 1> >[m[K’:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_sba.h:40:35:[m[K   required from here
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_vertex.h:62:72:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+     typedef Eigen::Map<Matrix<double, D, D>, [01;35m[KMatrix<double,D,D>::Flags & AlignedBit[m[K ? Aligned : Unaligned >  HessianBlockType;
+                                              [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_mono.hpp:7[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_mono.cpp:3[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:34:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_mono.hpp:7[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_mono.cpp:3[m[K:
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_vertex.h: In instantiation of ‘[01m[Kclass g2o::BaseVertex<6, g2o::SE3Quat>[m[K’:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:59:33:[m[K   required from here
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_vertex.h:62:72:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+     typedef Eigen::Map<Matrix<double, D, D>, [01;35m[KMatrix<double,D,D>::Flags & AlignedBit[m[K ? Aligned : Unaligned >  HessianBlockType;
+                                              [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_mono.hpp:7[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_mono.cpp:3[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:34:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface.cpp:1[m[K:
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_vertex.h: In instantiation of ‘[01m[Kclass g2o::BaseVertex<7, g2o::Sim3>[m[K’:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:48:35:[m[K   required from here
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_vertex.h:62:72:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+     typedef Eigen::Map<Matrix<double, D, D>, [01;35m[KMatrix<double,D,D>::Flags & AlignedBit[m[K ? Aligned : Unaligned >  HessianBlockType;
+                                              [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface.cpp:1[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:35:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface.cpp:1[m[K:
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h: In instantiation of ‘[01m[Kclass g2o::BaseBinaryEdge<7, g2o::Sim3, g2o::VertexSim3Expmap, g2o::VertexSim3Expmap>[m[K’:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:99:27:[m[K   required from here
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       typedef Eigen::Map<Matrix<double, Di, Dj>, [01;35m[KMatrix<double, Di, Dj>::Flags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockType;
+                                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface.cpp:1[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:35:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface.cpp:1[m[K:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       typedef Eigen::Map<Matrix<double, Dj, Di>, [01;35m[KMatrix<double, Dj, Di>::Flags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockTransposedType;
+                                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface.cpp:1[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:35:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_mono.hpp:7[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_mono.cpp:3[m[K:
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h: In instantiation of ‘[01m[Kclass g2o::BaseBinaryEdge<2, Eigen::Matrix<double, 2, 1>, g2o::VertexSBAPointXYZ, g2o::VertexSE3Expmap>[m[K’:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:80:35:[m[K   required from here
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       typedef Eigen::Map<Matrix<double, Di, Dj>, [01;35m[KMatrix<double, Di, Dj>::Flags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockType;
+                                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_mono.hpp:7[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_mono.cpp:3[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:35:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface.cpp:1[m[K:
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h: In instantiation of ‘[01m[Kclass g2o::BaseBinaryEdge<2, Eigen::Matrix<double, 2, 1>, g2o::VertexSBAPointXYZ, g2o::VertexSim3Expmap>[m[K’:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:130:36:[m[K   required from here
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       typedef Eigen::Map<Matrix<double, Di, Dj>, [01;35m[KMatrix<double, Di, Dj>::Flags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockType;
+                                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface.cpp:1[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:35:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_mono.hpp:7[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_mono.cpp:3[m[K:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       typedef Eigen::Map<Matrix<double, Dj, Di>, [01;35m[KMatrix<double, Dj, Di>::Flags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockTransposedType;
+                                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_mono.hpp:7[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_mono.cpp:3[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:35:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface.cpp:1[m[K:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       typedef Eigen::Map<Matrix<double, Dj, Di>, [01;35m[KMatrix<double, Dj, Di>::Flags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockTransposedType;
+                                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface.cpp:1[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:35:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_mono.hpp:7[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_mono.cpp:3[m[K:
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h: In instantiation of ‘[01m[Kclass g2o::BaseBinaryEdge<3, Eigen::Matrix<double, 3, 1>, g2o::VertexSBAPointXYZ, g2o::VertexSE3Expmap>[m[K’:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:112:41:[m[K   required from here
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       typedef Eigen::Map<Matrix<double, Di, Dj>, [01;35m[KMatrix<double, Di, Dj>::Flags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockType;
+                                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_mono.hpp:7[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_mono.cpp:3[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:35:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_mono.hpp:7[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_mono.cpp:3[m[K:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       typedef Eigen::Map<Matrix<double, Dj, Di>, [01;35m[KMatrix<double, Dj, Di>::Flags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockTransposedType;
+                                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_mono.hpp:7[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_mono.cpp:3[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:34:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_stereo.hpp:11[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_stereo.cpp:3[m[K:
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_vertex.h: In instantiation of ‘[01m[Kclass g2o::BaseVertex<3, Eigen::Matrix<double, 3, 1> >[m[K’:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_sba.h:40:35:[m[K   required from here
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_vertex.h:62:72:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+     typedef Eigen::Map<Matrix<double, D, D>, [01;35m[KMatrix<double,D,D>::Flags & AlignedBit[m[K ? Aligned : Unaligned >  HessianBlockType;
+                                              [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_stereo.hpp:11[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_stereo.cpp:3[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:34:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_stereo.hpp:11[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_stereo.cpp:3[m[K:
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_vertex.h: In instantiation of ‘[01m[Kclass g2o::BaseVertex<6, g2o::SE3Quat>[m[K’:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:59:33:[m[K   required from here
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_vertex.h:62:72:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+     typedef Eigen::Map<Matrix<double, D, D>, [01;35m[KMatrix<double,D,D>::Flags & AlignedBit[m[K ? Aligned : Unaligned >  HessianBlockType;
+                                              [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_stereo.hpp:11[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_stereo.cpp:3[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:34:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_mono.hpp:7[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_mono.cpp:3[m[K:
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_vertex.h: In instantiation of ‘[01m[Kclass g2o::BaseVertex<7, g2o::Sim3>[m[K’:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:48:35:[m[K   required from here
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_vertex.h:62:72:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+     typedef Eigen::Map<Matrix<double, D, D>, [01;35m[KMatrix<double,D,D>::Flags & AlignedBit[m[K ? Aligned : Unaligned >  HessianBlockType;
+                                              [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_mono.hpp:7[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_mono.cpp:3[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:35:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_stereo.hpp:11[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_stereo.cpp:3[m[K:
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h: In instantiation of ‘[01m[Kclass g2o::BaseBinaryEdge<2, Eigen::Matrix<double, 2, 1>, g2o::VertexSBAPointXYZ, g2o::VertexSE3Expmap>[m[K’:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:80:35:[m[K   required from here
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       typedef Eigen::Map<Matrix<double, Di, Dj>, [01;35m[KMatrix<double, Di, Dj>::Flags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockType;
+                                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_stereo.hpp:11[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_stereo.cpp:3[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:35:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_mono.hpp:7[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_mono.cpp:3[m[K:
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h: In instantiation of ‘[01m[Kclass g2o::BaseBinaryEdge<7, g2o::Sim3, g2o::VertexSim3Expmap, g2o::VertexSim3Expmap>[m[K’:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:99:27:[m[K   required from here
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       typedef Eigen::Map<Matrix<double, Di, Dj>, [01;35m[KMatrix<double, Di, Dj>::Flags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockType;
+                                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_mono.hpp:7[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_mono.cpp:3[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:35:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_mono.hpp:7[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_mono.cpp:3[m[K:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       typedef Eigen::Map<Matrix<double, Dj, Di>, [01;35m[KMatrix<double, Dj, Di>::Flags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockTransposedType;
+                                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_mono.hpp:7[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_mono.cpp:3[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:35:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_stereo.hpp:11[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_stereo.cpp:3[m[K:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       typedef Eigen::Map<Matrix<double, Dj, Di>, [01;35m[KMatrix<double, Dj, Di>::Flags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockTransposedType;
+                                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_stereo.hpp:11[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_stereo.cpp:3[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:35:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_mono.hpp:7[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_mono.cpp:3[m[K:
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h: In instantiation of ‘[01m[Kclass g2o::BaseBinaryEdge<2, Eigen::Matrix<double, 2, 1>, g2o::VertexSBAPointXYZ, g2o::VertexSim3Expmap>[m[K’:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:130:36:[m[K   required from here
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       typedef Eigen::Map<Matrix<double, Di, Dj>, [01;35m[KMatrix<double, Di, Dj>::Flags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockType;
+                                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_mono.hpp:7[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_mono.cpp:3[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:35:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_stereo.hpp:11[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_stereo.cpp:3[m[K:
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h: In instantiation of ‘[01m[Kclass g2o::BaseBinaryEdge<3, Eigen::Matrix<double, 3, 1>, g2o::VertexSBAPointXYZ, g2o::VertexSE3Expmap>[m[K’:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:112:41:[m[K   required from here
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       typedef Eigen::Map<Matrix<double, Di, Dj>, [01;35m[KMatrix<double, Di, Dj>::Flags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockType;
+                                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_stereo.hpp:11[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_stereo.cpp:3[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:35:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_stereo.hpp:11[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_stereo.cpp:3[m[K:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       typedef Eigen::Map<Matrix<double, Dj, Di>, [01;35m[KMatrix<double, Dj, Di>::Flags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockTransposedType;
+                                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_stereo.hpp:11[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_stereo.cpp:3[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:35:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_mono.hpp:7[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_mono.cpp:3[m[K:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       typedef Eigen::Map<Matrix<double, Dj, Di>, [01;35m[KMatrix<double, Dj, Di>::Flags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockTransposedType;
+                                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_mono.hpp:7[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_mono.cpp:3[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:34:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_stereo.hpp:11[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_stereo.cpp:3[m[K:
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_vertex.h: In instantiation of ‘[01m[Kclass g2o::BaseVertex<7, g2o::Sim3>[m[K’:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:48:35:[m[K   required from here
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_vertex.h:62:72:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+     typedef Eigen::Map<Matrix<double, D, D>, [01;35m[KMatrix<double,D,D>::Flags & AlignedBit[m[K ? Aligned : Unaligned >  HessianBlockType;
+                                              [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_stereo.hpp:11[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_stereo.cpp:3[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:35:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_stereo.hpp:11[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_stereo.cpp:3[m[K:
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h: In instantiation of ‘[01m[Kclass g2o::BaseBinaryEdge<7, g2o::Sim3, g2o::VertexSim3Expmap, g2o::VertexSim3Expmap>[m[K’:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:99:27:[m[K   required from here
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       typedef Eigen::Map<Matrix<double, Di, Dj>, [01;35m[KMatrix<double, Di, Dj>::Flags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockType;
+                                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_stereo.hpp:11[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_stereo.cpp:3[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:35:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_stereo.hpp:11[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_stereo.cpp:3[m[K:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       typedef Eigen::Map<Matrix<double, Dj, Di>, [01;35m[KMatrix<double, Dj, Di>::Flags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockTransposedType;
+                                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_stereo.hpp:11[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_stereo.cpp:3[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:35:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_stereo.hpp:11[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_stereo.cpp:3[m[K:
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h: In instantiation of ‘[01m[Kclass g2o::BaseBinaryEdge<2, Eigen::Matrix<double, 2, 1>, g2o::VertexSBAPointXYZ, g2o::VertexSim3Expmap>[m[K’:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:130:36:[m[K   required from here
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       typedef Eigen::Map<Matrix<double, Di, Dj>, [01;35m[KMatrix<double, Di, Dj>::Flags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockType;
+                                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_stereo.hpp:11[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_stereo.cpp:3[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:35:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_stereo.hpp:11[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_stereo.cpp:3[m[K:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       typedef Eigen::Map<Matrix<double, Dj, Di>, [01;35m[KMatrix<double, Dj, Di>::Flags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockTransposedType;
+                                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface_stereo.hpp:11[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/library/interface_stereo.cpp:3[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+[ 66%] [32m[1mLinking CXX shared library /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_ros/lib/liborb_slam_2_interface.so[0m
+[ 66%] Built target orb_slam_2_interface
+[35m[1mScanning dependencies of target orb_slam_2_ros_node[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/orb_slam_2_ros_node.dir/src/orb_slam_2_ros_node.cpp.o[0m
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:34:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/orb_slam_2_ros_node.cpp:7[m[K:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_vertex.h:62:74:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+     typedef Eigen::Map<Matrix<double, D, D>, Matrix<double,D,D>::Flags & [01;35m[KAlignedBit[m[K ? Aligned : Unaligned >  HessianBlockType;
+                                                                          [01;35m[K^~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/orb_slam_2_ros_node.cpp:7[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:35:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/orb_slam_2_ros_node.cpp:7[m[K:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:82:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       typedef Eigen::Map<Matrix<double, Di, Dj>, Matrix<double, Di, Dj>::Flags & [01;35m[KAlignedBit[m[K ? Aligned : Unaligned > HessianBlockType;
+                                                                                  [01;35m[K^~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/orb_slam_2_ros_node.cpp:7[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:35:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/orb_slam_2_ros_node.cpp:7[m[K:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:82:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       typedef Eigen::Map<Matrix<double, Dj, Di>, Matrix<double, Dj, Di>::Flags & [01;35m[KAlignedBit[m[K ? Aligned : Unaligned > HessianBlockTransposedType;
+                                                                                  [01;35m[K^~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/orb_slam_2_ros_node.cpp:7[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:34:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/orb_slam_2_ros_node.cpp:7[m[K:
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_vertex.h: In instantiation of ‘[01m[Kclass g2o::BaseVertex<3, Eigen::Matrix<double, 3, 1> >[m[K’:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_sba.h:40:35:[m[K   required from here
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_vertex.h:62:72:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+     typedef Eigen::Map<Matrix<double, D, D>, [01;35m[KMatrix<double,D,D>::Flags & AlignedBit[m[K ? Aligned : Unaligned >  HessianBlockType;
+                                              [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/orb_slam_2_ros_node.cpp:7[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:34:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/orb_slam_2_ros_node.cpp:7[m[K:
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_vertex.h: In instantiation of ‘[01m[Kclass g2o::BaseVertex<6, g2o::SE3Quat>[m[K’:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:59:33:[m[K   required from here
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_vertex.h:62:72:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+     typedef Eigen::Map<Matrix<double, D, D>, [01;35m[KMatrix<double,D,D>::Flags & AlignedBit[m[K ? Aligned : Unaligned >  HessianBlockType;
+                                              [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/orb_slam_2_ros_node.cpp:7[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:35:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/orb_slam_2_ros_node.cpp:7[m[K:
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h: In instantiation of ‘[01m[Kclass g2o::BaseBinaryEdge<2, Eigen::Matrix<double, 2, 1>, g2o::VertexSBAPointXYZ, g2o::VertexSE3Expmap>[m[K’:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:80:35:[m[K   required from here
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       typedef Eigen::Map<Matrix<double, Di, Dj>, [01;35m[KMatrix<double, Di, Dj>::Flags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockType;
+                                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/orb_slam_2_ros_node.cpp:7[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:35:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/orb_slam_2_ros_node.cpp:7[m[K:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       typedef Eigen::Map<Matrix<double, Dj, Di>, [01;35m[KMatrix<double, Dj, Di>::Flags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockTransposedType;
+                                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/orb_slam_2_ros_node.cpp:7[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:35:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/orb_slam_2_ros_node.cpp:7[m[K:
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h: In instantiation of ‘[01m[Kclass g2o::BaseBinaryEdge<3, Eigen::Matrix<double, 3, 1>, g2o::VertexSBAPointXYZ, g2o::VertexSE3Expmap>[m[K’:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h:112:41:[m[K   required from here
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       typedef Eigen::Map<Matrix<double, Di, Dj>, [01;35m[KMatrix<double, Di, Dj>::Flags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockType;
+                                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/orb_slam_2_ros_node.cpp:7[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:35:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/orb_slam_2_ros_node.cpp:7[m[K:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       typedef Eigen::Map<Matrix<double, Dj, Di>, [01;35m[KMatrix<double, Dj, Di>::Flags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockTransposedType;
+                                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/orb_slam_2_ros_node.cpp:7[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:34:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/orb_slam_2_ros_node.cpp:7[m[K:
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_vertex.h: In instantiation of ‘[01m[Kclass g2o::BaseVertex<7, g2o::Sim3>[m[K’:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:48:35:[m[K   required from here
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_vertex.h:62:72:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+     typedef Eigen::Map<Matrix<double, D, D>, [01;35m[KMatrix<double,D,D>::Flags & AlignedBit[m[K ? Aligned : Unaligned >  HessianBlockType;
+                                              [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/orb_slam_2_ros_node.cpp:7[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:35:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/orb_slam_2_ros_node.cpp:7[m[K:
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h: In instantiation of ‘[01m[Kclass g2o::BaseBinaryEdge<7, g2o::Sim3, g2o::VertexSim3Expmap, g2o::VertexSim3Expmap>[m[K’:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:99:27:[m[K   required from here
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       typedef Eigen::Map<Matrix<double, Di, Dj>, [01;35m[KMatrix<double, Di, Dj>::Flags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockType;
+                                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/orb_slam_2_ros_node.cpp:7[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:35:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/orb_slam_2_ros_node.cpp:7[m[K:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       typedef Eigen::Map<Matrix<double, Dj, Di>, [01;35m[KMatrix<double, Dj, Di>::Flags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockTransposedType;
+                                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/orb_slam_2_ros_node.cpp:7[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:35:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/orb_slam_2_ros_node.cpp:7[m[K:
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h: In instantiation of ‘[01m[Kclass g2o::BaseBinaryEdge<2, Eigen::Matrix<double, 2, 1>, g2o::VertexSBAPointXYZ, g2o::VertexSim3Expmap>[m[K’:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:130:36:[m[K   required from here
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:59:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       typedef Eigen::Map<Matrix<double, Di, Dj>, [01;35m[KMatrix<double, Di, Dj>::Flags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockType;
+                                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/orb_slam_2_ros_node.cpp:7[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h:35:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LoopClosing.h:34[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/LocalMapping.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:31[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/orb_slam_2_ros_node.cpp:7[m[K:
+[01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Thirdparty/g2o/g2o/types/../core/base_binary_edge.h:60:80:[m[K [01;35m[Kwarning: [m[K‘[01m[KEigen::AlignedBit[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+       typedef Eigen::Map<Matrix<double, Dj, Di>, [01;35m[KMatrix<double, Dj, Di>::Flags & AlignedBit[m[K ? Aligned : Unaligned > HessianBlockTransposedType;
+                                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+In file included from [01m[K/usr/include/eigen3/Eigen/Core:344:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/gl/gl.h:39[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/include/pangolin/pangolin.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/MapDrawer.h:27[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Viewer.h:26[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/Tracking.h:28[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/include/orb_slam_2/System.h:30[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/include/orb_slam_2_ros/interface.hpp:8[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/orb_slam_2_ros/src/orb_slam_2_ros_node.cpp:7[m[K:
+[01m[K/usr/include/eigen3/Eigen/src/Core/util/Constants.h:162:37:[m[K [01;36m[Knote: [m[Kdeclared here
+ EIGEN_DEPRECATED const unsigned int [01;36m[KAlignedBit[m[K = 0x80;
+                                     [01;36m[K^~~~~~~~~~[m[K
+[100%] [32m[1mLinking CXX executable /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_ros/lib/orb_slam_2_ros/orb_slam_2_ros_node[0m
+/usr/bin/ld: warning: libopencv_core.so.3.4, needed by /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_catkin/lib/libORB_SLAM2.so, may conflict with libopencv_core.so.3.2
+[100%] Built target orb_slam_2_ros_node

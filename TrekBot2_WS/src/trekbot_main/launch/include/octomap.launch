@@ -2,7 +2,7 @@
 	<node pkg="octomap_server" type="octomap_server_node" name="octomap_server">
 
 	<param name="tf_frame" value="world"/>
-	<param name="resolution" value="5" />
+	<param name="resolution" value="0.22" />
 	<param name="visualize_min_z" value="0" />
 	<param name="visualize_max_z" value="6.0" />
 	<!-- <param name="filter_speckles" value="true" />  -->

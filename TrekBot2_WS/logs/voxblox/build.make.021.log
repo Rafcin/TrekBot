@@ -1,4 +1,0 @@
-[ 16%] Built target voxblox_proto
-[ 87%] Built target voxblox
-[ 96%] Built target test_load_esdf
-[100%] Built target tsdf_to_esdf

@@ -1,4 +1,0 @@
-[35m[1mScanning dependencies of target octomap_ros[0m
-[ 50%] [32mBuilding CXX object CMakeFiles/octomap_ros.dir/src/conversions.cpp.o[0m
-[100%] [32m[1mLinking CXX shared library /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/octomap_ros/lib/liboctomap_ros.so[0m
-[100%] Built target octomap_ros

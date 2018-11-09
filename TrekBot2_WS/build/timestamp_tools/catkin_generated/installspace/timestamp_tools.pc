@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot2_WS/install
+
+Name: timestamp_tools
+Description: Description of timestamp_tools
+Version: 1.6.8
+Cflags: -I/xavier_ssd/TrekBot/TrekBot2_WS/install/include
+Libs: -L/xavier_ssd/TrekBot/TrekBot2_WS/install/lib 
+Requires: roslib roscpp

@@ -6,7 +6,7 @@ Panels:
       Expanded:
         - /Global Options1
         - /TF1/Tree1
-        - /Pose1
+        - /ColorOccupancyGrid1
       Splitter Ratio: 0.40993788838386536
     Tree Height: 857
   - Class: rviz/Selection
@@ -118,12 +118,6 @@ Visualization Manager:
       Topic: /zed/pose
       Unreliable: false
       Value: true
-    - Class: voxblox_rviz_plugin/VoxbloxMesh
-      Enabled: false
-      Name: VoxbloxMesh
-      Topic: /voxblox_node/mesh
-      Unreliable: false
-      Value: false
     - Angle Tolerance: 0.10000000149011612
       Class: rviz/Odometry
       Covariance:
@@ -158,18 +152,6 @@ Visualization Manager:
       Topic: /odometry/filtered
       Unreliable: false
       Value: true
-    - Class: octomap_rviz_plugin/OccupancyGrid
-      Enabled: true
-      Max. Height Display: 3.4028234663852886e+38
-      Max. Octree Depth: 16
-      Min. Height Display: -3.4028234663852886e+38
-      Name: OccupancyGrid
-      Octomap Topic: /octomap_full
-      Queue Size: 5
-      Value: true
-      Voxel Alpha: 1
-      Voxel Coloring: Z-Axis
-      Voxel Rendering: Occupied Voxels
     - Alpha: 0.699999988079071
       Class: rviz/Map
       Color Scheme: map
@@ -198,7 +180,7 @@ Visualization Manager:
       Queue Size: 5
       Value: true
       Voxel Alpha: 1
-      Voxel Coloring: Z-Axis
+      Voxel Coloring: Cell Color
       Voxel Rendering: Occupied Voxels
     - Class: rtabmap_ros/Info
       Enabled: true
@@ -206,6 +188,19 @@ Visualization Manager:
       Topic: ""
       Unreliable: false
       Value: true
+    - Alpha: 1
+      Class: rtabmap_ros/MapGraph
+      Enabled: true
+      Global loop closure: 255; 0; 0
+      Local loop closure: 255; 255; 0
+      Merged neighbor: 255; 170; 0
+      Name: MapGraph
+      Neighbor: 0; 0; 255
+      Topic: /zed/rtabmap/mapGraph
+      Unreliable: false
+      User: 255; 0; 0
+      Value: true
+      Virtual: 255; 0; 255
   Enabled: true
   Global Options:
     Background Color: 48; 48; 48
@@ -231,25 +226,25 @@ Visualization Manager:
   Views:
     Current:
       Class: rviz/Orbit
-      Distance: 7.282505989074707
+      Distance: 7.50406551361084
       Enable Stereo Rendering:
         Stereo Eye Separation: 0.05999999865889549
         Stereo Focal Distance: 1
         Swap Stereo Eyes: false
         Value: false
       Focal Point:
-        X: 1.861392855644226
-        Y: -1.0934977531433105
-        Z: -0.7654059529304504
+        X: 2.4507229328155518
+        Y: -0.436676561832428
+        Z: 0.2773533761501312
       Focal Shape Fixed Size: false
       Focal Shape Size: 0.05000000074505806
       Invert Z Axis: false
       Name: Current View
       Near Clip Distance: 0.009999999776482582
-      Pitch: 0.6497970819473267
+      Pitch: 0.4847964942455292
       Target Frame: <Fixed Frame>
       Value: Orbit (rviz)
-      Yaw: 3.105912208557129
+      Yaw: 2.925910472869873
     Saved: ~
 Window Geometry:
   Displays:

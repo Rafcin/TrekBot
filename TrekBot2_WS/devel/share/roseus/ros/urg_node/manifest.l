@@ -1,0 +1,1 @@
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/urg_node/share/roseus/ros/urg_node/manifest.l

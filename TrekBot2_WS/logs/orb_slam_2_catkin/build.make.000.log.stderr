@@ -1,0 +1,25 @@
+Cloning into 'orb_slam_2_src'...
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Cloning into 'orb_slam_2_src'...
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Cloning into 'orb_slam_2_src'...
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+CMake Error at /xavier_ssd/TrekBot/TrekBot2_WS/build/orb_slam_2_catkin/orb_slam_2_src-prefix/tmp/orb_slam_2_src-gitclone.cmake:66 (message):
+  Failed to clone repository: 'git@github.com:raulmur/ORB_SLAM2.git'
+
+
+make[2]: *** [orb_slam_2_src-prefix/src/orb_slam_2_src-stamp/orb_slam_2_src-download] Error 1
+make[1]: *** [CMakeFiles/orb_slam_2_src.dir/all] Error 2
+make: *** [all] Error 2

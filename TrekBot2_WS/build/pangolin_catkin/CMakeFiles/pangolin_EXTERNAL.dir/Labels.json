@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/xavier_ssd/TrekBot/TrekBot2_WS/build/pangolin_catkin/CMakeFiles/pangolin_EXTERNAL"
+		},
+		{
+			"file" : "/xavier_ssd/TrekBot/TrekBot2_WS/build/pangolin_catkin/CMakeFiles/pangolin_EXTERNAL.rule"
+		},
+		{
+			"file" : "/xavier_ssd/TrekBot/TrekBot2_WS/build/pangolin_catkin/CMakeFiles/pangolin_EXTERNAL-complete.rule"
+		},
+		{
+			"file" : "/xavier_ssd/TrekBot/TrekBot2_WS/build/pangolin_catkin/pangolin_EXTERNAL-prefix/src/pangolin_EXTERNAL-stamp/pangolin_EXTERNAL-install.rule"
+		},
+		{
+			"file" : "/xavier_ssd/TrekBot/TrekBot2_WS/build/pangolin_catkin/pangolin_EXTERNAL-prefix/src/pangolin_EXTERNAL-stamp/pangolin_EXTERNAL-mkdir.rule"
+		},
+		{
+			"file" : "/xavier_ssd/TrekBot/TrekBot2_WS/build/pangolin_catkin/pangolin_EXTERNAL-prefix/src/pangolin_EXTERNAL-stamp/pangolin_EXTERNAL-download.rule"
+		},
+		{
+			"file" : "/xavier_ssd/TrekBot/TrekBot2_WS/build/pangolin_catkin/pangolin_EXTERNAL-prefix/src/pangolin_EXTERNAL-stamp/pangolin_EXTERNAL-update.rule"
+		},
+		{
+			"file" : "/xavier_ssd/TrekBot/TrekBot2_WS/build/pangolin_catkin/pangolin_EXTERNAL-prefix/src/pangolin_EXTERNAL-stamp/pangolin_EXTERNAL-patch.rule"
+		},
+		{
+			"file" : "/xavier_ssd/TrekBot/TrekBot2_WS/build/pangolin_catkin/pangolin_EXTERNAL-prefix/src/pangolin_EXTERNAL-stamp/pangolin_EXTERNAL-configure.rule"
+		},
+		{
+			"file" : "/xavier_ssd/TrekBot/TrekBot2_WS/build/pangolin_catkin/pangolin_EXTERNAL-prefix/src/pangolin_EXTERNAL-stamp/pangolin_EXTERNAL-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"pangolin_EXTERNAL"
+		],
+		"name" : "pangolin_EXTERNAL"
+	}
+}

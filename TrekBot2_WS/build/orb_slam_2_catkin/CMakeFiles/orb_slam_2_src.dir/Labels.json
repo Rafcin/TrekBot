@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/xavier_ssd/TrekBot/TrekBot2_WS/build/orb_slam_2_catkin/CMakeFiles/orb_slam_2_src"
+		},
+		{
+			"file" : "/xavier_ssd/TrekBot/TrekBot2_WS/build/orb_slam_2_catkin/CMakeFiles/orb_slam_2_src.rule"
+		},
+		{
+			"file" : "/xavier_ssd/TrekBot/TrekBot2_WS/build/orb_slam_2_catkin/CMakeFiles/orb_slam_2_src-complete.rule"
+		},
+		{
+			"file" : "/xavier_ssd/TrekBot/TrekBot2_WS/build/orb_slam_2_catkin/orb_slam_2_src-prefix/src/orb_slam_2_src-stamp/orb_slam_2_src-install.rule"
+		},
+		{
+			"file" : "/xavier_ssd/TrekBot/TrekBot2_WS/build/orb_slam_2_catkin/orb_slam_2_src-prefix/src/orb_slam_2_src-stamp/orb_slam_2_src-mkdir.rule"
+		},
+		{
+			"file" : "/xavier_ssd/TrekBot/TrekBot2_WS/build/orb_slam_2_catkin/orb_slam_2_src-prefix/src/orb_slam_2_src-stamp/orb_slam_2_src-download.rule"
+		},
+		{
+			"file" : "/xavier_ssd/TrekBot/TrekBot2_WS/build/orb_slam_2_catkin/orb_slam_2_src-prefix/src/orb_slam_2_src-stamp/orb_slam_2_src-update.rule"
+		},
+		{
+			"file" : "/xavier_ssd/TrekBot/TrekBot2_WS/build/orb_slam_2_catkin/orb_slam_2_src-prefix/src/orb_slam_2_src-stamp/orb_slam_2_src-patch.rule"
+		},
+		{
+			"file" : "/xavier_ssd/TrekBot/TrekBot2_WS/build/orb_slam_2_catkin/orb_slam_2_src-prefix/src/orb_slam_2_src-stamp/orb_slam_2_src-configure.rule"
+		},
+		{
+			"file" : "/xavier_ssd/TrekBot/TrekBot2_WS/build/orb_slam_2_catkin/orb_slam_2_src-prefix/src/orb_slam_2_src-stamp/orb_slam_2_src-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"orb_slam_2_src"
+		],
+		"name" : "orb_slam_2_src"
+	}
+}

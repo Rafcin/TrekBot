@@ -1,0 +1,15 @@
+[31m[1mCMake Error[0m at /opt/ros/melodic/share/catkin/cmake/catkinConfig.cmake:83 (find_package):
+  Could not find a package configuration file provided by "driver_base" with
+  any of the following names:
+
+    driver_baseConfig.cmake
+    driver_base-config.cmake
+
+  Add the installation prefix of "driver_base" to CMAKE_PREFIX_PATH or set
+  "driver_base_DIR" to a directory containing one of the above files.  If
+  "driver_base" provides a separate development package or SDK, be sure it
+  has been installed.
+[36mCall Stack (most recent call first):[0m
+  CMakeLists.txt:13 (find_package)
+
+

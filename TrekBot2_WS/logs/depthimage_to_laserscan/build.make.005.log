@@ -1,0 +1,5 @@
+[ 22%] Built target DepthImageToLaserScan
+[ 33%] Built target depthimage_to_laserscan_gencfg
+[ 55%] Built target DepthImageToLaserScanROS
+[ 77%] Built target depthimage_to_laserscan
+[100%] Built target DepthImageToLaserScanNodelet

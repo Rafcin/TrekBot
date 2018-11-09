@@ -1,0 +1,1 @@
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pangolin_catkin/share/pangolin_catkin/cmake/pangolin-extras.cmake

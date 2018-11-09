@@ -15,6 +15,17 @@
         <arg name="svo_file"            value="$(arg svo_file)" />
     </include>
 
+    <!-- Launch Sweep -->
+    <include file="$(find trekbot_main)/launch/include/sweep.launch">
+
+    </include>
+
+    <!-- Launch OrbSlam2 -->
+<!--
+    <include file="$(find trekbot_main)/launch/include/orb.launch">
+
+    </include>
+-->
 
     <!-- Launch Voxblox Node -->
 <!--

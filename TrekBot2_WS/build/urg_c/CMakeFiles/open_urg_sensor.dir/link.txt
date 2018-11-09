@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC   -shared -Wl,-soname,libopen_urg_sensor.so -o /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/urg_c/lib/libopen_urg_sensor.so CMakeFiles/open_urg_sensor.dir/current/samples/open_urg_sensor.c.o -Wl,-rpath,/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/urg_c/lib: -lm /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/urg_c/lib/libliburg_c.so -lrt -lm 

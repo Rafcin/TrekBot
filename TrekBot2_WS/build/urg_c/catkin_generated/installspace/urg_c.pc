@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot2_WS/install
+
+Name: urg_c
+Description: Description of urg_c
+Version: 1.0.405
+Cflags: -I/xavier_ssd/TrekBot/TrekBot2_WS/install/include
+Libs: -L/xavier_ssd/TrekBot/TrekBot2_WS/install/lib -lliburg_c
+Requires: 

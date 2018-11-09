@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot2_WS/install
+
+Name: laser_proc
+Description: Description of laser_proc
+Version: 0.1.5
+Cflags: -I/xavier_ssd/TrekBot/TrekBot2_WS/install/include
+Libs: -L/xavier_ssd/TrekBot/TrekBot2_WS/install/lib -llaser_proc_library -llaser_publisher -llaser_transport -llaser_proc_ROS -lLaserProcNodelet
+Requires: roscpp sensor_msgs rosconsole nodelet

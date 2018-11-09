@@ -1,0 +1,13 @@
+# Target labels
+ pangolin_EXTERNAL
+# Source files and their labels
+/xavier_ssd/TrekBot/TrekBot2_WS/build/pangolin_catkin/CMakeFiles/pangolin_EXTERNAL
+/xavier_ssd/TrekBot/TrekBot2_WS/build/pangolin_catkin/CMakeFiles/pangolin_EXTERNAL.rule
+/xavier_ssd/TrekBot/TrekBot2_WS/build/pangolin_catkin/CMakeFiles/pangolin_EXTERNAL-complete.rule
+/xavier_ssd/TrekBot/TrekBot2_WS/build/pangolin_catkin/pangolin_EXTERNAL-prefix/src/pangolin_EXTERNAL-stamp/pangolin_EXTERNAL-install.rule
+/xavier_ssd/TrekBot/TrekBot2_WS/build/pangolin_catkin/pangolin_EXTERNAL-prefix/src/pangolin_EXTERNAL-stamp/pangolin_EXTERNAL-mkdir.rule
+/xavier_ssd/TrekBot/TrekBot2_WS/build/pangolin_catkin/pangolin_EXTERNAL-prefix/src/pangolin_EXTERNAL-stamp/pangolin_EXTERNAL-download.rule
+/xavier_ssd/TrekBot/TrekBot2_WS/build/pangolin_catkin/pangolin_EXTERNAL-prefix/src/pangolin_EXTERNAL-stamp/pangolin_EXTERNAL-update.rule
+/xavier_ssd/TrekBot/TrekBot2_WS/build/pangolin_catkin/pangolin_EXTERNAL-prefix/src/pangolin_EXTERNAL-stamp/pangolin_EXTERNAL-patch.rule
+/xavier_ssd/TrekBot/TrekBot2_WS/build/pangolin_catkin/pangolin_EXTERNAL-prefix/src/pangolin_EXTERNAL-stamp/pangolin_EXTERNAL-configure.rule
+/xavier_ssd/TrekBot/TrekBot2_WS/build/pangolin_catkin/pangolin_EXTERNAL-prefix/src/pangolin_EXTERNAL-stamp/pangolin_EXTERNAL-build.rule
