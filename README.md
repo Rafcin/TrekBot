@@ -18,10 +18,9 @@ Refer to the [Using The Work Space](https://github.com/Rafcin/TrekBot/wiki/3.-Us
 2. 99 Serial Rules renames /dev/ttyACM0 to /dev/RazorIMU.
 3. Project now uses `catkin build` to build the workspace. (Only on TrekBot_WS2) 
 
- 
 ## The MIT License
 
-Copyright (c) 2018-2019 Laguna Hills and Mission Vijeo High School
+Copyright (c) 2018-2019 Raf Szuminski
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
