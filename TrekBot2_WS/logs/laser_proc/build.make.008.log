@@ -1,0 +1,6 @@
+[ 16%] Built target laser_proc_library
+[ 33%] Built target laser_publisher
+[ 50%] Built target laser_transport
+[ 66%] Built target laser_proc_ROS
+[ 83%] Built target laser_proc
+[100%] Built target LaserProcNodelet

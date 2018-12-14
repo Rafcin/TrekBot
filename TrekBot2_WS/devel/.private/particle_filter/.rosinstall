@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/particle_filter/setup.sh

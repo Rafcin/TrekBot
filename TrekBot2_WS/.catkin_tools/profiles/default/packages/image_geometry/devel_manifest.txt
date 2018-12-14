@@ -1,0 +1,6 @@
+vision_opencv/image_geometry
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/image_geometry/share/image_geometry/cmake/image_geometryConfig-version.cmake /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/image_geometry/cmake/image_geometryConfig-version.cmake
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/image_geometry/share/image_geometry/cmake/image_geometryConfig.cmake /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/image_geometry/cmake/image_geometryConfig.cmake
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/image_geometry/lib/libimage_geometry.so /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/libimage_geometry.so
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/image_geometry/lib/python2.7/dist-packages/image_geometry/__init__.py /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/python2.7/dist-packages/image_geometry/__init__.py
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/image_geometry/lib/pkgconfig/image_geometry.pc /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/pkgconfig/image_geometry.pc

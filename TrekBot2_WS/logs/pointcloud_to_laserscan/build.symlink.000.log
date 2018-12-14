@@ -1,5 +1,0 @@
-Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/pointcloud_to_laserscan/cmake/pointcloud_to_laserscanConfig-version.cmake
-Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/pointcloud_to_laserscan/cmake/pointcloud_to_laserscanConfig.cmake
-Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/libpointcloud_to_laserscan.so
-Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/pointcloud_to_laserscan/pointcloud_to_laserscan_node
-Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/pkgconfig/pointcloud_to_laserscan.pc

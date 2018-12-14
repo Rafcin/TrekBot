@@ -1,45 +1,60 @@
 <?xml version="1.0"?>
 
 <launch>
-    <arg name="svo_file"                default="" /> <!-- <arg name="svo_file" default="path/to/svo/file.svo"> -->
-    
+
+  <arg name="svo_file"                default="" /> <!-- <arg name="svo_file" default="path/to/svo/file.svo"> -->
+  <arg name="base"         	default="base_link" /> 
+
+  <!-- Zed Args -->
+  <arg name="zed_namespace"		    	default="zed" />
+
+  <arg name="camera_model"         	default="0" /> <!-- 0=ZED, 1=ZEDM-->
+  <arg name="serial_number"        	default="0" />
+  <arg name="verbose"              	default="true" />
+  <arg name="resolution"           	default="2" /> <!--0=RESOLUTION_HD2K, 1=RESOLUTION_HD1080, 2=RESOLUTION_HD720, 3=RESOLUTION_VGA -->
+  <arg name="frame_rate"           	default="30" />
+  <arg name="rgb_topic"               	default="/rgb/image_rect_color" />
+  <arg name="depth_topic"             	default="/depth/depth_registered" />
+  <arg name="camera_info_topic"       	default="/rgb/camera_info" />
+  <arg name="depth_camera_info_topic" 	default="/depth/camera_info" />
+  <arg name="camera_frame"              default="zed_camera_center" />
+
+
+
+
+
+
+
+
 
     <!-- Launch IMU Node -->
     <include file="$(find trekbot_main)/launch/include/imu.launch">
 
     </include>
 
+
     <!-- Launch ZED camera wrapper -->
-    <include file="$(find trekbot_main)/launch/include/zed_camera.launch">
+    <include file="$(find zed_wrapper)/launch/zed_camera.launch">
         <arg name="camera_model"        value="0" /> <!-- 0=ZED, 1=ZEDM-->
         <arg name="svo_file"            value="$(arg svo_file)" />
     </include>
 
-    <!-- Launch Sweep -->
-    <include file="$(find trekbot_main)/launch/include/sweep.launch">
-
+	
+    <include file="$(find rtabmap_ros)/launch/rtabmap.launch">
+	<arg name="rtabmap_args"		value="--delete_db_on_start" />
+	<arg name="approx_sync"		        value="false" />
+	<arg name="rgb_topic"               	value="$(arg rgb_topic)" />
+	<arg name="depth_topic"             	value="$(arg depth_topic)" />
+	<arg name="camera_info_topic"       	value="$(arg camera_info_topic)" />
+	<arg name="depth_camera_info_topic" 	value="$(arg depth_camera_info_topic)" />
+	<arg name="frame_id"                    value="$(arg camera_frame)" />
     </include>
 
-    <!-- Launch OrbSlam2 -->
-<!--
-    <include file="$(find trekbot_main)/launch/include/orb.launch">
+
+    <!-- Launch Hokuyo -->
+    <include file="$(find trekbot_main)/launch/include/hokuyo.launch">
 
     </include>
--->
-
-    <!-- Launch Voxblox Node -->
-<!--
-    <include file="$(find trekbot_main)/launch/include/vox.launch">
-
-    </include>
--->
-
-    <!-- Launch Octomap Node -->
-<!--
-    <include file="$(find trekbot_main)/launch/include/octomap.launch">
-
-    </include>
--->
 
 
 
@@ -51,7 +66,7 @@ The Localization node is important becuase it provides the filtered kalman odome
     <include file="$(find trekbot_main)/launch/include/localization.launch">
 
     </include>
-  
+
     <!-- Launch rivz display -->
     <node name="rviz" pkg="rviz" type="rviz" args="-d $(find trekbot_main)/rviz/trek.rviz" output="screen" />
 

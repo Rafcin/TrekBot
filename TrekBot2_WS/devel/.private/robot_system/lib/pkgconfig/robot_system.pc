@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/robot_system
+
+Name: robot_system
+Description: Description of robot_system
+Version: 1.0.0
+Cflags: 
+Libs: -L/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/robot_system/lib 
+Requires: 

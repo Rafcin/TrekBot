@@ -1,0 +1,1 @@
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/dwa_local_planner/lib/pkgconfig/dwa_local_planner.pc

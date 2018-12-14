@@ -1,0 +1,65 @@
+Not searching for unused variables given on the command line.
+[36m--[0m The C compiler identification is GNU 7.3.0
+[36m--[0m The CXX compiler identification is GNU 7.3.0
+[36m--[0m Check for working C compiler: /usr/bin/cc
+[36m--[0m Check for working C compiler: /usr/bin/cc -- works
+[36m--[0m Detecting C compiler ABI info
+[36m--[0m Detecting C compiler ABI info - done
+[36m--[0m Detecting C compile features
+[36m--[0m Detecting C compile features - done
+[36m--[0m Check for working CXX compiler: /usr/bin/c++
+[36m--[0m Check for working CXX compiler: /usr/bin/c++ -- works
+[36m--[0m Detecting CXX compiler ABI info
+[36m--[0m Detecting CXX compiler ABI info - done
+[36m--[0m Detecting CXX compile features
+[36m--[0m Detecting CXX compile features - done
+[36m--[0m Using CATKIN_DEVEL_PREFIX: /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/navfn
+[36m--[0m Using CMAKE_PREFIX_PATH: /xavier_ssd/TrekBot/TrekBot2_WS/devel;/opt/ros/melodic
+[36m--[0m This workspace overlays: /xavier_ssd/TrekBot/TrekBot2_WS/devel;/opt/ros/melodic
+[36m--[0m Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.15", minimum required is "2")
+[36m--[0m Using PYTHON_EXECUTABLE: /usr/bin/python2
+[36m--[0m Using Debian Python package layout
+[36m--[0m Using empy: /usr/bin/empy
+[36m--[0m Using CATKIN_ENABLE_TESTING: ON
+[36m--[0m Call enable_testing()
+[36m--[0m Using CATKIN_TEST_RESULTS_DIR: /xavier_ssd/TrekBot/TrekBot2_WS/build/navfn/test_results
+[36m--[0m Found gmock sources under '/usr/src/googletest': gmock will be built
+[36m--[0m Found PythonInterp: /usr/bin/python2 (found version "2.7.15")
+[36m--[0m Looking for pthread.h
+[36m--[0m Looking for pthread.h - found
+[36m--[0m Looking for pthread_create
+[36m--[0m Looking for pthread_create - not found
+[36m--[0m Looking for pthread_create in pthreads
+[36m--[0m Looking for pthread_create in pthreads - not found
+[36m--[0m Looking for pthread_create in pthread
+[36m--[0m Looking for pthread_create in pthread - found
+[36m--[0m Found Threads: TRUE
+[36m--[0m Found gtest sources under '/usr/src/googletest': gtests will be built
+[36m--[0m Using Python nosetests: /usr/bin/nosetests-2.7
+[36m--[0m catkin 0.7.14
+[36m--[0m Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+[36m--[0m navfn: 0 messages, 2 services
+[36m--[0m Looking for C++ include FL/Fl.H
+[36m--[0m Looking for C++ include FL/Fl.H - found
+[36m--[0m Looking for C++ include pgm.h
+[36m--[0m Looking for C++ include pgm.h - found
+[36m--[0m NAVFN_HAVE_FLTK: 1, NETPBM: 1
+[36m--[0m FLTK found: adding navtest to build
+[36m--[0m Found OpenGL: /usr/lib/aarch64-linux-gnu/libOpenGL.so
+[36m--[0m Looking for XOpenDisplay in /usr/lib/aarch64-linux-gnu/libX11.so;/usr/lib/aarch64-linux-gnu/libXext.so
+[36m--[0m Looking for XOpenDisplay in /usr/lib/aarch64-linux-gnu/libX11.so;/usr/lib/aarch64-linux-gnu/libXext.so - found
+[36m--[0m Looking for gethostbyname
+[36m--[0m Looking for gethostbyname - found
+[36m--[0m Looking for connect
+[36m--[0m Looking for connect - found
+[36m--[0m Looking for remove
+[36m--[0m Looking for remove - found
+[36m--[0m Looking for shmat
+[36m--[0m Looking for shmat - found
+[36m--[0m Looking for IceConnectionNumber in ICE
+[36m--[0m Looking for IceConnectionNumber in ICE - found
+[36m--[0m Found X11: /usr/lib/aarch64-linux-gnu/libX11.so
+[36m--[0m Found FLTK: fltk_gl;/usr/lib/aarch64-linux-gnu/libGL.so;fltk
+[36m--[0m Configuring done
+[36m--[0m Generating done
+[36m--[0m Build files have been written to: /xavier_ssd/TrekBot/TrekBot2_WS/build/navfn

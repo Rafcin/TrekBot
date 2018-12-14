@@ -419,6 +419,8 @@ rosconsole/macros_generated.h
 /opt/ros/melodic/include/ros/rosconsole/macros_generated.h
 
 /opt/ros/melodic/include/ros/console_backend.h
+ros/macros.h
+-
 
 /opt/ros/melodic/include/ros/datatypes.h
 string
@@ -604,6 +606,8 @@ ros/message_operations.h
 sensor_msgs/PointCloud2.h
 -
 cstdarg
+-
+sstream
 -
 string
 -

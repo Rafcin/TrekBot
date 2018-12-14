@@ -6,5 +6,5 @@ CXX_FLAGS =
 
 CXX_DEFINES = -DROSCONSOLE_BACKEND_LOG4CXX -DROS_PACKAGE_NAME=\"depthimage_to_laserscan\"
 
-CXX_INCLUDES = -I/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/depthimage_to_laserscan/include -I/xavier_ssd/TrekBot/TrekBot2_WS/src/depthimage_to_laserscan/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/opencv 
+CXX_INCLUDES = -I/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/depthimage_to_laserscan/include -I/xavier_ssd/TrekBot/TrekBot2_WS/src/depthimage_to_laserscan/include -I/xavier_ssd/TrekBot/TrekBot2_WS/src/vision_opencv/image_geometry/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/local/include -I/usr/local/include/opencv 
 

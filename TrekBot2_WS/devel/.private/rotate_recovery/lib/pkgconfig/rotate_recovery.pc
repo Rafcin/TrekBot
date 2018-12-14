@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/rotate_recovery
+
+Name: rotate_recovery
+Description: Description of rotate_recovery
+Version: 1.16.2
+Cflags: -I/xavier_ssd/TrekBot/TrekBot2_WS/src/navigation/rotate_recovery/include
+Libs: -L/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/rotate_recovery/lib -lrotate_recovery
+Requires: costmap_2d geometry_msgs nav_core pluginlib roscpp tf2 tf2_ros

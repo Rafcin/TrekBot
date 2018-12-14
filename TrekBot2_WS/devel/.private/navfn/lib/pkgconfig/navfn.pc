@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/navfn
+
+Name: navfn
+Description: Description of navfn
+Version: 1.16.2
+Cflags: -I/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/navfn/include -I/xavier_ssd/TrekBot/TrekBot2_WS/src/navigation/navfn/include
+Libs: -L/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/navfn/lib -lnavfn
+Requires: geometry_msgs message_runtime nav_core nav_msgs pluginlib roscpp sensor_msgs visualization_msgs

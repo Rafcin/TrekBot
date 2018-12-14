@@ -1,0 +1,4 @@
+[ 25%] [32m[1mLinking CXX executable /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/imu_processors/lib/imu_processors/imu_integrator[0m
+[ 50%] Built target imu_integrator
+[ 75%] [32m[1mLinking CXX executable /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/imu_processors/lib/imu_processors/imu_bias_remover[0m
+[100%] Built target imu_bias_remover

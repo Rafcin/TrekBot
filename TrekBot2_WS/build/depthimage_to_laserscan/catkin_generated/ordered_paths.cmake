@@ -1,1 +1,1 @@
-set(ORDERED_PATHS "/opt/ros/melodic/lib")
+set(ORDERED_PATHS "/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/image_geometry/lib;/opt/ros/melodic/lib")

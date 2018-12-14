@@ -1,0 +1,87 @@
+[  5%] [34m[1mGenerating dynamic reconfigure files from cfg/OctomapServer.cfg: /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/octomap_server/include/octomap_server/OctomapServerConfig.h /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/octomap_server/lib/python2.7/dist-packages/octomap_server/cfg/OctomapServerConfig.py[0m
+Generating reconfiguration files for OctomapServer in octomap_server
+Wrote header file in /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/octomap_server/include/octomap_server/OctomapServerConfig.h
+[  5%] Built target octomap_server_gencfg
+[35m[1mScanning dependencies of target octomap_server[0m
+[ 11%] [32mBuilding CXX object CMakeFiles/octomap_server.dir/src/OctomapServer.cpp.o[0m
+[ 17%] [32mBuilding CXX object CMakeFiles/octomap_server.dir/src/OctomapServerMultilayer.cpp.o[0m
+[ 23%] [32mBuilding CXX object CMakeFiles/octomap_server.dir/src/TrackingOctomapServer.cpp.o[0m
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/octomap_mapping/octomap_server/include/octomap_server/OctomapServer.h:49:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/octomap_mapping/octomap_server/include/octomap_server/OctomapServerMultilayer.h:32[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/octomap_mapping/octomap_server/src/OctomapServerMultilayer.cpp:30[m[K:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:[m[K In function ‘[01m[Kvoid __static_initialization_and_destruction_0(int, int)[m[K’:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;35m[Kwarning: [m[K‘[01m[Kpcl::SAC_SAMPLE_SIZE[m[K’ is deprecated: This map is deprecated and is kept only to prevent breaking existing user code. Starting from PCL 1.8.0 model sample size is a protected member of the SampleConsensusModel class [[01;35m[K-Wdeprecated-declarations[m[K]
+   [01;35m[KSAC_SAMPLE_SIZE[m[K (sample_size_pairs, sample_size_pairs + sizeof (sample_size_pairs) / sizeof (SampleSizeModel));
+   [01;35m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;36m[Knote: [m[Kdeclared here
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/octomap_mapping/octomap_server/include/octomap_server/OctomapServer.h:49:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/octomap_mapping/octomap_server/src/OctomapServer.cpp:30[m[K:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:[m[K In function ‘[01m[Kvoid __static_initialization_and_destruction_0(int, int)[m[K’:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;35m[Kwarning: [m[K‘[01m[Kpcl::SAC_SAMPLE_SIZE[m[K’ is deprecated: This map is deprecated and is kept only to prevent breaking existing user code. Starting from PCL 1.8.0 model sample size is a protected member of the SampleConsensusModel class [[01;35m[K-Wdeprecated-declarations[m[K]
+   [01;35m[KSAC_SAMPLE_SIZE[m[K (sample_size_pairs, sample_size_pairs + sizeof (sample_size_pairs) / sizeof (SampleSizeModel));
+   [01;35m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;36m[Knote: [m[Kdeclared here
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/octomap_mapping/octomap_server/include/octomap_server/OctomapServer.h:49:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/octomap_mapping/octomap_server/include/octomap_server/TrackingOctomapServer.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/octomap_mapping/octomap_server/src/TrackingOctomapServer.cpp:30[m[K:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:[m[K In function ‘[01m[Kvoid __static_initialization_and_destruction_0(int, int)[m[K’:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;35m[Kwarning: [m[K‘[01m[Kpcl::SAC_SAMPLE_SIZE[m[K’ is deprecated: This map is deprecated and is kept only to prevent breaking existing user code. Starting from PCL 1.8.0 model sample size is a protected member of the SampleConsensusModel class [[01;35m[K-Wdeprecated-declarations[m[K]
+   [01;35m[KSAC_SAMPLE_SIZE[m[K (sample_size_pairs, sample_size_pairs + sizeof (sample_size_pairs) / sizeof (SampleSizeModel));
+   [01;35m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;36m[Knote: [m[Kdeclared here
+[ 29%] [32m[1mLinking CXX shared library /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/octomap_server/lib/liboctomap_server.so[0m
+[ 29%] Built target octomap_server
+[35m[1mScanning dependencies of target octomap_saver[0m
+[ 35%] [32mBuilding CXX object CMakeFiles/octomap_saver.dir/src/octomap_saver.cpp.o[0m
+[35m[1mScanning dependencies of target octomap_server_multilayer[0m
+[ 41%] [32m[1mLinking CXX executable /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/octomap_server/lib/octomap_server/octomap_saver[0m
+[ 47%] [32mBuilding CXX object CMakeFiles/octomap_server_multilayer.dir/src/octomap_server_multilayer.cpp.o[0m
+[35m[1mScanning dependencies of target octomap_server_nodelet[0m
+[ 52%] [32mBuilding CXX object CMakeFiles/octomap_server_nodelet.dir/src/octomap_server_nodelet.cpp.o[0m
+[ 52%] Built target octomap_saver
+[35m[1mScanning dependencies of target octomap_server_static[0m
+[ 58%] [32mBuilding CXX object CMakeFiles/octomap_server_static.dir/src/octomap_server_static.cpp.o[0m
+[ 64%] [32m[1mLinking CXX executable /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/octomap_server/lib/octomap_server/octomap_server_static[0m
+[ 64%] Built target octomap_server_static
+[35m[1mScanning dependencies of target octomap_tracking_server_node[0m
+[ 70%] [32mBuilding CXX object CMakeFiles/octomap_tracking_server_node.dir/src/octomap_tracking_server_node.cpp.o[0m
+[35m[1mScanning dependencies of target octomap_server_node[0m
+[ 76%] [32mBuilding CXX object CMakeFiles/octomap_server_node.dir/src/octomap_server_node.cpp.o[0m
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/octomap_mapping/octomap_server/include/octomap_server/OctomapServer.h:49:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/octomap_mapping/octomap_server/include/octomap_server/OctomapServerMultilayer.h:32[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/octomap_mapping/octomap_server/src/octomap_server_multilayer.cpp:32[m[K:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:[m[K In function ‘[01m[Kvoid __static_initialization_and_destruction_0(int, int)[m[K’:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;35m[Kwarning: [m[K‘[01m[Kpcl::SAC_SAMPLE_SIZE[m[K’ is deprecated: This map is deprecated and is kept only to prevent breaking existing user code. Starting from PCL 1.8.0 model sample size is a protected member of the SampleConsensusModel class [[01;35m[K-Wdeprecated-declarations[m[K]
+   [01;35m[KSAC_SAMPLE_SIZE[m[K (sample_size_pairs, sample_size_pairs + sizeof (sample_size_pairs) / sizeof (SampleSizeModel));
+   [01;35m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;36m[Knote: [m[Kdeclared here
+[ 82%] [32m[1mLinking CXX executable /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/octomap_server/lib/octomap_server/octomap_server_multilayer[0m
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/octomap_mapping/octomap_server/include/octomap_server/OctomapServer.h:49:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/octomap_mapping/octomap_server/src/octomap_server_nodelet.cpp:38[m[K:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:[m[K In function ‘[01m[Kvoid __static_initialization_and_destruction_0(int, int)[m[K’:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;35m[Kwarning: [m[K‘[01m[Kpcl::SAC_SAMPLE_SIZE[m[K’ is deprecated: This map is deprecated and is kept only to prevent breaking existing user code. Starting from PCL 1.8.0 model sample size is a protected member of the SampleConsensusModel class [[01;35m[K-Wdeprecated-declarations[m[K]
+   [01;35m[KSAC_SAMPLE_SIZE[m[K (sample_size_pairs, sample_size_pairs + sizeof (sample_size_pairs) / sizeof (SampleSizeModel));
+   [01;35m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;36m[Knote: [m[Kdeclared here
+[ 88%] [32m[1mLinking CXX shared library /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/octomap_server/lib/liboctomap_server_nodelet.so[0m
+[ 88%] Built target octomap_server_multilayer
+[ 88%] Built target octomap_server_nodelet
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/octomap_mapping/octomap_server/include/octomap_server/OctomapServer.h:49:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/octomap_mapping/octomap_server/include/octomap_server/TrackingOctomapServer.h:33[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/octomap_mapping/octomap_server/src/octomap_tracking_server_node.cpp:31[m[K:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:[m[K In function ‘[01m[Kvoid __static_initialization_and_destruction_0(int, int)[m[K’:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;35m[Kwarning: [m[K‘[01m[Kpcl::SAC_SAMPLE_SIZE[m[K’ is deprecated: This map is deprecated and is kept only to prevent breaking existing user code. Starting from PCL 1.8.0 model sample size is a protected member of the SampleConsensusModel class [[01;35m[K-Wdeprecated-declarations[m[K]
+   [01;35m[KSAC_SAMPLE_SIZE[m[K (sample_size_pairs, sample_size_pairs + sizeof (sample_size_pairs) / sizeof (SampleSizeModel));
+   [01;35m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;36m[Knote: [m[Kdeclared here
+[ 94%] [32m[1mLinking CXX executable /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/octomap_server/lib/octomap_server/octomap_tracking_server_node[0m
+In file included from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/octomap_mapping/octomap_server/include/octomap_server/OctomapServer.h:49:0[m[K,
+                 from [01m[K/xavier_ssd/TrekBot/TrekBot2_WS/src/octomap_mapping/octomap_server/src/octomap_server_node.cpp:40[m[K:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:[m[K In function ‘[01m[Kvoid __static_initialization_and_destruction_0(int, int)[m[K’:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;35m[Kwarning: [m[K‘[01m[Kpcl::SAC_SAMPLE_SIZE[m[K’ is deprecated: This map is deprecated and is kept only to prevent breaking existing user code. Starting from PCL 1.8.0 model sample size is a protected member of the SampleConsensusModel class [[01;35m[K-Wdeprecated-declarations[m[K]
+   [01;35m[KSAC_SAMPLE_SIZE[m[K (sample_size_pairs, sample_size_pairs + sizeof (sample_size_pairs) / sizeof (SampleSizeModel));
+   [01;35m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;36m[Knote: [m[Kdeclared here
+[100%] [32m[1mLinking CXX executable /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/octomap_server/lib/octomap_server/octomap_server_node[0m
+[100%] Built target octomap_tracking_server_node
+[100%] Built target octomap_server_node

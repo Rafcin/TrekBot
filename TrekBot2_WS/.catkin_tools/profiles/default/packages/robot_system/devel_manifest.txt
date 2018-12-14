@@ -1,0 +1,4 @@
+robot_system
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/robot_system/share/robot_system/cmake/robot_systemConfig.cmake /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/robot_system/cmake/robot_systemConfig.cmake
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/robot_system/share/robot_system/cmake/robot_systemConfig-version.cmake /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/robot_system/cmake/robot_systemConfig-version.cmake
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/robot_system/lib/pkgconfig/robot_system.pc /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/pkgconfig/robot_system.pc

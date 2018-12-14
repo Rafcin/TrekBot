@@ -1,0 +1,91 @@
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target actionlib_generate_messages_cpp
+[  0%] Built target map_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target actionlib_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target _catkin_empty_exported_target
+[  0%] Built target map_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[  0%] Built target map_msgs_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target costmap_2d_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target visualization_msgs_generate_messages_lisp
+[  0%] Built target visualization_msgs_generate_messages_nodejs
+[  0%] Built target nav_msgs_generate_messages_nodejs
+[  0%] Built target costmap_2d_gencfg
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target dynamic_reconfigure_generate_messages_nodejs
+[  0%] Built target costmap_2d_generate_messages_cpp
+[  0%] Built target _navfn_generate_messages_check_deps_SetCostmap
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target visualization_msgs_generate_messages_py
+[  0%] Built target _navfn_generate_messages_check_deps_MakeNavPlan
+[  0%] Built target costmap_2d_generate_messages_lisp
+[  0%] Built target costmap_2d_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target costmap_2d_generate_messages_py
+[  0%] Built target dynamic_reconfigure_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target dynamic_reconfigure_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target nav_msgs_generate_messages_cpp
+[  0%] Built target nav_msgs_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target actionlib_generate_messages_eus
+[  0%] Built target actionlib_generate_messages_nodejs
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target dynamic_reconfigure_gencfg
+[  0%] Built target nav_msgs_generate_messages_py
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[  0%] Built target map_msgs_generate_messages_cpp
+[  0%] Built target actionlib_generate_messages_py
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[  0%] Built target tf2_msgs_generate_messages_py
+[  0%] Built target nav_msgs_generate_messages_eus
+[  0%] Built target tf2_msgs_generate_messages_eus
+[  0%] Built target visualization_msgs_generate_messages_eus
+[  0%] Built target visualization_msgs_generate_messages_cpp
+[  0%] Built target map_msgs_generate_messages_nodejs
+[ 15%] Built target navfn_generate_messages_py
+[ 25%] Built target navfn_generate_messages_nodejs
+[ 35%] Built target navfn_generate_messages_lisp
+[ 50%] Built target navfn_generate_messages_eus
+[ 60%] Built target navfn_generate_messages_cpp
+[ 60%] Built target navfn_generate_messages
+[ 75%] Built target navfn
+[ 80%] [32m[1mLinking CXX executable /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/navfn/lib/navfn/navtest[0m
+[35m[1mScanning dependencies of target navfn_node[0m
+[ 85%] [32mBuilding CXX object CMakeFiles/navfn_node.dir/src/navfn_node.cpp.o[0m
+/usr/bin/ld: cannot find -lfltk
+collect2: error: ld returned 1 exit status
+CMakeFiles/navtest.dir/build.make:157: recipe for target '/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/navfn/lib/navfn/navtest' failed
+CMakeFiles/Makefile2:67: recipe for target 'CMakeFiles/navtest.dir/all' failed
+make[2]: *** [/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/navfn/lib/navfn/navtest] Error 1
+make[1]: *** [CMakeFiles/navtest.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+[ 90%] [32m[1mLinking CXX executable /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/navfn/lib/navfn/navfn_node[0m
+[ 90%] Built target navfn_node
+Makefile:140: recipe for target 'all' failed
+make: *** [all] Error 2

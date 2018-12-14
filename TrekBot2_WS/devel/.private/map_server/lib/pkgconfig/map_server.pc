@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/map_server
+
+Name: map_server
+Description: Description of map_server
+Version: 1.16.2
+Cflags: -I/xavier_ssd/TrekBot/TrekBot2_WS/src/navigation/map_server/include
+Libs: -L/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/map_server/lib -lmap_server_image_loader
+Requires: roscpp nav_msgs tf2

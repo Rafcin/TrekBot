@@ -1,0 +1,11 @@
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/dwa_local_planner/cmake/dwa_local_plannerConfig-version.cmake
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/dwa_local_planner/cmake/dwa_local_plannerConfig.cmake
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/dwa_local_planner/docs/DWAPlannerConfig.dox
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/dwa_local_planner/docs/DWAPlannerConfig-usage.dox
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/dwa_local_planner/docs/DWAPlannerConfig.wikidoc
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/libdwa_local_planner.so
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/python2.7/dist-packages/dwa_local_planner/__init__.py
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/python2.7/dist-packages/dwa_local_planner/cfg/__init__.py
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/python2.7/dist-packages/dwa_local_planner/cfg/DWAPlannerConfig.py
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/pkgconfig/dwa_local_planner.pc
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/include/dwa_local_planner/DWAPlannerConfig.h

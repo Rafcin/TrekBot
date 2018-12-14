@@ -1,0 +1,38 @@
+[36m--[0m Using CATKIN_DEVEL_PREFIX: /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pointcloud_to_laserscan
+[36m--[0m Using CMAKE_PREFIX_PATH: /xavier_ssd/TrekBot/TrekBot2_WS/devel;/opt/ros/melodic
+[36m--[0m This workspace overlays: /xavier_ssd/TrekBot/TrekBot2_WS/devel;/opt/ros/melodic
+[36m--[0m Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.15", minimum required is "2")
+[36m--[0m Using PYTHON_EXECUTABLE: /usr/bin/python2
+[36m--[0m Using Debian Python package layout
+[36m--[0m Using empy: /usr/bin/empy
+[36m--[0m Using CATKIN_ENABLE_TESTING: ON
+[36m--[0m Call enable_testing()
+[36m--[0m Using CATKIN_TEST_RESULTS_DIR: /xavier_ssd/TrekBot/TrekBot2_WS/build/pointcloud_to_laserscan/test_results
+[36m--[0m Found gmock sources under '/usr/src/googletest': gmock will be built
+[36m--[0m Found PythonInterp: /usr/bin/python2 (found version "2.7.15")
+[36m--[0m Found gtest sources under '/usr/src/googletest': gtests will be built
+[36m--[0m Using Python nosetests: /usr/bin/nosetests-2.7
+[36m--[0m catkin 0.7.14
+[36m--[0m Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+[31m[1mCMake Error[0m at /xavier_ssd/TrekBot/TrekBot2_WS/src/pointcloud_to_laserscan/CMakeLists.txt:48 (find_package):
+  By not providing "Findroslint.cmake" in CMAKE_MODULE_PATH this project has
+  asked CMake to find a package configuration file provided by "roslint", but
+  CMake did not find one.
+
+  Could not find a package configuration file provided by "roslint" with any
+  of the following names:
+
+    roslintConfig.cmake
+    roslint-config.cmake
+
+  Add the installation prefix of "roslint" to CMAKE_PREFIX_PATH or set
+  "roslint_DIR" to a directory containing one of the above files.  If
+  "roslint" provides a separate development package or SDK, be sure it has
+  been installed.
+
+
+[36m--[0m Configuring incomplete, errors occurred!
+See also "/xavier_ssd/TrekBot/TrekBot2_WS/build/pointcloud_to_laserscan/CMakeFiles/CMakeOutput.log".
+See also "/xavier_ssd/TrekBot/TrekBot2_WS/build/pointcloud_to_laserscan/CMakeFiles/CMakeError.log".
+Makefile:1234: recipe for target 'cmake_check_build_system' failed
+make: *** [cmake_check_build_system] Error 1

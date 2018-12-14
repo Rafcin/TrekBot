@@ -1,0 +1,3 @@
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/robot_system/cmake/robot_systemConfig.cmake
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/robot_system/cmake/robot_systemConfig-version.cmake
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/pkgconfig/robot_system.pc

@@ -159,8 +159,8 @@ clean: CMakeFiles/clean_test_results_tf2_sensor_msgs.dir/clean
 # Target rules for target CMakeFiles/_run_tests_tf2_sensor_msgs_nosetests_test.test_tf2_sensor_msgs.py.dir
 
 # All Build rule for target.
-CMakeFiles/_run_tests_tf2_sensor_msgs_nosetests_test.test_tf2_sensor_msgs.py.dir/all: CMakeFiles/tests.dir/all
 CMakeFiles/_run_tests_tf2_sensor_msgs_nosetests_test.test_tf2_sensor_msgs.py.dir/all: CMakeFiles/clean_test_results_tf2_sensor_msgs.dir/all
+CMakeFiles/_run_tests_tf2_sensor_msgs_nosetests_test.test_tf2_sensor_msgs.py.dir/all: CMakeFiles/tests.dir/all
 	$(MAKE) -f CMakeFiles/_run_tests_tf2_sensor_msgs_nosetests_test.test_tf2_sensor_msgs.py.dir/build.make CMakeFiles/_run_tests_tf2_sensor_msgs_nosetests_test.test_tf2_sensor_msgs.py.dir/depend
 	$(MAKE) -f CMakeFiles/_run_tests_tf2_sensor_msgs_nosetests_test.test_tf2_sensor_msgs.py.dir/build.make CMakeFiles/_run_tests_tf2_sensor_msgs_nosetests_test.test_tf2_sensor_msgs.py.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/tf2_sensor_msgs/CMakeFiles --progress-num= "Built target _run_tests_tf2_sensor_msgs_nosetests_test.test_tf2_sensor_msgs.py"
@@ -546,8 +546,8 @@ clean: CMakeFiles/rosgraph_msgs_generate_messages_lisp.dir/clean
 # Target rules for target CMakeFiles/_run_tests_tf2_sensor_msgs_rostest_test_test.launch.dir
 
 # All Build rule for target.
-CMakeFiles/_run_tests_tf2_sensor_msgs_rostest_test_test.launch.dir/all: CMakeFiles/tests.dir/all
 CMakeFiles/_run_tests_tf2_sensor_msgs_rostest_test_test.launch.dir/all: CMakeFiles/clean_test_results_tf2_sensor_msgs.dir/all
+CMakeFiles/_run_tests_tf2_sensor_msgs_rostest_test_test.launch.dir/all: CMakeFiles/tests.dir/all
 	$(MAKE) -f CMakeFiles/_run_tests_tf2_sensor_msgs_rostest_test_test.launch.dir/build.make CMakeFiles/_run_tests_tf2_sensor_msgs_rostest_test_test.launch.dir/depend
 	$(MAKE) -f CMakeFiles/_run_tests_tf2_sensor_msgs_rostest_test_test.launch.dir/build.make CMakeFiles/_run_tests_tf2_sensor_msgs_rostest_test_test.launch.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/tf2_sensor_msgs/CMakeFiles --progress-num= "Built target _run_tests_tf2_sensor_msgs_rostest_test_test.launch"

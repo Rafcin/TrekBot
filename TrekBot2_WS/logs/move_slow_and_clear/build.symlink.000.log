@@ -1,0 +1,4 @@
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/move_slow_and_clear/cmake/move_slow_and_clearConfig.cmake
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/move_slow_and_clear/cmake/move_slow_and_clearConfig-version.cmake
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/libmove_slow_and_clear.so
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/pkgconfig/move_slow_and_clear.pc

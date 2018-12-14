@@ -1,0 +1,14 @@
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/amcl/cmake/amclConfig.cmake
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/amcl/cmake/amclConfig-version.cmake
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/amcl/docs/AMCLConfig-usage.dox
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/amcl/docs/AMCLConfig.dox
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/amcl/docs/AMCLConfig.wikidoc
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/libamcl_sensors.so
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/libamcl_pf.so
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/libamcl_map.so
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/amcl/amcl
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/python2.7/dist-packages/amcl/__init__.py
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/python2.7/dist-packages/amcl/cfg/__init__.py
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/python2.7/dist-packages/amcl/cfg/AMCLConfig.py
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/pkgconfig/amcl.pc
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/include/amcl/AMCLConfig.h

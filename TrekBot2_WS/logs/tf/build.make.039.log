@@ -1,0 +1,95 @@
+[  5%] Built target gtest
+[  5%] Built target actionlib_generate_messages_cpp
+[  5%] Built target actionlib_generate_messages_eus
+[  5%] Built target sensor_msgs_generate_messages_nodejs
+[  5%] Built target roscpp_generate_messages_cpp
+[  5%] Built target sensor_msgs_generate_messages_lisp
+[  5%] Built target rosgraph_msgs_generate_messages_lisp
+[  5%] Built target rosgraph_msgs_generate_messages_eus
+[  5%] Built target rosgraph_msgs_generate_messages_cpp
+[  5%] Built target actionlib_generate_messages_lisp
+[  5%] Built target geometry_msgs_generate_messages_cpp
+[  5%] Built target geometry_msgs_generate_messages_lisp
+[  5%] Built target sensor_msgs_generate_messages_py
+[  5%] Built target _tf_generate_messages_check_deps_FrameGraph
+[  5%] Built target geometry_msgs_generate_messages_py
+[  5%] Built target std_msgs_generate_messages_py
+[  5%] Built target roscpp_generate_messages_lisp
+[  5%] Built target std_msgs_generate_messages_cpp
+[  5%] Built target _tf_generate_messages_check_deps_tfMessage
+[  5%] Built target roscpp_generate_messages_py
+[  5%] Built target rosgraph_msgs_generate_messages_nodejs
+[  5%] Built target std_msgs_generate_messages_eus
+[  5%] Built target geometry_msgs_generate_messages_nodejs
+[  5%] Built target sensor_msgs_generate_messages_eus
+[  5%] Built target std_msgs_generate_messages_nodejs
+[  5%] Built target sensor_msgs_generate_messages_cpp
+[  5%] Built target roscpp_generate_messages_nodejs
+[  5%] Built target std_msgs_generate_messages_lisp
+[  5%] Built target roscpp_generate_messages_eus
+[  5%] Built target rosgraph_msgs_generate_messages_py
+[  5%] Built target actionlib_msgs_generate_messages_eus
+[  5%] Built target actionlib_msgs_generate_messages_lisp
+[  5%] Built target actionlib_msgs_generate_messages_py
+[  5%] Built target tf2_msgs_generate_messages_cpp
+[  5%] Built target tf2_msgs_generate_messages_lisp
+[  5%] Built target tf2_msgs_generate_messages_eus
+[  5%] Built target actionlib_generate_messages_py
+[  5%] Built target tf2_msgs_generate_messages_py
+[  5%] Built target tf2_msgs_generate_messages_nodejs
+[  5%] Built target actionlib_generate_messages_nodejs
+[  8%] [34m[1mGenerating C++ code from tf/tfMessage.msg[0m
+[  8%] Built target actionlib_msgs_generate_messages_cpp
+[  8%] Built target geometry_msgs_generate_messages_eus
+[  8%] Built target actionlib_msgs_generate_messages_nodejs
+[ 11%] [34m[1mGenerating Lisp code from tf/tfMessage.msg[0m
+[ 13%] [34m[1mGenerating Javascript code from tf/tfMessage.msg[0m
+[ 16%] Built target tf_generate_messages_cpp
+[ 19%] Built target tf_generate_messages_lisp
+[ 22%] [34m[1mGenerating Python from MSG tf/tfMessage[0m
+[ 25%] [34m[1mGenerating EusLisp code from tf/tfMessage.msg[0m
+[ 27%] Built target tf_generate_messages_nodejs
+[ 30%] [34m[1mGenerating Python msg __init__.py for tf[0m
+[ 33%] [34m[1mGenerating Python srv __init__.py for tf[0m
+[ 38%] Built target tf_generate_messages_eus
+[ 41%] Built target tf_generate_messages_py
+[35m[1mScanning dependencies of target tf[0m
+[ 41%] Built target tf_generate_messages
+[ 44%] [32mBuilding CXX object CMakeFiles/tf.dir/src/tf.cpp.o[0m
+[ 47%] [32mBuilding CXX object CMakeFiles/tf.dir/src/cache.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/tf.dir/src/transform_broadcaster.cpp.o[0m
+[ 52%] [32mBuilding CXX object CMakeFiles/tf.dir/src/transform_listener.cpp.o[0m
+[ 55%] [32m[1mLinking CXX shared library /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/tf/lib/libtf.so[0m
+[ 55%] Built target tf
+[35m[1mScanning dependencies of target tf_echo[0m
+[35m[1mScanning dependencies of target transform_listener_unittest[0m
+[35m[1mScanning dependencies of target tf_monitor[0m
+[ 58%] [32mBuilding CXX object CMakeFiles/tf_echo.dir/src/tf_echo.cpp.o[0m
+[ 61%] [32mBuilding CXX object CMakeFiles/tf_monitor.dir/src/tf_monitor.cpp.o[0m
+[ 63%] [32mBuilding CXX object CMakeFiles/transform_listener_unittest.dir/test/transform_listener_unittest.cpp.o[0m
+[35m[1mScanning dependencies of target testListener[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/testListener.dir/test/testListener.cpp.o[0m
+[ 69%] [32m[1mLinking CXX executable /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/tf/lib/tf/tf_echo[0m
+[35m[1mScanning dependencies of target static_transform_publisher[0m
+[ 72%] [32mBuilding CXX object CMakeFiles/static_transform_publisher.dir/src/static_transform_publisher.cpp.o[0m
+[ 72%] Built target tf_echo
+[35m[1mScanning dependencies of target tf_change_notifier[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/tf_change_notifier.dir/src/change_notifier.cpp.o[0m
+[ 77%] [32m[1mLinking CXX executable /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/tf/lib/tf/transform_listener_unittest[0m
+[ 80%] [32m[1mLinking CXX executable /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/tf/lib/tf/testListener[0m
+[35m[1mScanning dependencies of target tf_empty_listener[0m
+[ 83%] [32m[1mLinking CXX executable /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/tf/lib/tf/tf_monitor[0m
+[ 86%] [32mBuilding CXX object CMakeFiles/tf_empty_listener.dir/src/empty_listener.cpp.o[0m
+[ 86%] Built target transform_listener_unittest
+[35m[1mScanning dependencies of target testBroadcaster[0m
+[ 88%] [32mBuilding CXX object CMakeFiles/testBroadcaster.dir/test/testBroadcaster.cpp.o[0m
+[ 88%] Built target testListener
+[ 88%] Built target tf_monitor
+[ 91%] [32m[1mLinking CXX executable /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/tf/lib/tf/static_transform_publisher[0m
+[ 91%] Built target static_transform_publisher
+[ 94%] [32m[1mLinking CXX executable /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/tf/lib/tf/testBroadcaster[0m
+[ 94%] Built target testBroadcaster
+[ 97%] [32m[1mLinking CXX executable /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/tf/lib/tf/tf_change_notifier[0m
+[100%] [32m[1mLinking CXX executable /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/tf/lib/tf/tf_empty_listener[0m
+[100%] Built target tf_change_notifier
+[100%] Built target tf_empty_listener

@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/nav_core
+
+Name: nav_core
+Description: Description of nav_core
+Version: 1.16.2
+Cflags: -I/xavier_ssd/TrekBot/TrekBot2_WS/src/navigation/nav_core/include
+Libs: -L/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/nav_core/lib 
+Requires: std_msgs geometry_msgs tf2_ros costmap_2d

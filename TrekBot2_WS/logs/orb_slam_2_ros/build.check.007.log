@@ -1,0 +1,35 @@
+[36m--[0m Using CATKIN_DEVEL_PREFIX: /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/orb_slam_2_ros
+[36m--[0m Using CMAKE_PREFIX_PATH: /xavier_ssd/TrekBot/TrekBot2_WS/devel;/opt/ros/melodic
+[36m--[0m This workspace overlays: /xavier_ssd/TrekBot/TrekBot2_WS/devel;/opt/ros/melodic
+[36m--[0m Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.15", minimum required is "2")
+[36m--[0m Using PYTHON_EXECUTABLE: /usr/bin/python2
+[36m--[0m Using Debian Python package layout
+[36m--[0m Using empy: /usr/bin/empy
+[36m--[0m Using CATKIN_ENABLE_TESTING: ON
+[36m--[0m Call enable_testing()
+[36m--[0m Using CATKIN_TEST_RESULTS_DIR: /xavier_ssd/TrekBot/TrekBot2_WS/build/orb_slam_2_ros/test_results
+[36m--[0m Found gmock sources under '/usr/src/googletest': gmock will be built
+[36m--[0m Found PythonInterp: /usr/bin/python2 (found version "2.7.15")
+[36m--[0m Found gtest sources under '/usr/src/googletest': gtests will be built
+[36m--[0m Using Python nosetests: /usr/bin/nosetests-2.7
+[36m--[0m catkin 0.7.14
+[36m--[0m Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+[33m[1mCMake Warning[0m at /opt/ros/melodic/share/cmake_modules/cmake/Modules/FindEigen.cmake:62 (message):
+  The FindEigen.cmake Module in the cmake_modules package is deprecated.
+
+  Please use the FindEigen3.cmake Module provided with Eigen.  Change
+  instances of find_package(Eigen) to find_package(Eigen3).  Check the
+  FindEigen3.cmake Module for the resulting CMake variable names.
+
+[36mCall Stack (most recent call first):[0m
+  CMakeLists.txt:9 (find_package)
+
+
+[36m--[0m Eigen found (include: /usr/include/eigen3)
+[36m--[0m Marking SHARED_LIBRARY "orb_slam_2_interface" of package "orb_slam_2_ros" for installation
+[36m--[0m Marking EXECUTABLE "orb_slam_2_ros_node" of package "orb_slam_2_ros" for installation
+[36m--[0m Marking HEADER FILES in "include" folder of package "orb_slam_2_ros" for installation
+[36m--[0m Marking SHARED CONTENT FOLDER "launch" of package "orb_slam_2_ros" for installation
+[36m--[0m Configuring done
+[36m--[0m Generating done
+[36m--[0m Build files have been written to: /xavier_ssd/TrekBot/TrekBot2_WS/build/orb_slam_2_ros

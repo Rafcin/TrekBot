@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/global_planner
+
+Name: global_planner
+Description: Description of global_planner
+Version: 1.16.2
+Cflags: -I/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/global_planner/include -I/xavier_ssd/TrekBot/TrekBot2_WS/src/navigation/global_planner/include
+Libs: -L/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/global_planner/lib -lglobal_planner
+Requires: costmap_2d dynamic_reconfigure geometry_msgs nav_core navfn nav_msgs pluginlib roscpp tf2_ros

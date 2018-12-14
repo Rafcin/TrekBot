@@ -1,0 +1,18 @@
+[31m[1mCMake Error[0m at /xavier_ssd/TrekBot/TrekBot2_WS/src/pointcloud_to_laserscan/CMakeLists.txt:48 (find_package):
+  By not providing "Findroslint.cmake" in CMAKE_MODULE_PATH this project has
+  asked CMake to find a package configuration file provided by "roslint", but
+  CMake did not find one.
+
+  Could not find a package configuration file provided by "roslint" with any
+  of the following names:
+
+    roslintConfig.cmake
+    roslint-config.cmake
+
+  Add the installation prefix of "roslint" to CMAKE_PREFIX_PATH or set
+  "roslint_DIR" to a directory containing one of the above files.  If
+  "roslint" provides a separate development package or SDK, be sure it has
+  been installed.
+
+
+make: *** [cmake_check_build_system] Error 1

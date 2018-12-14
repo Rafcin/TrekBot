@@ -1,0 +1,4 @@
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/clear_costmap_recovery/cmake/clear_costmap_recoveryConfig.cmake
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/clear_costmap_recovery/cmake/clear_costmap_recoveryConfig-version.cmake
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/libclear_costmap_recovery.so
+Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/pkgconfig/clear_costmap_recovery.pc

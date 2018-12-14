@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/carrot_planner
+
+Name: carrot_planner
+Description: Description of carrot_planner
+Version: 1.16.2
+Cflags: -I/xavier_ssd/TrekBot/TrekBot2_WS/src/navigation/carrot_planner/include
+Libs: -L/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/carrot_planner/lib -lcarrot_planner
+Requires: base_local_planner costmap_2d nav_core pluginlib roscpp tf2 tf2_ros

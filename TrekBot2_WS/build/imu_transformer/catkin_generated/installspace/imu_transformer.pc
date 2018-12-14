@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot2_WS/install
+
+Name: imu_transformer
+Description: Description of imu_transformer
+Version: 0.2.2
+Cflags: -I/xavier_ssd/TrekBot/TrekBot2_WS/install/include
+Libs: -L/xavier_ssd/TrekBot/TrekBot2_WS/install/lib -limu_transformer_nodelet
+Requires: roscpp message_filters nodelet sensor_msgs tf2 tf2_ros geometry_msgs

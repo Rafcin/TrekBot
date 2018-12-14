@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<robot name="ASM_MAIN_6WD_AP214">
+<link name="base_link">
+  <inertial>
+    <origin rpy="0 0 0" xyz="0.159207 0.076058 -0.008489"/>
+    <mass value="0.74834"/>
+    <inertia ixx="0.000949" ixy="-0.0" ixz="-0.0" iyy="0.012632" iyz="-0.0" izz="0.011756"/>
+  </inertial>
+  <visual>
+    <origin rpy="0 0 0" xyz="0 0 0"/>
+    <geometry>
+      <mesh filename="package://fusion2urdf/ASM_MAIN_6WD_AP214/bin_stl/base_link_m-binary.stl"/>
+    </geometry>
+    <material name="silver">
+      <color rgba="1 0 0 1"/>
+    </material>
+  </visual>
+  <collision>
+    <origin rpy="0 0 0" xyz="0 0 0"/>
+    <geometry>
+      <mesh filename="package://fusion2urdf/ASM_MAIN_6WD_AP214/bin_stl/base_link_m-binary.stl"/>
+    </geometry>
+  </collision>
+</link>
+<gazebo>
+  <plugin filename="libgazebo_ros_control.so" name="control"/>
+</gazebo>
+</robot>

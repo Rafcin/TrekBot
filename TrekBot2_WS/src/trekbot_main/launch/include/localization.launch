@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <launch>
     <!-- Define type of localization -->
     <arg name="two_d_mode" default="false"/>

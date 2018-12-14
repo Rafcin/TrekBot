@@ -1,8 +1,0 @@
-[  5%] Built target octomap_server_gencfg
-[ 29%] Built target octomap_server
-[ 41%] Built target octomap_server_static
-[ 52%] Built target octomap_saver
-[ 64%] Built target octomap_server_multilayer
-[ 76%] Built target octomap_tracking_server_node
-[ 88%] Built target octomap_server_node
-[100%] Built target octomap_server_nodelet

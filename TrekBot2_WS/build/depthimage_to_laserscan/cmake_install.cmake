@@ -162,7 +162,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libDepthImageToLaserScan.so")
     file(RPATH_CHANGE
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libDepthImageToLaserScan.so"
-         OLD_RPATH "/opt/ros/melodic/lib:"
+         OLD_RPATH "/opt/ros/melodic/lib:/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/image_geometry/lib:"
          NEW_RPATH "")
     if(CMAKE_INSTALL_DO_STRIP)
       execute_process(COMMAND "/usr/bin/strip" "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libDepthImageToLaserScan.so")
@@ -182,7 +182,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libDepthImageToLaserScanROS.so")
     file(RPATH_CHANGE
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libDepthImageToLaserScanROS.so"
-         OLD_RPATH "/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/depthimage_to_laserscan/lib:/opt/ros/melodic/lib:"
+         OLD_RPATH "/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/depthimage_to_laserscan/lib:/opt/ros/melodic/lib:/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/image_geometry/lib:"
          NEW_RPATH "")
     if(CMAKE_INSTALL_DO_STRIP)
       execute_process(COMMAND "/usr/bin/strip" "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libDepthImageToLaserScanROS.so")
@@ -202,7 +202,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libDepthImageToLaserScanNodelet.so")
     file(RPATH_CHANGE
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libDepthImageToLaserScanNodelet.so"
-         OLD_RPATH "/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/depthimage_to_laserscan/lib:/opt/ros/melodic/lib:"
+         OLD_RPATH "/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/depthimage_to_laserscan/lib:/opt/ros/melodic/lib:/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/image_geometry/lib:"
          NEW_RPATH "")
     if(CMAKE_INSTALL_DO_STRIP)
       execute_process(COMMAND "/usr/bin/strip" "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libDepthImageToLaserScanNodelet.so")
@@ -222,7 +222,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/depthimage_to_laserscan/depthimage_to_laserscan")
     file(RPATH_CHANGE
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/depthimage_to_laserscan/depthimage_to_laserscan"
-         OLD_RPATH "/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/depthimage_to_laserscan/lib:/opt/ros/melodic/lib:"
+         OLD_RPATH "/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/depthimage_to_laserscan/lib:/opt/ros/melodic/lib:/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/image_geometry/lib:"
          NEW_RPATH "")
     if(CMAKE_INSTALL_DO_STRIP)
       execute_process(COMMAND "/usr/bin/strip" "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/depthimage_to_laserscan/depthimage_to_laserscan")

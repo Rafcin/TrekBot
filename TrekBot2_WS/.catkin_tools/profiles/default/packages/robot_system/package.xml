@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>robot_system</name>
+  <version>1.0.0</version>
+  <description>Robot_System node to launch Trekbot</description>
+
+  <maintainer email="rafcin.s@gmail.com">nvidia</maintainer>
+
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>zed_wrapper</depend>
+  <depend>octomap</depend>
+  <depend>octomap_msgs</depend>
+
+</package>

@@ -1,9 +1,0 @@
-Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/image_undistort/cmake/image_undistortConfig.cmake
-Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/image_undistort/cmake/image_undistortConfig-version.cmake
-Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/libimage_undistort_nodelet.so
-Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/image_undistort/image_undistort_node
-Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/image_undistort/stereo_info_node
-Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/image_undistort/depth_node
-Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/image_undistort/stereo_undistort_node
-Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/image_undistort/dense_stereo_node
-Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/pkgconfig/image_undistort.pc

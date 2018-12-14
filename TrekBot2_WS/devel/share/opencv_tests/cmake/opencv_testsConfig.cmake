@@ -1,0 +1,1 @@
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/opencv_tests/share/opencv_tests/cmake/opencv_testsConfig.cmake

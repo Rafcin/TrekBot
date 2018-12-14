@@ -1,0 +1,7 @@
+<launch>
+  <rosparam command="load" file="$(find fusion2urdf)/launch/ASM_MAIN_6WD_AP214_controller.yaml"/>
+  <node args=" joint_state_controller" name="controller_spawner" ns="ASM_MAIN_6WD_AP214" output="screen" pkg="controller_manager" respawn="false" type="spawner"/>
+  <node name="robot_state_publisher" output="screen" pkg="robot_state_publisher" respawn="false" type="robot_state_publisher">
+    <remap from="/joint_states" to="/ASM_MAIN_6WD_AP214/joint_states"/>
+  </node>
+</launch>

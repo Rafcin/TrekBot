@@ -1,0 +1,33 @@
+[  6%] [34m[1mGenerating dynamic reconfigure files from cfg/URG.cfg: /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/urg_node/include/urg_node/URGConfig.h /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/urg_node/lib/python2.7/dist-packages/urg_node/cfg/URGConfig.py[0m
+Generating reconfiguration files for URG in urg_node
+Wrote header file in /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/urg_node/include/urg_node/URGConfig.h
+[  6%] Built target urg_node_gencfg
+[35m[1mScanning dependencies of target urg_c_wrapper[0m
+[ 12%] [32mBuilding CXX object CMakeFiles/urg_c_wrapper.dir/src/urg_c_wrapper.cpp.o[0m
+[ 18%] [32m[1mLinking CXX shared library /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/urg_node/lib/liburg_c_wrapper.so[0m
+[ 18%] Built target urg_c_wrapper
+[ 18%] Built target std_msgs_generate_messages_cpp
+[ 18%] Built target _urg_node_generate_messages_check_deps_Status
+[35m[1mScanning dependencies of target getID[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/getID.dir/src/getID.cpp.o[0m
+[ 31%] [32m[1mLinking CXX executable /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/urg_node/lib/urg_node/getID[0m
+[ 31%] Built target std_msgs_generate_messages_py
+[ 31%] Built target std_msgs_generate_messages_nodejs
+[ 31%] Built target std_msgs_generate_messages_eus
+[ 31%] Built target std_msgs_generate_messages_lisp
+[ 37%] Built target urg_node_generate_messages_cpp
+[ 50%] Built target urg_node_generate_messages_py
+[ 56%] Built target urg_node_generate_messages_nodejs
+[ 56%] Built target getID
+[ 68%] Built target urg_node_generate_messages_eus
+[ 75%] Built target urg_node_generate_messages_lisp
+[ 75%] Built target urg_node_gencpp
+[ 75%] Built target urg_node_generate_messages
+[35m[1mScanning dependencies of target urg_node_driver[0m
+[ 81%] [32mBuilding CXX object CMakeFiles/urg_node_driver.dir/src/urg_node_driver.cpp.o[0m
+[ 87%] [32m[1mLinking CXX shared library /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/urg_node/lib/liburg_node_driver.so[0m
+[ 87%] Built target urg_node_driver
+[35m[1mScanning dependencies of target urg_node[0m
+[ 93%] [32mBuilding CXX object CMakeFiles/urg_node.dir/src/urg_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/urg_node/lib/urg_node/urg_node[0m
+[100%] Built target urg_node

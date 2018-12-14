@@ -1,0 +1,1 @@
+/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/navfn/share/roseus/ros/navfn/manifest.l

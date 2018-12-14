@@ -18,9 +18,11 @@ set(CMAKE_TARGET_DEFINITIONS_CXX
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/depthimage_to_laserscan/include"
   "/xavier_ssd/TrekBot/TrekBot2_WS/src/depthimage_to_laserscan/include"
+  "/xavier_ssd/TrekBot/TrekBot2_WS/src/vision_opencv/image_geometry/include"
   "/opt/ros/melodic/include"
   "/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"
-  "/usr/include/opencv"
+  "/usr/local/include"
+  "/usr/local/include/opencv"
   )
 
 # Targets to which this target links.

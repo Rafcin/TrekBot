@@ -8,6 +8,8 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pointcloud_to_laserscan:$CMAKE_PREFIX_PATH"
+export LD_LIBRARY_PATH="/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pointcloud_to_laserscan/lib:$LD_LIBRARY_PATH"
+export PKG_CONFIG_PATH="/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pointcloud_to_laserscan/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD="/xavier_ssd/TrekBot/TrekBot2_WS/build/pointcloud_to_laserscan"
 export PYTHONPATH="/xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/python2.7/dist-packages:/opt/ros/melodic/lib/python2.7/dist-packages:/xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/python3/dist-packages"
 export ROSLISP_PACKAGE_DIRECTORIES="/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/pointcloud_to_laserscan/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"

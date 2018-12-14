@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot2_WS/install
+
+Name: cv_bridge
+Description: Description of cv_bridge
+Version: 1.12.8
+Cflags: -I/xavier_ssd/TrekBot/TrekBot2_WS/install/include -I/usr/local/include -I/usr/local/include/opencv
+Libs: -L/xavier_ssd/TrekBot/TrekBot2_WS/install/lib -lcv_bridge /usr/local/lib/libopencv_core.so.3.4.1 /usr/local/lib/libopencv_imgproc.so.3.4.1 /usr/local/lib/libopencv_imgcodecs.so.3.4.1
+Requires: rosconsole sensor_msgs

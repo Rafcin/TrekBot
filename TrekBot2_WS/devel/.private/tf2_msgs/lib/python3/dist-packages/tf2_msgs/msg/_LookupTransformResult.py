@@ -5,9 +5,9 @@ python3 = True if sys.hexversion > 0x03000000 else False
 import genpy
 import struct
 
-import tf2_msgs.msg
 import geometry_msgs.msg
 import std_msgs.msg
+import tf2_msgs.msg
 
 class LookupTransformResult(genpy.Message):
   _md5sum = "3fe5db6a19ca9cfb675418c5ad875c36"

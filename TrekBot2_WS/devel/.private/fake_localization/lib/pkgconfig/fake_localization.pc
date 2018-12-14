@@ -1,0 +1,8 @@
+prefix=/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/fake_localization
+
+Name: fake_localization
+Description: Description of fake_localization
+Version: 1.16.2
+Cflags: 
+Libs: -L/xavier_ssd/TrekBot/TrekBot2_WS/devel/.private/fake_localization/lib 
+Requires: geometry_msgs nav_msgs roscpp rospy
