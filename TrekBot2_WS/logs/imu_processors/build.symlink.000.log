@@ -1,5 +1,0 @@
-Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/imu_processors/cmake/imu_processorsConfig-version.cmake
-Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/share/imu_processors/cmake/imu_processorsConfig.cmake
-Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/pkgconfig/imu_processors.pc
-Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/imu_processors/imu_integrator
-Symlinking /xavier_ssd/TrekBot/TrekBot2_WS/devel/lib/imu_processors/imu_bias_remover

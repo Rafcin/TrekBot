@@ -8,7 +8,7 @@
 [  0%] Built target std_msgs_generate_messages_eus
 [ 17%] Built target driver_base_generate_messages_nodejs
 [ 35%] Built target driver_base_generate_messages_cpp
+[ 58%] Built target driver_base_generate_messages_py
 [ 76%] Built target driver_base_generate_messages_lisp
-[ 76%] Built target driver_base_generate_messages_py
 [100%] Built target driver_base_generate_messages_eus
 [100%] Built target driver_base_generate_messages

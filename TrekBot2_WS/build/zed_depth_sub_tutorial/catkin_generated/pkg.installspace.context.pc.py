@@ -5,4 +5,4 @@ PROJECT_CATKIN_DEPENDS = "".replace(';', ' ')
 PKG_CONFIG_LIBRARIES_WITH_PREFIX = "".split(';') if "" != "" else []
 PROJECT_NAME = "zed_depth_sub_tutorial"
 PROJECT_SPACE_DIR = "/xavier_ssd/TrekBot/TrekBot2_WS/install"
-PROJECT_VERSION = "2.6.0"
+PROJECT_VERSION = "2.7.0"

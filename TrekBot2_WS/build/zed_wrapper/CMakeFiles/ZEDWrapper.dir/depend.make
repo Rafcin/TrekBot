@@ -10,6 +10,11 @@ CMakeFiles/ZEDWrapper.dir/src/nodelet/src/zed_wrapper_nodelet.cpp.o: /opt/ros/me
 CMakeFiles/ZEDWrapper.dir/src/nodelet/src/zed_wrapper_nodelet.cpp.o: /opt/ros/melodic/include/class_loader/meta_object.hpp
 CMakeFiles/ZEDWrapper.dir/src/nodelet/src/zed_wrapper_nodelet.cpp.o: /opt/ros/melodic/include/class_loader/register_macro.hpp
 CMakeFiles/ZEDWrapper.dir/src/nodelet/src/zed_wrapper_nodelet.cpp.o: /opt/ros/melodic/include/class_loader/visibility_control.hpp
+CMakeFiles/ZEDWrapper.dir/src/nodelet/src/zed_wrapper_nodelet.cpp.o: /opt/ros/melodic/include/diagnostic_msgs/DiagnosticArray.h
+CMakeFiles/ZEDWrapper.dir/src/nodelet/src/zed_wrapper_nodelet.cpp.o: /opt/ros/melodic/include/diagnostic_msgs/DiagnosticStatus.h
+CMakeFiles/ZEDWrapper.dir/src/nodelet/src/zed_wrapper_nodelet.cpp.o: /opt/ros/melodic/include/diagnostic_msgs/KeyValue.h
+CMakeFiles/ZEDWrapper.dir/src/nodelet/src/zed_wrapper_nodelet.cpp.o: /opt/ros/melodic/include/diagnostic_updater/DiagnosticStatusWrapper.h
+CMakeFiles/ZEDWrapper.dir/src/nodelet/src/zed_wrapper_nodelet.cpp.o: /opt/ros/melodic/include/diagnostic_updater/diagnostic_updater.h
 CMakeFiles/ZEDWrapper.dir/src/nodelet/src/zed_wrapper_nodelet.cpp.o: /opt/ros/melodic/include/dynamic_reconfigure/BoolParameter.h
 CMakeFiles/ZEDWrapper.dir/src/nodelet/src/zed_wrapper_nodelet.cpp.o: /opt/ros/melodic/include/dynamic_reconfigure/Config.h
 CMakeFiles/ZEDWrapper.dir/src/nodelet/src/zed_wrapper_nodelet.cpp.o: /opt/ros/melodic/include/dynamic_reconfigure/ConfigDescription.h

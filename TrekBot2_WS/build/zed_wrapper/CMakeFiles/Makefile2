@@ -65,10 +65,10 @@ CMAKE_BINARY_DIR = /xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper
 # All Build rule for target.
 CMakeFiles/ZEDWrapper.dir/all: CMakeFiles/zed_wrapper_gencfg.dir/all
 CMakeFiles/ZEDWrapper.dir/all: CMakeFiles/zed_wrapper_generate_messages_py.dir/all
+CMakeFiles/ZEDWrapper.dir/all: CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/all
+CMakeFiles/ZEDWrapper.dir/all: CMakeFiles/zed_wrapper_generate_messages_lisp.dir/all
 CMakeFiles/ZEDWrapper.dir/all: CMakeFiles/zed_wrapper_generate_messages_eus.dir/all
 CMakeFiles/ZEDWrapper.dir/all: CMakeFiles/zed_wrapper_generate_messages_cpp.dir/all
-CMakeFiles/ZEDWrapper.dir/all: CMakeFiles/zed_wrapper_generate_messages_lisp.dir/all
-CMakeFiles/ZEDWrapper.dir/all: CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/all
 	$(MAKE) -f CMakeFiles/ZEDWrapper.dir/build.make CMakeFiles/ZEDWrapper.dir/depend
 	$(MAKE) -f CMakeFiles/ZEDWrapper.dir/build.make CMakeFiles/ZEDWrapper.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles --progress-num=1,2,3 "Built target ZEDWrapper"
@@ -201,6 +201,170 @@ CMakeFiles/zed_wrapper_generate_messages_py.dir/clean:
 
 # clean rule for target.
 clean: CMakeFiles/zed_wrapper_generate_messages_py.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/zed_wrapper_gennodejs.dir
+
+# All Build rule for target.
+CMakeFiles/zed_wrapper_gennodejs.dir/all: CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/all
+	$(MAKE) -f CMakeFiles/zed_wrapper_gennodejs.dir/build.make CMakeFiles/zed_wrapper_gennodejs.dir/depend
+	$(MAKE) -f CMakeFiles/zed_wrapper_gennodejs.dir/build.make CMakeFiles/zed_wrapper_gennodejs.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles --progress-num= "Built target zed_wrapper_gennodejs"
+.PHONY : CMakeFiles/zed_wrapper_gennodejs.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/zed_wrapper_gennodejs.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles 3
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/zed_wrapper_gennodejs.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles 0
+.PHONY : CMakeFiles/zed_wrapper_gennodejs.dir/rule
+
+# Convenience name for target.
+zed_wrapper_gennodejs: CMakeFiles/zed_wrapper_gennodejs.dir/rule
+
+.PHONY : zed_wrapper_gennodejs
+
+# clean rule for target.
+CMakeFiles/zed_wrapper_gennodejs.dir/clean:
+	$(MAKE) -f CMakeFiles/zed_wrapper_gennodejs.dir/build.make CMakeFiles/zed_wrapper_gennodejs.dir/clean
+.PHONY : CMakeFiles/zed_wrapper_gennodejs.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/zed_wrapper_gennodejs.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/zed_wrapper_generate_messages_nodejs.dir
+
+# All Build rule for target.
+CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/all: CMakeFiles/_zed_wrapper_generate_messages_check_deps_reset_odometry.dir/all
+CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/all: CMakeFiles/_zed_wrapper_generate_messages_check_deps_set_initial_pose.dir/all
+CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/all: CMakeFiles/_zed_wrapper_generate_messages_check_deps_reset_tracking.dir/all
+	$(MAKE) -f CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/build.make CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/depend
+	$(MAKE) -f CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/build.make CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles --progress-num=26,27,28 "Built target zed_wrapper_generate_messages_nodejs"
+.PHONY : CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles 3
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles 0
+.PHONY : CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/rule
+
+# Convenience name for target.
+zed_wrapper_generate_messages_nodejs: CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/rule
+
+.PHONY : zed_wrapper_generate_messages_nodejs
+
+# clean rule for target.
+CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/clean:
+	$(MAKE) -f CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/build.make CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/clean
+.PHONY : CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/zed_wrapper_genlisp.dir
+
+# All Build rule for target.
+CMakeFiles/zed_wrapper_genlisp.dir/all: CMakeFiles/zed_wrapper_generate_messages_lisp.dir/all
+	$(MAKE) -f CMakeFiles/zed_wrapper_genlisp.dir/build.make CMakeFiles/zed_wrapper_genlisp.dir/depend
+	$(MAKE) -f CMakeFiles/zed_wrapper_genlisp.dir/build.make CMakeFiles/zed_wrapper_genlisp.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles --progress-num= "Built target zed_wrapper_genlisp"
+.PHONY : CMakeFiles/zed_wrapper_genlisp.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/zed_wrapper_genlisp.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles 3
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/zed_wrapper_genlisp.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles 0
+.PHONY : CMakeFiles/zed_wrapper_genlisp.dir/rule
+
+# Convenience name for target.
+zed_wrapper_genlisp: CMakeFiles/zed_wrapper_genlisp.dir/rule
+
+.PHONY : zed_wrapper_genlisp
+
+# clean rule for target.
+CMakeFiles/zed_wrapper_genlisp.dir/clean:
+	$(MAKE) -f CMakeFiles/zed_wrapper_genlisp.dir/build.make CMakeFiles/zed_wrapper_genlisp.dir/clean
+.PHONY : CMakeFiles/zed_wrapper_genlisp.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/zed_wrapper_genlisp.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/zed_wrapper_generate_messages_lisp.dir
+
+# All Build rule for target.
+CMakeFiles/zed_wrapper_generate_messages_lisp.dir/all: CMakeFiles/_zed_wrapper_generate_messages_check_deps_reset_odometry.dir/all
+CMakeFiles/zed_wrapper_generate_messages_lisp.dir/all: CMakeFiles/_zed_wrapper_generate_messages_check_deps_set_initial_pose.dir/all
+CMakeFiles/zed_wrapper_generate_messages_lisp.dir/all: CMakeFiles/_zed_wrapper_generate_messages_check_deps_reset_tracking.dir/all
+	$(MAKE) -f CMakeFiles/zed_wrapper_generate_messages_lisp.dir/build.make CMakeFiles/zed_wrapper_generate_messages_lisp.dir/depend
+	$(MAKE) -f CMakeFiles/zed_wrapper_generate_messages_lisp.dir/build.make CMakeFiles/zed_wrapper_generate_messages_lisp.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles --progress-num=23,24,25 "Built target zed_wrapper_generate_messages_lisp"
+.PHONY : CMakeFiles/zed_wrapper_generate_messages_lisp.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/zed_wrapper_generate_messages_lisp.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles 3
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/zed_wrapper_generate_messages_lisp.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles 0
+.PHONY : CMakeFiles/zed_wrapper_generate_messages_lisp.dir/rule
+
+# Convenience name for target.
+zed_wrapper_generate_messages_lisp: CMakeFiles/zed_wrapper_generate_messages_lisp.dir/rule
+
+.PHONY : zed_wrapper_generate_messages_lisp
+
+# clean rule for target.
+CMakeFiles/zed_wrapper_generate_messages_lisp.dir/clean:
+	$(MAKE) -f CMakeFiles/zed_wrapper_generate_messages_lisp.dir/build.make CMakeFiles/zed_wrapper_generate_messages_lisp.dir/clean
+.PHONY : CMakeFiles/zed_wrapper_generate_messages_lisp.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/zed_wrapper_generate_messages_lisp.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/zed_wrapper_geneus.dir
+
+# All Build rule for target.
+CMakeFiles/zed_wrapper_geneus.dir/all: CMakeFiles/zed_wrapper_generate_messages_eus.dir/all
+	$(MAKE) -f CMakeFiles/zed_wrapper_geneus.dir/build.make CMakeFiles/zed_wrapper_geneus.dir/depend
+	$(MAKE) -f CMakeFiles/zed_wrapper_geneus.dir/build.make CMakeFiles/zed_wrapper_geneus.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles --progress-num= "Built target zed_wrapper_geneus"
+.PHONY : CMakeFiles/zed_wrapper_geneus.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/zed_wrapper_geneus.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles 4
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/zed_wrapper_geneus.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles 0
+.PHONY : CMakeFiles/zed_wrapper_geneus.dir/rule
+
+# Convenience name for target.
+zed_wrapper_geneus: CMakeFiles/zed_wrapper_geneus.dir/rule
+
+.PHONY : zed_wrapper_geneus
+
+# clean rule for target.
+CMakeFiles/zed_wrapper_geneus.dir/clean:
+	$(MAKE) -f CMakeFiles/zed_wrapper_geneus.dir/build.make CMakeFiles/zed_wrapper_geneus.dir/clean
+.PHONY : CMakeFiles/zed_wrapper_geneus.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/zed_wrapper_geneus.dir/clean
 
 .PHONY : clean
 
@@ -1071,38 +1235,6 @@ clean: CMakeFiles/tf2_msgs_generate_messages_eus.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/zed_wrapper_geneus.dir
-
-# All Build rule for target.
-CMakeFiles/zed_wrapper_geneus.dir/all: CMakeFiles/zed_wrapper_generate_messages_eus.dir/all
-	$(MAKE) -f CMakeFiles/zed_wrapper_geneus.dir/build.make CMakeFiles/zed_wrapper_geneus.dir/depend
-	$(MAKE) -f CMakeFiles/zed_wrapper_geneus.dir/build.make CMakeFiles/zed_wrapper_geneus.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles --progress-num= "Built target zed_wrapper_geneus"
-.PHONY : CMakeFiles/zed_wrapper_geneus.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/zed_wrapper_geneus.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles 4
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/zed_wrapper_geneus.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles 0
-.PHONY : CMakeFiles/zed_wrapper_geneus.dir/rule
-
-# Convenience name for target.
-zed_wrapper_geneus: CMakeFiles/zed_wrapper_geneus.dir/rule
-
-.PHONY : zed_wrapper_geneus
-
-# clean rule for target.
-CMakeFiles/zed_wrapper_geneus.dir/clean:
-	$(MAKE) -f CMakeFiles/zed_wrapper_geneus.dir/build.make CMakeFiles/zed_wrapper_geneus.dir/clean
-.PHONY : CMakeFiles/zed_wrapper_geneus.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/zed_wrapper_geneus.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
 # Target rules for target CMakeFiles/stereo_msgs_generate_messages_cpp.dir
 
 # All Build rule for target.
@@ -1423,38 +1555,6 @@ clean: CMakeFiles/roscpp_generate_messages_py.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/zed_wrapper_genlisp.dir
-
-# All Build rule for target.
-CMakeFiles/zed_wrapper_genlisp.dir/all: CMakeFiles/zed_wrapper_generate_messages_lisp.dir/all
-	$(MAKE) -f CMakeFiles/zed_wrapper_genlisp.dir/build.make CMakeFiles/zed_wrapper_genlisp.dir/depend
-	$(MAKE) -f CMakeFiles/zed_wrapper_genlisp.dir/build.make CMakeFiles/zed_wrapper_genlisp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles --progress-num= "Built target zed_wrapper_genlisp"
-.PHONY : CMakeFiles/zed_wrapper_genlisp.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/zed_wrapper_genlisp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles 3
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/zed_wrapper_genlisp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles 0
-.PHONY : CMakeFiles/zed_wrapper_genlisp.dir/rule
-
-# Convenience name for target.
-zed_wrapper_genlisp: CMakeFiles/zed_wrapper_genlisp.dir/rule
-
-.PHONY : zed_wrapper_genlisp
-
-# clean rule for target.
-CMakeFiles/zed_wrapper_genlisp.dir/clean:
-	$(MAKE) -f CMakeFiles/zed_wrapper_genlisp.dir/build.make CMakeFiles/zed_wrapper_genlisp.dir/clean
-.PHONY : CMakeFiles/zed_wrapper_genlisp.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/zed_wrapper_genlisp.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
 # Target rules for target CMakeFiles/rosgraph_msgs_generate_messages_eus.dir
 
 # All Build rule for target.
@@ -1615,6 +1715,38 @@ clean: CMakeFiles/dynamic_reconfigure_generate_messages_eus.dir/clean
 .PHONY : clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/diagnostic_msgs_generate_messages_lisp.dir
+
+# All Build rule for target.
+CMakeFiles/diagnostic_msgs_generate_messages_lisp.dir/all:
+	$(MAKE) -f CMakeFiles/diagnostic_msgs_generate_messages_lisp.dir/build.make CMakeFiles/diagnostic_msgs_generate_messages_lisp.dir/depend
+	$(MAKE) -f CMakeFiles/diagnostic_msgs_generate_messages_lisp.dir/build.make CMakeFiles/diagnostic_msgs_generate_messages_lisp.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles --progress-num= "Built target diagnostic_msgs_generate_messages_lisp"
+.PHONY : CMakeFiles/diagnostic_msgs_generate_messages_lisp.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/diagnostic_msgs_generate_messages_lisp.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/diagnostic_msgs_generate_messages_lisp.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles 0
+.PHONY : CMakeFiles/diagnostic_msgs_generate_messages_lisp.dir/rule
+
+# Convenience name for target.
+diagnostic_msgs_generate_messages_lisp: CMakeFiles/diagnostic_msgs_generate_messages_lisp.dir/rule
+
+.PHONY : diagnostic_msgs_generate_messages_lisp
+
+# clean rule for target.
+CMakeFiles/diagnostic_msgs_generate_messages_lisp.dir/clean:
+	$(MAKE) -f CMakeFiles/diagnostic_msgs_generate_messages_lisp.dir/build.make CMakeFiles/diagnostic_msgs_generate_messages_lisp.dir/clean
+.PHONY : CMakeFiles/diagnostic_msgs_generate_messages_lisp.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/diagnostic_msgs_generate_messages_lisp.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir
 
 # All Build rule for target.
@@ -1711,34 +1843,34 @@ clean: CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/actionlib_generate_messages_eus.dir
+# Target rules for target CMakeFiles/diagnostic_msgs_generate_messages_nodejs.dir
 
 # All Build rule for target.
-CMakeFiles/actionlib_generate_messages_eus.dir/all:
-	$(MAKE) -f CMakeFiles/actionlib_generate_messages_eus.dir/build.make CMakeFiles/actionlib_generate_messages_eus.dir/depend
-	$(MAKE) -f CMakeFiles/actionlib_generate_messages_eus.dir/build.make CMakeFiles/actionlib_generate_messages_eus.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles --progress-num= "Built target actionlib_generate_messages_eus"
-.PHONY : CMakeFiles/actionlib_generate_messages_eus.dir/all
+CMakeFiles/diagnostic_msgs_generate_messages_nodejs.dir/all:
+	$(MAKE) -f CMakeFiles/diagnostic_msgs_generate_messages_nodejs.dir/build.make CMakeFiles/diagnostic_msgs_generate_messages_nodejs.dir/depend
+	$(MAKE) -f CMakeFiles/diagnostic_msgs_generate_messages_nodejs.dir/build.make CMakeFiles/diagnostic_msgs_generate_messages_nodejs.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles --progress-num= "Built target diagnostic_msgs_generate_messages_nodejs"
+.PHONY : CMakeFiles/diagnostic_msgs_generate_messages_nodejs.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/actionlib_generate_messages_eus.dir/rule: cmake_check_build_system
+CMakeFiles/diagnostic_msgs_generate_messages_nodejs.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles 0
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/actionlib_generate_messages_eus.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/diagnostic_msgs_generate_messages_nodejs.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles 0
-.PHONY : CMakeFiles/actionlib_generate_messages_eus.dir/rule
+.PHONY : CMakeFiles/diagnostic_msgs_generate_messages_nodejs.dir/rule
 
 # Convenience name for target.
-actionlib_generate_messages_eus: CMakeFiles/actionlib_generate_messages_eus.dir/rule
+diagnostic_msgs_generate_messages_nodejs: CMakeFiles/diagnostic_msgs_generate_messages_nodejs.dir/rule
 
-.PHONY : actionlib_generate_messages_eus
-
-# clean rule for target.
-CMakeFiles/actionlib_generate_messages_eus.dir/clean:
-	$(MAKE) -f CMakeFiles/actionlib_generate_messages_eus.dir/build.make CMakeFiles/actionlib_generate_messages_eus.dir/clean
-.PHONY : CMakeFiles/actionlib_generate_messages_eus.dir/clean
+.PHONY : diagnostic_msgs_generate_messages_nodejs
 
 # clean rule for target.
-clean: CMakeFiles/actionlib_generate_messages_eus.dir/clean
+CMakeFiles/diagnostic_msgs_generate_messages_nodejs.dir/clean:
+	$(MAKE) -f CMakeFiles/diagnostic_msgs_generate_messages_nodejs.dir/build.make CMakeFiles/diagnostic_msgs_generate_messages_nodejs.dir/clean
+.PHONY : CMakeFiles/diagnostic_msgs_generate_messages_nodejs.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/diagnostic_msgs_generate_messages_nodejs.dir/clean
 
 .PHONY : clean
 
@@ -2127,6 +2259,70 @@ clean: CMakeFiles/actionlib_msgs_generate_messages_lisp.dir/clean
 .PHONY : clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/actionlib_generate_messages_eus.dir
+
+# All Build rule for target.
+CMakeFiles/actionlib_generate_messages_eus.dir/all:
+	$(MAKE) -f CMakeFiles/actionlib_generate_messages_eus.dir/build.make CMakeFiles/actionlib_generate_messages_eus.dir/depend
+	$(MAKE) -f CMakeFiles/actionlib_generate_messages_eus.dir/build.make CMakeFiles/actionlib_generate_messages_eus.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles --progress-num= "Built target actionlib_generate_messages_eus"
+.PHONY : CMakeFiles/actionlib_generate_messages_eus.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/actionlib_generate_messages_eus.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/actionlib_generate_messages_eus.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles 0
+.PHONY : CMakeFiles/actionlib_generate_messages_eus.dir/rule
+
+# Convenience name for target.
+actionlib_generate_messages_eus: CMakeFiles/actionlib_generate_messages_eus.dir/rule
+
+.PHONY : actionlib_generate_messages_eus
+
+# clean rule for target.
+CMakeFiles/actionlib_generate_messages_eus.dir/clean:
+	$(MAKE) -f CMakeFiles/actionlib_generate_messages_eus.dir/build.make CMakeFiles/actionlib_generate_messages_eus.dir/clean
+.PHONY : CMakeFiles/actionlib_generate_messages_eus.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/actionlib_generate_messages_eus.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/diagnostic_msgs_generate_messages_cpp.dir
+
+# All Build rule for target.
+CMakeFiles/diagnostic_msgs_generate_messages_cpp.dir/all:
+	$(MAKE) -f CMakeFiles/diagnostic_msgs_generate_messages_cpp.dir/build.make CMakeFiles/diagnostic_msgs_generate_messages_cpp.dir/depend
+	$(MAKE) -f CMakeFiles/diagnostic_msgs_generate_messages_cpp.dir/build.make CMakeFiles/diagnostic_msgs_generate_messages_cpp.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles --progress-num= "Built target diagnostic_msgs_generate_messages_cpp"
+.PHONY : CMakeFiles/diagnostic_msgs_generate_messages_cpp.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/diagnostic_msgs_generate_messages_cpp.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/diagnostic_msgs_generate_messages_cpp.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles 0
+.PHONY : CMakeFiles/diagnostic_msgs_generate_messages_cpp.dir/rule
+
+# Convenience name for target.
+diagnostic_msgs_generate_messages_cpp: CMakeFiles/diagnostic_msgs_generate_messages_cpp.dir/rule
+
+.PHONY : diagnostic_msgs_generate_messages_cpp
+
+# clean rule for target.
+CMakeFiles/diagnostic_msgs_generate_messages_cpp.dir/clean:
+	$(MAKE) -f CMakeFiles/diagnostic_msgs_generate_messages_cpp.dir/build.make CMakeFiles/diagnostic_msgs_generate_messages_cpp.dir/clean
+.PHONY : CMakeFiles/diagnostic_msgs_generate_messages_cpp.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/diagnostic_msgs_generate_messages_cpp.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/actionlib_msgs_generate_messages_py.dir
 
 # All Build rule for target.
@@ -2261,10 +2457,10 @@ clean: CMakeFiles/tf2_msgs_generate_messages_lisp.dir/clean
 CMakeFiles/zed_wrapper_node.dir/all: CMakeFiles/ZEDWrapper.dir/all
 CMakeFiles/zed_wrapper_node.dir/all: CMakeFiles/zed_wrapper_gencfg.dir/all
 CMakeFiles/zed_wrapper_node.dir/all: CMakeFiles/zed_wrapper_generate_messages_py.dir/all
+CMakeFiles/zed_wrapper_node.dir/all: CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/all
+CMakeFiles/zed_wrapper_node.dir/all: CMakeFiles/zed_wrapper_generate_messages_lisp.dir/all
 CMakeFiles/zed_wrapper_node.dir/all: CMakeFiles/zed_wrapper_generate_messages_eus.dir/all
 CMakeFiles/zed_wrapper_node.dir/all: CMakeFiles/zed_wrapper_generate_messages_cpp.dir/all
-CMakeFiles/zed_wrapper_node.dir/all: CMakeFiles/zed_wrapper_generate_messages_lisp.dir/all
-CMakeFiles/zed_wrapper_node.dir/all: CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/all
 	$(MAKE) -f CMakeFiles/zed_wrapper_node.dir/build.make CMakeFiles/zed_wrapper_node.dir/depend
 	$(MAKE) -f CMakeFiles/zed_wrapper_node.dir/build.make CMakeFiles/zed_wrapper_node.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles --progress-num=33,34 "Built target zed_wrapper_node"
@@ -2458,6 +2654,38 @@ clean: CMakeFiles/nodelet_generate_messages_eus.dir/clean
 .PHONY : clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/diagnostic_msgs_generate_messages_py.dir
+
+# All Build rule for target.
+CMakeFiles/diagnostic_msgs_generate_messages_py.dir/all:
+	$(MAKE) -f CMakeFiles/diagnostic_msgs_generate_messages_py.dir/build.make CMakeFiles/diagnostic_msgs_generate_messages_py.dir/depend
+	$(MAKE) -f CMakeFiles/diagnostic_msgs_generate_messages_py.dir/build.make CMakeFiles/diagnostic_msgs_generate_messages_py.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles --progress-num= "Built target diagnostic_msgs_generate_messages_py"
+.PHONY : CMakeFiles/diagnostic_msgs_generate_messages_py.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/diagnostic_msgs_generate_messages_py.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/diagnostic_msgs_generate_messages_py.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles 0
+.PHONY : CMakeFiles/diagnostic_msgs_generate_messages_py.dir/rule
+
+# Convenience name for target.
+diagnostic_msgs_generate_messages_py: CMakeFiles/diagnostic_msgs_generate_messages_py.dir/rule
+
+.PHONY : diagnostic_msgs_generate_messages_py
+
+# clean rule for target.
+CMakeFiles/diagnostic_msgs_generate_messages_py.dir/clean:
+	$(MAKE) -f CMakeFiles/diagnostic_msgs_generate_messages_py.dir/build.make CMakeFiles/diagnostic_msgs_generate_messages_py.dir/clean
+.PHONY : CMakeFiles/diagnostic_msgs_generate_messages_py.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/diagnostic_msgs_generate_messages_py.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/nodelet_generate_messages_nodejs.dir
 
 # All Build rule for target.
@@ -2526,10 +2754,10 @@ clean: CMakeFiles/bond_generate_messages_cpp.dir/clean
 
 # All Build rule for target.
 CMakeFiles/zed_wrapper_generate_messages.dir/all: CMakeFiles/zed_wrapper_generate_messages_py.dir/all
+CMakeFiles/zed_wrapper_generate_messages.dir/all: CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/all
+CMakeFiles/zed_wrapper_generate_messages.dir/all: CMakeFiles/zed_wrapper_generate_messages_lisp.dir/all
 CMakeFiles/zed_wrapper_generate_messages.dir/all: CMakeFiles/zed_wrapper_generate_messages_eus.dir/all
 CMakeFiles/zed_wrapper_generate_messages.dir/all: CMakeFiles/zed_wrapper_generate_messages_cpp.dir/all
-CMakeFiles/zed_wrapper_generate_messages.dir/all: CMakeFiles/zed_wrapper_generate_messages_lisp.dir/all
-CMakeFiles/zed_wrapper_generate_messages.dir/all: CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/all
 	$(MAKE) -f CMakeFiles/zed_wrapper_generate_messages.dir/build.make CMakeFiles/zed_wrapper_generate_messages.dir/depend
 	$(MAKE) -f CMakeFiles/zed_wrapper_generate_messages.dir/build.make CMakeFiles/zed_wrapper_generate_messages.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles --progress-num= "Built target zed_wrapper_generate_messages"
@@ -2591,6 +2819,38 @@ CMakeFiles/bond_generate_messages_nodejs.dir/clean:
 
 # clean rule for target.
 clean: CMakeFiles/bond_generate_messages_nodejs.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/diagnostic_msgs_generate_messages_eus.dir
+
+# All Build rule for target.
+CMakeFiles/diagnostic_msgs_generate_messages_eus.dir/all:
+	$(MAKE) -f CMakeFiles/diagnostic_msgs_generate_messages_eus.dir/build.make CMakeFiles/diagnostic_msgs_generate_messages_eus.dir/depend
+	$(MAKE) -f CMakeFiles/diagnostic_msgs_generate_messages_eus.dir/build.make CMakeFiles/diagnostic_msgs_generate_messages_eus.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles --progress-num= "Built target diagnostic_msgs_generate_messages_eus"
+.PHONY : CMakeFiles/diagnostic_msgs_generate_messages_eus.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/diagnostic_msgs_generate_messages_eus.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles 0
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/diagnostic_msgs_generate_messages_eus.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles 0
+.PHONY : CMakeFiles/diagnostic_msgs_generate_messages_eus.dir/rule
+
+# Convenience name for target.
+diagnostic_msgs_generate_messages_eus: CMakeFiles/diagnostic_msgs_generate_messages_eus.dir/rule
+
+.PHONY : diagnostic_msgs_generate_messages_eus
+
+# clean rule for target.
+CMakeFiles/diagnostic_msgs_generate_messages_eus.dir/clean:
+	$(MAKE) -f CMakeFiles/diagnostic_msgs_generate_messages_eus.dir/build.make CMakeFiles/diagnostic_msgs_generate_messages_eus.dir/clean
+.PHONY : CMakeFiles/diagnostic_msgs_generate_messages_eus.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/diagnostic_msgs_generate_messages_eus.dir/clean
 
 .PHONY : clean
 
@@ -2689,106 +2949,6 @@ CMakeFiles/zed_wrapper_generate_messages_cpp.dir/clean:
 
 # clean rule for target.
 clean: CMakeFiles/zed_wrapper_generate_messages_cpp.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/zed_wrapper_generate_messages_lisp.dir
-
-# All Build rule for target.
-CMakeFiles/zed_wrapper_generate_messages_lisp.dir/all: CMakeFiles/_zed_wrapper_generate_messages_check_deps_reset_odometry.dir/all
-CMakeFiles/zed_wrapper_generate_messages_lisp.dir/all: CMakeFiles/_zed_wrapper_generate_messages_check_deps_set_initial_pose.dir/all
-CMakeFiles/zed_wrapper_generate_messages_lisp.dir/all: CMakeFiles/_zed_wrapper_generate_messages_check_deps_reset_tracking.dir/all
-	$(MAKE) -f CMakeFiles/zed_wrapper_generate_messages_lisp.dir/build.make CMakeFiles/zed_wrapper_generate_messages_lisp.dir/depend
-	$(MAKE) -f CMakeFiles/zed_wrapper_generate_messages_lisp.dir/build.make CMakeFiles/zed_wrapper_generate_messages_lisp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles --progress-num=23,24,25 "Built target zed_wrapper_generate_messages_lisp"
-.PHONY : CMakeFiles/zed_wrapper_generate_messages_lisp.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/zed_wrapper_generate_messages_lisp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles 3
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/zed_wrapper_generate_messages_lisp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles 0
-.PHONY : CMakeFiles/zed_wrapper_generate_messages_lisp.dir/rule
-
-# Convenience name for target.
-zed_wrapper_generate_messages_lisp: CMakeFiles/zed_wrapper_generate_messages_lisp.dir/rule
-
-.PHONY : zed_wrapper_generate_messages_lisp
-
-# clean rule for target.
-CMakeFiles/zed_wrapper_generate_messages_lisp.dir/clean:
-	$(MAKE) -f CMakeFiles/zed_wrapper_generate_messages_lisp.dir/build.make CMakeFiles/zed_wrapper_generate_messages_lisp.dir/clean
-.PHONY : CMakeFiles/zed_wrapper_generate_messages_lisp.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/zed_wrapper_generate_messages_lisp.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/zed_wrapper_generate_messages_nodejs.dir
-
-# All Build rule for target.
-CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/all: CMakeFiles/_zed_wrapper_generate_messages_check_deps_reset_odometry.dir/all
-CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/all: CMakeFiles/_zed_wrapper_generate_messages_check_deps_set_initial_pose.dir/all
-CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/all: CMakeFiles/_zed_wrapper_generate_messages_check_deps_reset_tracking.dir/all
-	$(MAKE) -f CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/build.make CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/depend
-	$(MAKE) -f CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/build.make CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles --progress-num=26,27,28 "Built target zed_wrapper_generate_messages_nodejs"
-.PHONY : CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles 3
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles 0
-.PHONY : CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/rule
-
-# Convenience name for target.
-zed_wrapper_generate_messages_nodejs: CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/rule
-
-.PHONY : zed_wrapper_generate_messages_nodejs
-
-# clean rule for target.
-CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/clean:
-	$(MAKE) -f CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/build.make CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/clean
-.PHONY : CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/zed_wrapper_gennodejs.dir
-
-# All Build rule for target.
-CMakeFiles/zed_wrapper_gennodejs.dir/all: CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/all
-	$(MAKE) -f CMakeFiles/zed_wrapper_gennodejs.dir/build.make CMakeFiles/zed_wrapper_gennodejs.dir/depend
-	$(MAKE) -f CMakeFiles/zed_wrapper_gennodejs.dir/build.make CMakeFiles/zed_wrapper_gennodejs.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles --progress-num= "Built target zed_wrapper_gennodejs"
-.PHONY : CMakeFiles/zed_wrapper_gennodejs.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/zed_wrapper_gennodejs.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles 3
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/zed_wrapper_gennodejs.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /xavier_ssd/TrekBot/TrekBot2_WS/build/zed_wrapper/CMakeFiles 0
-.PHONY : CMakeFiles/zed_wrapper_gennodejs.dir/rule
-
-# Convenience name for target.
-zed_wrapper_gennodejs: CMakeFiles/zed_wrapper_gennodejs.dir/rule
-
-.PHONY : zed_wrapper_gennodejs
-
-# clean rule for target.
-CMakeFiles/zed_wrapper_gennodejs.dir/clean:
-	$(MAKE) -f CMakeFiles/zed_wrapper_gennodejs.dir/build.make CMakeFiles/zed_wrapper_gennodejs.dir/clean
-.PHONY : CMakeFiles/zed_wrapper_gennodejs.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/zed_wrapper_gennodejs.dir/clean
 
 .PHONY : clean
 

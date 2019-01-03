@@ -53,7 +53,7 @@ EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
   <!-- Start ZED camera and laser scan -->
   <group if="$(arg zed)">
-    <include file="$(find trekbot_main)/launch/include_trek/zed_camera.launch">
+    <include file="$(find zed_rtabmap_example)/launch/zed_rtabmap.launch">
       <!-- Enable/Disable odometry TF from ZED -->
 
     </include>

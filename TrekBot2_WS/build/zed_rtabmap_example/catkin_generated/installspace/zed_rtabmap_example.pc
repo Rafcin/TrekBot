@@ -2,7 +2,7 @@ prefix=/xavier_ssd/TrekBot/TrekBot2_WS/install
 
 Name: zed_rtabmap_example
 Description: Description of zed_rtabmap_example
-Version: 2.6.0
+Version: 2.7.0
 Cflags: 
 Libs: -L/xavier_ssd/TrekBot/TrekBot2_WS/install/lib 
 Requires: 

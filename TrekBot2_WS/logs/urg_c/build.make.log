@@ -6,8 +6,8 @@
 [ 58%] Built target get_multiecho
 [ 64%] Built target reboot_test
 [ 70%] Built target calculate_xy
-[ 76%] Built target find_port
-[ 82%] Built target angle_convert_test
+[ 76%] Built target angle_convert_test
+[ 82%] Built target find_port
+[ 88%] Built target get_distance
 [ 94%] Built target get_distance_intensity
-[ 94%] Built target get_distance
 [100%] Built target get_multiecho_intensity

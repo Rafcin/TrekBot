@@ -68,18 +68,6 @@ install/local/fast: preinstall/fast
 	/usr/bin/cmake -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake
 .PHONY : install/local/fast
 
-# Special rule for the target install
-install: preinstall
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Install the project..."
-	/usr/bin/cmake -P cmake_install.cmake
-.PHONY : install
-
-# Special rule for the target install
-install/fast: preinstall/fast
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Install the project..."
-	/usr/bin/cmake -P cmake_install.cmake
-.PHONY : install/fast
-
 # Special rule for the target list_install_components
 list_install_components:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Available install components are: \"Unspecified\""
@@ -89,17 +77,6 @@ list_install_components:
 list_install_components/fast: list_install_components
 
 .PHONY : list_install_components/fast
-
-# Special rule for the target rebuild_cache
-rebuild_cache:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	/usr/bin/cmake -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
-.PHONY : rebuild_cache
-
-# Special rule for the target rebuild_cache
-rebuild_cache/fast: rebuild_cache
-
-.PHONY : rebuild_cache/fast
 
 # Special rule for the target test
 test:
@@ -112,6 +89,17 @@ test/fast: test
 
 .PHONY : test/fast
 
+# Special rule for the target rebuild_cache
+rebuild_cache:
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
+	/usr/bin/cmake -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+.PHONY : rebuild_cache
+
+# Special rule for the target rebuild_cache
+rebuild_cache/fast: rebuild_cache
+
+.PHONY : rebuild_cache/fast
+
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake cache editor..."
@@ -122,6 +110,18 @@ edit_cache:
 edit_cache/fast: edit_cache
 
 .PHONY : edit_cache/fast
+
+# Special rule for the target install
+install: preinstall
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Install the project..."
+	/usr/bin/cmake -P cmake_install.cmake
+.PHONY : install
+
+# Special rule for the target install
+install/fast: preinstall/fast
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Install the project..."
+	/usr/bin/cmake -P cmake_install.cmake
+.PHONY : install/fast
 
 # Special rule for the target install/strip
 install/strip: preinstall
@@ -218,6 +218,71 @@ zed_wrapper_generate_messages_py: cmake_check_build_system
 zed_wrapper_generate_messages_py/fast:
 	$(MAKE) -f CMakeFiles/zed_wrapper_generate_messages_py.dir/build.make CMakeFiles/zed_wrapper_generate_messages_py.dir/build
 .PHONY : zed_wrapper_generate_messages_py/fast
+
+#=============================================================================
+# Target rules for targets named zed_wrapper_gennodejs
+
+# Build rule for target.
+zed_wrapper_gennodejs: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 zed_wrapper_gennodejs
+.PHONY : zed_wrapper_gennodejs
+
+# fast build rule for target.
+zed_wrapper_gennodejs/fast:
+	$(MAKE) -f CMakeFiles/zed_wrapper_gennodejs.dir/build.make CMakeFiles/zed_wrapper_gennodejs.dir/build
+.PHONY : zed_wrapper_gennodejs/fast
+
+#=============================================================================
+# Target rules for targets named zed_wrapper_generate_messages_nodejs
+
+# Build rule for target.
+zed_wrapper_generate_messages_nodejs: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 zed_wrapper_generate_messages_nodejs
+.PHONY : zed_wrapper_generate_messages_nodejs
+
+# fast build rule for target.
+zed_wrapper_generate_messages_nodejs/fast:
+	$(MAKE) -f CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/build.make CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/build
+.PHONY : zed_wrapper_generate_messages_nodejs/fast
+
+#=============================================================================
+# Target rules for targets named zed_wrapper_genlisp
+
+# Build rule for target.
+zed_wrapper_genlisp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 zed_wrapper_genlisp
+.PHONY : zed_wrapper_genlisp
+
+# fast build rule for target.
+zed_wrapper_genlisp/fast:
+	$(MAKE) -f CMakeFiles/zed_wrapper_genlisp.dir/build.make CMakeFiles/zed_wrapper_genlisp.dir/build
+.PHONY : zed_wrapper_genlisp/fast
+
+#=============================================================================
+# Target rules for targets named zed_wrapper_generate_messages_lisp
+
+# Build rule for target.
+zed_wrapper_generate_messages_lisp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 zed_wrapper_generate_messages_lisp
+.PHONY : zed_wrapper_generate_messages_lisp
+
+# fast build rule for target.
+zed_wrapper_generate_messages_lisp/fast:
+	$(MAKE) -f CMakeFiles/zed_wrapper_generate_messages_lisp.dir/build.make CMakeFiles/zed_wrapper_generate_messages_lisp.dir/build
+.PHONY : zed_wrapper_generate_messages_lisp/fast
+
+#=============================================================================
+# Target rules for targets named zed_wrapper_geneus
+
+# Build rule for target.
+zed_wrapper_geneus: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 zed_wrapper_geneus
+.PHONY : zed_wrapper_geneus
+
+# fast build rule for target.
+zed_wrapper_geneus/fast:
+	$(MAKE) -f CMakeFiles/zed_wrapper_geneus.dir/build.make CMakeFiles/zed_wrapper_geneus.dir/build
+.PHONY : zed_wrapper_geneus/fast
 
 #=============================================================================
 # Target rules for targets named dynamic_reconfigure_generate_messages_cpp
@@ -571,19 +636,6 @@ tf2_msgs_generate_messages_eus/fast:
 .PHONY : tf2_msgs_generate_messages_eus/fast
 
 #=============================================================================
-# Target rules for targets named zed_wrapper_geneus
-
-# Build rule for target.
-zed_wrapper_geneus: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 zed_wrapper_geneus
-.PHONY : zed_wrapper_geneus
-
-# fast build rule for target.
-zed_wrapper_geneus/fast:
-	$(MAKE) -f CMakeFiles/zed_wrapper_geneus.dir/build.make CMakeFiles/zed_wrapper_geneus.dir/build
-.PHONY : zed_wrapper_geneus/fast
-
-#=============================================================================
 # Target rules for targets named stereo_msgs_generate_messages_cpp
 
 # Build rule for target.
@@ -714,19 +766,6 @@ roscpp_generate_messages_py/fast:
 .PHONY : roscpp_generate_messages_py/fast
 
 #=============================================================================
-# Target rules for targets named zed_wrapper_genlisp
-
-# Build rule for target.
-zed_wrapper_genlisp: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 zed_wrapper_genlisp
-.PHONY : zed_wrapper_genlisp
-
-# fast build rule for target.
-zed_wrapper_genlisp/fast:
-	$(MAKE) -f CMakeFiles/zed_wrapper_genlisp.dir/build.make CMakeFiles/zed_wrapper_genlisp.dir/build
-.PHONY : zed_wrapper_genlisp/fast
-
-#=============================================================================
 # Target rules for targets named rosgraph_msgs_generate_messages_eus
 
 # Build rule for target.
@@ -792,6 +831,19 @@ dynamic_reconfigure_generate_messages_eus/fast:
 .PHONY : dynamic_reconfigure_generate_messages_eus/fast
 
 #=============================================================================
+# Target rules for targets named diagnostic_msgs_generate_messages_lisp
+
+# Build rule for target.
+diagnostic_msgs_generate_messages_lisp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 diagnostic_msgs_generate_messages_lisp
+.PHONY : diagnostic_msgs_generate_messages_lisp
+
+# fast build rule for target.
+diagnostic_msgs_generate_messages_lisp/fast:
+	$(MAKE) -f CMakeFiles/diagnostic_msgs_generate_messages_lisp.dir/build.make CMakeFiles/diagnostic_msgs_generate_messages_lisp.dir/build
+.PHONY : diagnostic_msgs_generate_messages_lisp/fast
+
+#=============================================================================
 # Target rules for targets named dynamic_reconfigure_generate_messages_lisp
 
 # Build rule for target.
@@ -831,17 +883,17 @@ dynamic_reconfigure_generate_messages_py/fast:
 .PHONY : dynamic_reconfigure_generate_messages_py/fast
 
 #=============================================================================
-# Target rules for targets named actionlib_generate_messages_eus
+# Target rules for targets named diagnostic_msgs_generate_messages_nodejs
 
 # Build rule for target.
-actionlib_generate_messages_eus: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 actionlib_generate_messages_eus
-.PHONY : actionlib_generate_messages_eus
+diagnostic_msgs_generate_messages_nodejs: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 diagnostic_msgs_generate_messages_nodejs
+.PHONY : diagnostic_msgs_generate_messages_nodejs
 
 # fast build rule for target.
-actionlib_generate_messages_eus/fast:
-	$(MAKE) -f CMakeFiles/actionlib_generate_messages_eus.dir/build.make CMakeFiles/actionlib_generate_messages_eus.dir/build
-.PHONY : actionlib_generate_messages_eus/fast
+diagnostic_msgs_generate_messages_nodejs/fast:
+	$(MAKE) -f CMakeFiles/diagnostic_msgs_generate_messages_nodejs.dir/build.make CMakeFiles/diagnostic_msgs_generate_messages_nodejs.dir/build
+.PHONY : diagnostic_msgs_generate_messages_nodejs/fast
 
 #=============================================================================
 # Target rules for targets named geometry_msgs_generate_messages_cpp
@@ -1000,6 +1052,32 @@ actionlib_msgs_generate_messages_lisp/fast:
 .PHONY : actionlib_msgs_generate_messages_lisp/fast
 
 #=============================================================================
+# Target rules for targets named actionlib_generate_messages_eus
+
+# Build rule for target.
+actionlib_generate_messages_eus: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 actionlib_generate_messages_eus
+.PHONY : actionlib_generate_messages_eus
+
+# fast build rule for target.
+actionlib_generate_messages_eus/fast:
+	$(MAKE) -f CMakeFiles/actionlib_generate_messages_eus.dir/build.make CMakeFiles/actionlib_generate_messages_eus.dir/build
+.PHONY : actionlib_generate_messages_eus/fast
+
+#=============================================================================
+# Target rules for targets named diagnostic_msgs_generate_messages_cpp
+
+# Build rule for target.
+diagnostic_msgs_generate_messages_cpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 diagnostic_msgs_generate_messages_cpp
+.PHONY : diagnostic_msgs_generate_messages_cpp
+
+# fast build rule for target.
+diagnostic_msgs_generate_messages_cpp/fast:
+	$(MAKE) -f CMakeFiles/diagnostic_msgs_generate_messages_cpp.dir/build.make CMakeFiles/diagnostic_msgs_generate_messages_cpp.dir/build
+.PHONY : diagnostic_msgs_generate_messages_cpp/fast
+
+#=============================================================================
 # Target rules for targets named actionlib_msgs_generate_messages_py
 
 # Build rule for target.
@@ -1130,6 +1208,19 @@ nodelet_generate_messages_eus/fast:
 .PHONY : nodelet_generate_messages_eus/fast
 
 #=============================================================================
+# Target rules for targets named diagnostic_msgs_generate_messages_py
+
+# Build rule for target.
+diagnostic_msgs_generate_messages_py: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 diagnostic_msgs_generate_messages_py
+.PHONY : diagnostic_msgs_generate_messages_py
+
+# fast build rule for target.
+diagnostic_msgs_generate_messages_py/fast:
+	$(MAKE) -f CMakeFiles/diagnostic_msgs_generate_messages_py.dir/build.make CMakeFiles/diagnostic_msgs_generate_messages_py.dir/build
+.PHONY : diagnostic_msgs_generate_messages_py/fast
+
+#=============================================================================
 # Target rules for targets named nodelet_generate_messages_nodejs
 
 # Build rule for target.
@@ -1182,6 +1273,19 @@ bond_generate_messages_nodejs/fast:
 .PHONY : bond_generate_messages_nodejs/fast
 
 #=============================================================================
+# Target rules for targets named diagnostic_msgs_generate_messages_eus
+
+# Build rule for target.
+diagnostic_msgs_generate_messages_eus: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 diagnostic_msgs_generate_messages_eus
+.PHONY : diagnostic_msgs_generate_messages_eus
+
+# fast build rule for target.
+diagnostic_msgs_generate_messages_eus/fast:
+	$(MAKE) -f CMakeFiles/diagnostic_msgs_generate_messages_eus.dir/build.make CMakeFiles/diagnostic_msgs_generate_messages_eus.dir/build
+.PHONY : diagnostic_msgs_generate_messages_eus/fast
+
+#=============================================================================
 # Target rules for targets named std_msgs_generate_messages_py
 
 # Build rule for target.
@@ -1219,45 +1323,6 @@ zed_wrapper_generate_messages_cpp: cmake_check_build_system
 zed_wrapper_generate_messages_cpp/fast:
 	$(MAKE) -f CMakeFiles/zed_wrapper_generate_messages_cpp.dir/build.make CMakeFiles/zed_wrapper_generate_messages_cpp.dir/build
 .PHONY : zed_wrapper_generate_messages_cpp/fast
-
-#=============================================================================
-# Target rules for targets named zed_wrapper_generate_messages_lisp
-
-# Build rule for target.
-zed_wrapper_generate_messages_lisp: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 zed_wrapper_generate_messages_lisp
-.PHONY : zed_wrapper_generate_messages_lisp
-
-# fast build rule for target.
-zed_wrapper_generate_messages_lisp/fast:
-	$(MAKE) -f CMakeFiles/zed_wrapper_generate_messages_lisp.dir/build.make CMakeFiles/zed_wrapper_generate_messages_lisp.dir/build
-.PHONY : zed_wrapper_generate_messages_lisp/fast
-
-#=============================================================================
-# Target rules for targets named zed_wrapper_generate_messages_nodejs
-
-# Build rule for target.
-zed_wrapper_generate_messages_nodejs: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 zed_wrapper_generate_messages_nodejs
-.PHONY : zed_wrapper_generate_messages_nodejs
-
-# fast build rule for target.
-zed_wrapper_generate_messages_nodejs/fast:
-	$(MAKE) -f CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/build.make CMakeFiles/zed_wrapper_generate_messages_nodejs.dir/build
-.PHONY : zed_wrapper_generate_messages_nodejs/fast
-
-#=============================================================================
-# Target rules for targets named zed_wrapper_gennodejs
-
-# Build rule for target.
-zed_wrapper_gennodejs: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 zed_wrapper_gennodejs
-.PHONY : zed_wrapper_gennodejs
-
-# fast build rule for target.
-zed_wrapper_gennodejs/fast:
-	$(MAKE) -f CMakeFiles/zed_wrapper_gennodejs.dir/build.make CMakeFiles/zed_wrapper_gennodejs.dir/build
-.PHONY : zed_wrapper_gennodejs/fast
 
 #=============================================================================
 # Target rules for targets named gmock_main
@@ -1399,12 +1464,17 @@ help:
 	@echo "... clean"
 	@echo "... depend"
 	@echo "... install/local"
-	@echo "... install"
 	@echo "... list_install_components"
 	@echo "... ZEDWrapper"
 	@echo "... zed_wrapper_gencfg"
 	@echo "... zed_wrapper_genpy"
 	@echo "... zed_wrapper_generate_messages_py"
+	@echo "... zed_wrapper_gennodejs"
+	@echo "... zed_wrapper_generate_messages_nodejs"
+	@echo "... zed_wrapper_genlisp"
+	@echo "... zed_wrapper_generate_messages_lisp"
+	@echo "... test"
+	@echo "... zed_wrapper_geneus"
 	@echo "... dynamic_reconfigure_generate_messages_cpp"
 	@echo "... rosgraph_msgs_generate_messages_cpp"
 	@echo "... stereo_msgs_generate_messages_lisp"
@@ -1433,8 +1503,6 @@ help:
 	@echo "... download_extra_data"
 	@echo "... stereo_msgs_generate_messages_py"
 	@echo "... tf2_msgs_generate_messages_eus"
-	@echo "... test"
-	@echo "... zed_wrapper_geneus"
 	@echo "... stereo_msgs_generate_messages_cpp"
 	@echo "... geometry_msgs_generate_messages_nodejs"
 	@echo "... tests"
@@ -1445,17 +1513,18 @@ help:
 	@echo "... roscpp_generate_messages_nodejs"
 	@echo "... geometry_msgs_generate_messages_eus"
 	@echo "... roscpp_generate_messages_py"
-	@echo "... zed_wrapper_genlisp"
 	@echo "... rosgraph_msgs_generate_messages_eus"
 	@echo "... rosgraph_msgs_generate_messages_lisp"
 	@echo "... edit_cache"
 	@echo "... std_msgs_generate_messages_eus"
 	@echo "... rosgraph_msgs_generate_messages_nodejs"
 	@echo "... dynamic_reconfigure_generate_messages_eus"
+	@echo "... install"
+	@echo "... diagnostic_msgs_generate_messages_lisp"
 	@echo "... dynamic_reconfigure_generate_messages_lisp"
 	@echo "... dynamic_reconfigure_generate_messages_nodejs"
 	@echo "... dynamic_reconfigure_generate_messages_py"
-	@echo "... actionlib_generate_messages_eus"
+	@echo "... diagnostic_msgs_generate_messages_nodejs"
 	@echo "... geometry_msgs_generate_messages_cpp"
 	@echo "... actionlib_generate_messages_lisp"
 	@echo "... nodelet_generate_messages_cpp"
@@ -1468,6 +1537,8 @@ help:
 	@echo "... nodelet_generate_messages_lisp"
 	@echo "... _zed_wrapper_generate_messages_check_deps_set_initial_pose"
 	@echo "... actionlib_msgs_generate_messages_lisp"
+	@echo "... actionlib_generate_messages_eus"
+	@echo "... diagnostic_msgs_generate_messages_cpp"
 	@echo "... actionlib_msgs_generate_messages_py"
 	@echo "... tf2_msgs_generate_messages_cpp"
 	@echo "... dynamic_reconfigure_gencfg"
@@ -1478,17 +1549,16 @@ help:
 	@echo "... tf2_msgs_generate_messages_nodejs"
 	@echo "... zed_wrapper_gencpp"
 	@echo "... nodelet_generate_messages_eus"
+	@echo "... diagnostic_msgs_generate_messages_py"
 	@echo "... nodelet_generate_messages_nodejs"
 	@echo "... bond_generate_messages_cpp"
 	@echo "... zed_wrapper_generate_messages"
 	@echo "... bond_generate_messages_nodejs"
+	@echo "... diagnostic_msgs_generate_messages_eus"
 	@echo "... std_msgs_generate_messages_py"
 	@echo "... _zed_wrapper_generate_messages_check_deps_reset_tracking"
 	@echo "... install/strip"
 	@echo "... zed_wrapper_generate_messages_cpp"
-	@echo "... zed_wrapper_generate_messages_lisp"
-	@echo "... zed_wrapper_generate_messages_nodejs"
-	@echo "... zed_wrapper_gennodejs"
 	@echo "... gmock_main"
 	@echo "... gmock"
 	@echo "... gtest_main"
